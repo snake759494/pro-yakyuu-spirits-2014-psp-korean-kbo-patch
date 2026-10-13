@@ -1,0 +1,16 @@
+/work/
+/build/
+*.iso
+*.cso
+*.CHK
+*.xdelta
+*.zip
+*.exe
+*.dll
+*.ttf
+*.otf
+*.onnx
+*.png
+*.jpg
+__pycache__/
+*.pyc

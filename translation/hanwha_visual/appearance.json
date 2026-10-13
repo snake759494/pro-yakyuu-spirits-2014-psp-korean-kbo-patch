@@ -1,0 +1,3610 @@
+[
+  {
+    "index": 21,
+    "name": "박상원",
+    "height": 187,
+    "weight": 98,
+    "english": "PARK Sang Won",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=406&pcode=67703",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19667",
+    "photo": "translation/hanwha_visual/player_21.png",
+    "photo_sha256": "b2731735b24c35984a05f24233e083fed6c67fb82824b4edb6b524d81fe32bba",
+    "face_photo": "translation/hanwha_visual/face_21.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67703.jpg",
+    "face_photo_sha256": "b9c398e843399a2a81363a6b4691184f446bcec0fa38416fde72b950c2701c48",
+    "face_box": [
+      27,
+      29,
+      41,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.35944366455078,
+        46.0352783203125
+      ],
+      [
+        55.900794982910156,
+        45.49692153930664
+      ],
+      [
+        47.179847717285156,
+        54.49132537841797
+      ],
+      [
+        40.17948532104492,
+        63.51998519897461
+      ],
+      [
+        56.46599578857422,
+        64.8642807006836
+      ]
+    ],
+    "back_name": "PARK S.W.",
+    "body_type": 14,
+    "face_id": 187,
+    "original_body_type": 9,
+    "face_file": "F187.CHK",
+    "player_id": "67703",
+    "number": "58",
+    "birth": "1994-09-09",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 32,
+    "name": "심우준",
+    "height": 183,
+    "weight": 75,
+    "english": "SIM Woo Jun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=912&pcode=64006",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19676",
+    "photo": "translation/hanwha_visual/player_32.png",
+    "photo_sha256": "382218686d9bbc2aa160d1f45518f553ca0235e46fff5828572706435c4d6b3a",
+    "face_photo": "translation/hanwha_visual/face_32.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64006.jpg",
+    "face_photo_sha256": "9f6dc4780b1a4598fdcf69a04b69f422df7cc02ac782ee65d5c344ce4ed63e91",
+    "face_box": [
+      24,
+      28,
+      43,
+      53
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.62358856201172,
+        46.3501091003418
+      ],
+      [
+        57.169105529785156,
+        46.12664794921875
+      ],
+      [
+        48.1102294921875,
+        56.17351531982422
+      ],
+      [
+        39.21995544433594,
+        65.57012939453125
+      ],
+      [
+        56.16123962402344,
+        65.6236801147461
+      ]
+    ],
+    "back_name": "SIM W.J.",
+    "body_type": 0,
+    "face_id": 283,
+    "original_body_type": 10,
+    "face_file": "F283.CHK",
+    "player_id": "64006",
+    "number": "7",
+    "birth": "1995-04-28",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 51,
+    "name": "주현상",
+    "height": 177,
+    "weight": 92,
+    "english": "JOO Hyun Sang",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=336&pcode=65707",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19649",
+    "photo": "translation/hanwha_visual/player_51.png",
+    "photo_sha256": "65e30d3843987d07cff78f9348699e2ce56eedea54e0a12c408966231a2fbbb3",
+    "face_photo": "translation/hanwha_visual/face_51.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65707.jpg",
+    "face_photo_sha256": "a8a2963aaf5561e7853089c1b6fe678364722bc422d7157693074dcf392788d1",
+    "face_box": [
+      25,
+      25,
+      44,
+      55
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.28787612915039,
+        44.95744323730469
+      ],
+      [
+        57.47087097167969,
+        44.653770446777344
+      ],
+      [
+        48.28640365600586,
+        54.93700408935547
+      ],
+      [
+        39.42408752441406,
+        63.76719665527344
+      ],
+      [
+        56.54064178466797,
+        64.2288818359375
+      ]
+    ],
+    "back_name": "JOO H.S.",
+    "body_type": 10,
+    "face_id": 412,
+    "original_body_type": 10,
+    "face_file": "F412.CHK",
+    "player_id": "65707",
+    "number": "66",
+    "birth": "1992-08-10",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 72,
+    "name": "황준서",
+    "height": 185,
+    "weight": 78,
+    "english": "HWANG Jun Seo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=839&pcode=54729",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19476",
+    "photo": "translation/hanwha_visual/player_72.png",
+    "photo_sha256": "fe87f133046d69d98ac0e7ad46b6bc8f4b878782fd378284aae9d84904675194",
+    "face_photo": "translation/hanwha_visual/face_72.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54729.jpg",
+    "face_photo_sha256": "77093c13e166783e5088434e621ebb2ff2eaae83b50f0f763c307199d1701ac4",
+    "face_box": [
+      26,
+      31,
+      40,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.09567642211914,
+        45.7928466796875
+      ],
+      [
+        56.58100128173828,
+        45.4536247253418
+      ],
+      [
+        46.363983154296875,
+        54.59366226196289
+      ],
+      [
+        38.4438591003418,
+        63.954402923583984
+      ],
+      [
+        55.35633850097656,
+        64.33452606201172
+      ]
+    ],
+    "back_name": "HWANG J.S.",
+    "body_type": 0,
+    "face_id": 514,
+    "original_body_type": 4,
+    "face_file": "F514.CHK",
+    "player_id": "54729",
+    "number": "29",
+    "birth": "2005-08-22",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 98,
+    "name": "김우석",
+    "height": 181,
+    "weight": 79,
+    "english": "KIM WOOSEOK",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CS/PLCS02.do?id=822",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19562",
+    "photo": "translation/hanwha_visual/player_98.png",
+    "photo_sha256": "b01f864b09d4c91844b04a5966ca96b137dde3f3a2a92f2c9e5c87b3d9b243a5",
+    "face_box": [
+      213,
+      110,
+      158,
+      201
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        265.94439697265625,
+        180.63494873046875
+      ],
+      [
+        337.957763671875,
+        176.78573608398438
+      ],
+      [
+        312.09649658203125,
+        223.46090698242188
+      ],
+      [
+        276.0585632324219,
+        255.60174560546875
+      ],
+      [
+        338.8112487792969,
+        251.72317504882812
+      ]
+    ],
+    "back_name": "KIM W.",
+    "body_type": 0,
+    "face_id": 746,
+    "original_body_type": 4,
+    "face_file": "F746.CHK"
+  },
+  {
+    "index": 107,
+    "name": "김경문",
+    "height": 178,
+    "weight": 80,
+    "english": "KIM KYUNGMOON",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CS/PLCS02.do?id=862",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19670",
+    "photo": "translation/hanwha_visual/player_107.png",
+    "photo_sha256": "e375b4e15258084ade92203232b8d101d953ea17460d56195a40d081f9315c6f",
+    "face_box": [
+      200,
+      129,
+      175,
+      217
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        252.4779052734375,
+        199.05831909179688
+      ],
+      [
+        335.2071533203125,
+        197.5856475830078
+      ],
+      [
+        298.9182434082031,
+        247.79193115234375
+      ],
+      [
+        260.8983154296875,
+        284.159423828125
+      ],
+      [
+        333.6402282714844,
+        281.3790283203125
+      ]
+    ],
+    "back_name": "KIM K.",
+    "body_type": 6,
+    "face_id": 784,
+    "original_body_type": 4,
+    "face_file": "F784.CHK"
+  },
+  {
+    "index": 108,
+    "name": "양상문",
+    "height": 174,
+    "weight": 79,
+    "english": "YANG SANG MOON ",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CS/PLCS02.do?id=884",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19556",
+    "photo": "translation/hanwha_visual/player_108.png",
+    "photo_sha256": "f7628dcc8f136304d7a59597730be49264e4781daa16f727d2f4922279827f63",
+    "face_box": [
+      207,
+      122,
+      157,
+      193
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        251.95265197753906,
+        183.72311401367188
+      ],
+      [
+        326.62725830078125,
+        185.85536193847656
+      ],
+      [
+        288.7717590332031,
+        228.7225341796875
+      ],
+      [
+        253.6026153564453,
+        257.0090637207031
+      ],
+      [
+        319.3353271484375,
+        258.1130065917969
+      ]
+    ],
+    "back_name": "YANG S.M.",
+    "body_type": 6,
+    "face_id": 785,
+    "original_body_type": 10,
+    "face_file": "F785.CHK"
+  },
+  {
+    "index": 134,
+    "name": "김민호",
+    "height": 183,
+    "weight": 82,
+    "english": "KIM MIN HO",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CS/PLCS02.do?id=923",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19558",
+    "photo": "translation/hanwha_visual/player_134.png",
+    "photo_sha256": "91781dfa3d3ee5d99f3e639f500834f3913465e92bf7be45f74242eccffc27f9",
+    "face_box": [
+      218,
+      120,
+      164,
+      200
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        276.07916259765625,
+        185.36257934570312
+      ],
+      [
+        351.34100341796875,
+        189.93649291992188
+      ],
+      [
+        320.55084228515625,
+        235.83419799804688
+      ],
+      [
+        278.206787109375,
+        262.48980712890625
+      ],
+      [
+        341.67816162109375,
+        266.7065124511719
+      ]
+    ],
+    "back_name": "KIM M.H.",
+    "body_type": 0,
+    "face_id": 962,
+    "original_body_type": 4,
+    "face_file": "F962.CHK"
+  },
+  {
+    "index": 136,
+    "name": "황영묵",
+    "height": 177,
+    "weight": 80,
+    "english": "HWANG Young Mook",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=837&pcode=54795",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19509",
+    "photo": "translation/hanwha_visual/player_136.png",
+    "photo_sha256": "db79faf17c46e250af12f34ea3e6a986d200ee8500302b63c78c963f74283c42",
+    "face_photo": "translation/hanwha_visual/face_136.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54795.jpg",
+    "face_photo_sha256": "ceb217579eb57d6ec66d7b4de8120df1017bfd54d63b24dd74d21637ae58006f",
+    "face_box": [
+      27,
+      30,
+      38,
+      48
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.573734283447266,
+        47.03791809082031
+      ],
+      [
+        56.507972717285156,
+        46.64944076538086
+      ],
+      [
+        47.50768280029297,
+        55.96788787841797
+      ],
+      [
+        39.423606872558594,
+        64.37974548339844
+      ],
+      [
+        56.069034576416016,
+        64.76734924316406
+      ]
+    ],
+    "back_name": "HWANG Y.M.",
+    "body_type": 6,
+    "face_id": 989,
+    "original_body_type": 6,
+    "face_file": "F989.CHK",
+    "player_id": "54795",
+    "number": "95",
+    "birth": "1999-10-16",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 137,
+    "name": "추승우",
+    "height": 187,
+    "weight": 74,
+    "english": "CHOO SEUNGWOO",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CS/PLCS02.do?id=112",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19560",
+    "photo": "translation/hanwha_visual/player_137.png",
+    "photo_sha256": "e89abe64d138e4b2603d9ddf781f7e385f0754cce2973ba08632962068727c26",
+    "face_box": [
+      206,
+      114,
+      166,
+      202
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        243.23834228515625,
+        183.20706176757812
+      ],
+      [
+        320.81634521484375,
+        182.39822387695312
+      ],
+      [
+        277.4210510253906,
+        228.681884765625
+      ],
+      [
+        252.0953369140625,
+        263.4051208496094
+      ],
+      [
+        314.7991943359375,
+        261.8410339355469
+      ]
+    ],
+    "back_name": "CHOO S.",
+    "body_type": 0,
+    "face_id": 999,
+    "original_body_type": 4,
+    "face_file": "F999.CHK"
+  },
+  {
+    "index": 144,
+    "name": "장규현",
+    "height": 183,
+    "weight": 96,
+    "english": "CHANG Kyu Hyun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=541&pcode=51762",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19523",
+    "photo": "translation/hanwha_visual/player_144.png",
+    "photo_sha256": "1c3746e0aba5b262a5a30969877a56465f5465b9fab56985fd90aafbc0d0c1ee",
+    "face_photo": "translation/hanwha_visual/face_144.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51762.jpg",
+    "face_photo_sha256": "1f8b0327462f9d4e82edf1333e4d8f72995e85c9dbe61a7d6c6e6e5f98984e14",
+    "face_box": [
+      24,
+      29,
+      42,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.591915130615234,
+        46.54542922973633
+      ],
+      [
+        56.76970291137695,
+        46.44501495361328
+      ],
+      [
+        47.11589813232422,
+        56.1937141418457
+      ],
+      [
+        38.37371826171875,
+        66.23056030273438
+      ],
+      [
+        55.46384811401367,
+        65.75331115722656
+      ]
+    ],
+    "back_name": "CHANG K.H.",
+    "body_type": 10,
+    "face_id": 1050,
+    "original_body_type": 4,
+    "face_file": "F1050.CHK",
+    "player_id": "51762",
+    "number": "32",
+    "birth": "2002-06-28",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 164,
+    "name": "김태연",
+    "height": 178,
+    "weight": 96,
+    "english": "KIM Tae Yean",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=375&pcode=66704",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19680",
+    "photo": "translation/hanwha_visual/player_164.png",
+    "photo_sha256": "4cf5ca1e8f7a7e64277c33ed086de7a008cb41fc6b2a7a9a4e28f667da97c70a",
+    "face_photo": "translation/hanwha_visual/face_164.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66704.jpg",
+    "face_photo_sha256": "b9676bd301816d56162fbb8321c72822d3b2078f37e9263e2aceefad127fc97f",
+    "face_box": [
+      25,
+      30,
+      43,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.080657958984375,
+        47.20983123779297
+      ],
+      [
+        56.618621826171875,
+        46.75676345825195
+      ],
+      [
+        46.827537536621094,
+        56.504905700683594
+      ],
+      [
+        38.680015563964844,
+        66.4524917602539
+      ],
+      [
+        55.76426696777344,
+        65.64681243896484
+      ]
+    ],
+    "back_name": "KIM T.Y.",
+    "body_type": 10,
+    "face_id": 1178,
+    "original_body_type": 4,
+    "face_file": "F1178.CHK",
+    "player_id": "66704",
+    "number": "25",
+    "birth": "1997-06-10",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 219,
+    "name": "짐머맨",
+    "height": 190,
+    "weight": 107,
+    "english": "ZIMMERMANN Bruce",
+    "back_name": "ZIMMERMANN",
+    "face_id": 1455,
+    "face_file": "F1455.CHK",
+    "player_id": "56799",
+    "number": "12",
+    "birth": "1995-02-09",
+    "foreign": true,
+    "hands": "좌투좌타",
+    "skin_type": 3,
+    "skin_reference_head": 4,
+    "photo": "work/identity_audit/photos/56799.png",
+    "photo_sha256": "e9cd1cde22a5cc9dcb9194fa4bec7cec2bee4ad1f0b6c0c2a0f9ee4f09a9eb37",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56799.jpg",
+    "landmarks": [
+      [
+        37.39507293701172,
+        44.86295700073242
+      ],
+      [
+        56.89148712158203,
+        44.45110321044922
+      ],
+      [
+        46.83975601196289,
+        54.052703857421875
+      ],
+      [
+        38.1796875,
+        63.93624496459961
+      ],
+      [
+        56.23017501831055,
+        64.6353759765625
+      ]
+    ],
+    "face_box": [
+      25,
+      30,
+      43,
+      51
+    ],
+    "dedicated_face": true,
+    "body_type": 14
+  },
+  {
+    "index": 240,
+    "name": "하동준",
+    "height": 189,
+    "weight": 80,
+    "english": "HA Dong Jun",
+    "back_name": "HA D.J.",
+    "face_id": 1550,
+    "face_file": "F1550.CHK",
+    "player_id": "56797",
+    "number": "97",
+    "birth": "2007-06-11",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "photo": "work/identity_audit/photos/56797.png",
+    "photo_sha256": "f910c8b557b58c1509801de5bf8860d59a19cd814ff097dde429f99837214614",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56797.jpg",
+    "landmarks": [
+      [
+        36.80364227294922,
+        46.64925765991211
+      ],
+      [
+        55.67008972167969,
+        46.33362579345703
+      ],
+      [
+        47.471038818359375,
+        55.83877944946289
+      ],
+      [
+        39.0090446472168,
+        64.98585510253906
+      ],
+      [
+        55.17498016357422,
+        65.84062957763672
+      ]
+    ],
+    "face_box": [
+      25,
+      30,
+      40,
+      50
+    ],
+    "dedicated_face": true,
+    "body_type": 2
+  },
+  {
+    "index": 241,
+    "name": "채은성",
+    "height": 186,
+    "weight": 92,
+    "english": "CHAE Eun Seong",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=744&pcode=79192",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19677",
+    "photo": "translation/hanwha_visual/player_241.png",
+    "photo_sha256": "dfae08c9ec7c3609d2a37986c8c2450bf266b30d500aab3733f15a46ab8be52f",
+    "face_photo": "translation/hanwha_visual/face_241.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79192.jpg",
+    "face_photo_sha256": "e7e61b88ad345badc8d26b0b195533d9e97819900ff53188e2cd031faa1ee55b",
+    "face_box": [
+      25,
+      31,
+      41,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.968421936035156,
+        47.75517654418945
+      ],
+      [
+        56.422786712646484,
+        47.473777770996094
+      ],
+      [
+        47.141448974609375,
+        56.96798324584961
+      ],
+      [
+        38.345184326171875,
+        65.69380950927734
+      ],
+      [
+        55.301273345947266,
+        65.46310424804688
+      ]
+    ],
+    "back_name": "CHAE E.S.",
+    "body_type": 10,
+    "face_id": 1551,
+    "original_body_type": 12,
+    "face_file": "F1551.CHK",
+    "player_id": "79192",
+    "number": "22",
+    "birth": "1990-02-06",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 242,
+    "name": "문현빈",
+    "height": 174,
+    "weight": 82,
+    "english": "MOON Hyun Bin",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=738&pcode=53764",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19681",
+    "photo": "translation/hanwha_visual/player_242.png",
+    "photo_sha256": "dadfd96e9bb36e06ef53fc9bdfdc67cfe319186520125e6ed20cd15fd773575a",
+    "face_photo": "translation/hanwha_visual/face_242.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53764.jpg",
+    "face_photo_sha256": "47298cc7778c543dcf5c8295bc93b65e0eb5ba0797c30086b67d6242c20da76f",
+    "face_box": [
+      27,
+      29,
+      42,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.833431243896484,
+        46.25836181640625
+      ],
+      [
+        57.97199630737305,
+        46.345069885253906
+      ],
+      [
+        48.423709869384766,
+        55.28874206542969
+      ],
+      [
+        39.57502365112305,
+        64.19943237304688
+      ],
+      [
+        56.190208435058594,
+        63.81343078613281
+      ]
+    ],
+    "back_name": "MOON H.B.",
+    "body_type": 6,
+    "face_id": 1552,
+    "original_body_type": 4,
+    "face_file": "F1552.CHK",
+    "player_id": "53764",
+    "number": "51",
+    "birth": "2004-04-20",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 258,
+    "name": "정우주",
+    "height": 184,
+    "weight": 88,
+    "english": "JEONG Woo Joo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=904&pcode=55743",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19647",
+    "photo": "translation/hanwha_visual/player_258.png",
+    "photo_sha256": "9f94cc3a28871e82467fc26f19b816c02520e0725502e7f03e7c81db360de4b4",
+    "face_photo": "translation/hanwha_visual/face_258.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55743.jpg",
+    "face_photo_sha256": "12082a0b74a5d2c9be193538ba2450c1b2a74d8e7409b07997620a3146069c37",
+    "face_box": [
+      25,
+      26,
+      43,
+      54
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.558570861816406,
+        45.067440032958984
+      ],
+      [
+        58.19200897216797,
+        45.13709259033203
+      ],
+      [
+        48.63645553588867,
+        55.09183120727539
+      ],
+      [
+        39.17053985595703,
+        65.4924545288086
+      ],
+      [
+        55.750755310058594,
+        64.64566040039062
+      ]
+    ],
+    "back_name": "JEONG W.J.",
+    "body_type": 10,
+    "face_id": 1588,
+    "original_body_type": 4,
+    "face_file": "F1588.CHK",
+    "player_id": "55743",
+    "number": "61",
+    "birth": "2006-11-07",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 266,
+    "name": "강재민",
+    "height": 180,
+    "weight": 89,
+    "english": "KANG Jae Min",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=514&pcode=50705",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19666",
+    "photo": "translation/hanwha_visual/player_266.png",
+    "photo_sha256": "e56b3389538aa54a03eb1bd6d6e4b0802f65fb20e16d062ad327f25859604c6f",
+    "face_photo": "translation/hanwha_visual/face_266.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50705.jpg",
+    "face_photo_sha256": "0c77a67c6354defbcc61a4820c89b699821103ecc1bf75592c006874e19fc469",
+    "face_box": [
+      26,
+      28,
+      42,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.069881439208984,
+        45.97482681274414
+      ],
+      [
+        55.78307342529297,
+        45.378326416015625
+      ],
+      [
+        46.457027435302734,
+        55.02745056152344
+      ],
+      [
+        39.23263931274414,
+        63.82834243774414
+      ],
+      [
+        55.98312759399414,
+        64.46694946289062
+      ]
+    ],
+    "back_name": "KANG J.M.",
+    "body_type": 10,
+    "face_id": 1605,
+    "original_body_type": 12,
+    "face_file": "F1605.CHK",
+    "player_id": "50705",
+    "number": "55",
+    "birth": "1997-04-03",
+    "foreign": false,
+    "hands": "우언우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 271,
+    "name": "정은원",
+    "height": 177,
+    "weight": 82,
+    "english": "JUNG Eun Won",
+    "back_name": "JUNG E.W.",
+    "face_id": 1614,
+    "face_file": "F1614.CHK",
+    "player_id": "68743",
+    "number": "43",
+    "birth": "2000-01-17",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "photo": "work/identity_audit/photos/68743.png",
+    "photo_sha256": "ba0d7a41239e2068a3f1e498fd92cdbc3755c9203239b8c40c4283900dbfd9ab",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68743.jpg",
+    "landmarks": [
+      [
+        37.814762115478516,
+        51.69950866699219
+      ],
+      [
+        56.12073516845703,
+        51.15378189086914
+      ],
+      [
+        46.91202926635742,
+        61.356536865234375
+      ],
+      [
+        38.90251922607422,
+        70.10160827636719
+      ],
+      [
+        55.47784423828125,
+        71.05050659179688
+      ]
+    ],
+    "face_box": [
+      26,
+      34,
+      41,
+      51
+    ],
+    "dedicated_face": true,
+    "body_type": 6
+  },
+  {
+    "index": 289,
+    "name": "김도빈",
+    "height": 190,
+    "weight": 95,
+    "english": "KIM Do Been",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=843&pcode=54705",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=18917",
+    "photo": "translation/hanwha_visual/player_289.png",
+    "photo_sha256": "094801b2bfc166d3891948a5189c3f0ebf032dfff1efd9a15cbba3e2d3d45fe1",
+    "face_photo": "translation/hanwha_visual/face_289.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54705.jpg",
+    "face_photo_sha256": "9ed83c7982a1f5cbe59637aba1b35f7a79908b5098cf27521b4b08caa102a249",
+    "face_box": [
+      26,
+      29,
+      41,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.45954895019531,
+        46.18762969970703
+      ],
+      [
+        56.26298904418945,
+        45.71393585205078
+      ],
+      [
+        47.7288818359375,
+        55.26105499267578
+      ],
+      [
+        39.884056091308594,
+        63.765079498291016
+      ],
+      [
+        56.651004791259766,
+        64.50894165039062
+      ]
+    ],
+    "back_name": "KIM D.B.",
+    "body_type": 9,
+    "face_id": 1671,
+    "original_body_type": 10,
+    "face_file": "F1671.CHK",
+    "player_id": "54705",
+    "number": "46",
+    "birth": "2001-01-05",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 309,
+    "name": "원종혁",
+    "height": 184,
+    "weight": 92,
+    "english": "WON Jong Hyeok",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=845&pcode=54702",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19481",
+    "photo": "translation/hanwha_visual/player_309.png",
+    "photo_sha256": "dd40af96fbe78d51623963116b2ff23a44986b8e2480719df5e9b6dc74743741",
+    "face_photo": "translation/hanwha_visual/face_309.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54702.jpg",
+    "face_photo_sha256": "9ca7472606076a6241832e1a601d049d56a445b3d5358832286f6e079efa4e7e",
+    "face_box": [
+      27,
+      30,
+      40,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.27355194091797,
+        45.46446228027344
+      ],
+      [
+        54.92002868652344,
+        45.402305603027344
+      ],
+      [
+        46.025550842285156,
+        54.47361373901367
+      ],
+      [
+        39.613162994384766,
+        63.88254928588867
+      ],
+      [
+        54.85539627075195,
+        64.04202270507812
+      ]
+    ],
+    "back_name": "WON J.H.",
+    "body_type": 10,
+    "face_id": 1713,
+    "original_body_type": 0,
+    "face_file": "F1713.CHK",
+    "player_id": "54702",
+    "number": "48",
+    "birth": "2005-08-27",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 310,
+    "name": "최재훈",
+    "height": 178,
+    "weight": 94,
+    "english": "CHOI Jae Hoon",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=426&pcode=78288",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19675",
+    "photo": "translation/hanwha_visual/player_310.png",
+    "photo_sha256": "38ddce0976f7f4edf40ccb8d4b4eff5ff6e3736e90f9719b0a3aa407831942c3",
+    "face_photo": "translation/hanwha_visual/face_310.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78288.jpg",
+    "face_photo_sha256": "bda8207b5f435c74cb5bb739c2cdfe82a287dcdea1b709f8fdb34f3fad3b07e8",
+    "face_box": [
+      28,
+      29,
+      41,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        40.18535232543945,
+        46.705055236816406
+      ],
+      [
+        57.50892639160156,
+        46.87096405029297
+      ],
+      [
+        48.78595733642578,
+        55.93220901489258
+      ],
+      [
+        40.935081481933594,
+        64.38911437988281
+      ],
+      [
+        56.337440490722656,
+        65.45476531982422
+      ]
+    ],
+    "back_name": "CHOI J.H.",
+    "body_type": 10,
+    "face_id": 1714,
+    "original_body_type": 4,
+    "face_file": "F1714.CHK",
+    "player_id": "78288",
+    "number": "13",
+    "birth": "1989-08-27",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 318,
+    "name": "김종수",
+    "height": 180,
+    "weight": 88,
+    "english": "KIM Jong Soo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=240&pcode=63765",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19639",
+    "photo": "translation/hanwha_visual/player_318.png",
+    "photo_sha256": "f73a623099d2bcd1649ef1db087391106d0546f294632ffa629ee09476e1f707",
+    "face_photo": "translation/hanwha_visual/face_318.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/63765.jpg",
+    "face_photo_sha256": "d853c760dc37a19757d2a60e4f9e93e59671f1d62c7eee8d16f72dd63779c281",
+    "face_box": [
+      25,
+      26,
+      43,
+      54
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.70258712768555,
+        46.35609436035156
+      ],
+      [
+        55.43428039550781,
+        46.00236892700195
+      ],
+      [
+        46.08074951171875,
+        56.1642951965332
+      ],
+      [
+        39.313411712646484,
+        64.76972961425781
+      ],
+      [
+        55.10069274902344,
+        65.28887939453125
+      ]
+    ],
+    "back_name": "KIM J.S.",
+    "body_type": 10,
+    "face_id": 1723,
+    "original_body_type": 4,
+    "face_file": "F1723.CHK",
+    "player_id": "63765",
+    "number": "38",
+    "birth": "1994-06-03",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 329,
+    "name": "윤산흠",
+    "height": 178,
+    "weight": 74,
+    "english": "YUN San Heum",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=557&pcode=69213",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19585",
+    "photo": "translation/hanwha_visual/player_329.png",
+    "photo_sha256": "12f8ff36919506a23bb95ac0115a55cff644da255171c9cb73d82f9dec781908",
+    "face_photo": "translation/hanwha_visual/face_329.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69213.jpg",
+    "face_photo_sha256": "c37946aa9684d347882232239fb2a7ac070f65455798a791341a74f6a42c0d13",
+    "face_box": [
+      27,
+      30,
+      40,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.881561279296875,
+        46.847137451171875
+      ],
+      [
+        56.131080627441406,
+        46.51547622680664
+      ],
+      [
+        46.82244110107422,
+        55.960445404052734
+      ],
+      [
+        39.937095642089844,
+        64.36648559570312
+      ],
+      [
+        56.02423095703125,
+        64.83948516845703
+      ]
+    ],
+    "back_name": "YUN S.H.",
+    "body_type": 0,
+    "face_id": 1744,
+    "original_body_type": 4,
+    "face_file": "F1744.CHK",
+    "player_id": "69213",
+    "number": "49",
+    "birth": "1999-05-15",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 335,
+    "name": "이도윤",
+    "height": 175,
+    "weight": 79,
+    "english": "LEE Do Yun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=332&pcode=65703",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19580",
+    "photo": "translation/hanwha_visual/player_335.png",
+    "photo_sha256": "23bbe55f151f50e2e9e51273a2fadcef1200f36b1ffbcb8c28e166b3b4901af6",
+    "face_photo": "translation/hanwha_visual/face_335.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65703.jpg",
+    "face_photo_sha256": "7e52c0b20c9f9d10517544eb6705a5aa2f549392859fe176e03591da1bbc7939",
+    "face_box": [
+      25,
+      30,
+      42,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.21376419067383,
+        46.04412841796875
+      ],
+      [
+        57.28852462768555,
+        45.9997444152832
+      ],
+      [
+        47.08451461791992,
+        55.47684860229492
+      ],
+      [
+        38.31953430175781,
+        65.49761199951172
+      ],
+      [
+        55.59058380126953,
+        65.35745239257812
+      ]
+    ],
+    "back_name": "LEE D.Y.",
+    "body_type": 6,
+    "face_id": 1754,
+    "original_body_type": 6,
+    "face_file": "F1754.CHK",
+    "player_id": "65703",
+    "number": "5",
+    "birth": "1996-10-07",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 357,
+    "name": "박준영(03)",
+    "height": 190,
+    "weight": 103,
+    "english": "PARK Jun Yeong",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=589&pcode=52731",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19497",
+    "photo": "translation/hanwha_visual/player_357.png",
+    "photo_sha256": "a527ed74bbfb6d0fdddb80d2a2877e368c76626f97155643f43c8faa758ea258",
+    "face_photo": "translation/hanwha_visual/face_357.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52731.jpg",
+    "face_photo_sha256": "a85ed833ffec4d19ae4d5f1ced676c65baa0137c6eb2c4ea87e27c58c52e7a15",
+    "face_box": [
+      25,
+      29,
+      43,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.68571472167969,
+        45.49493408203125
+      ],
+      [
+        56.43772888183594,
+        44.82904052734375
+      ],
+      [
+        46.97731018066406,
+        54.703060150146484
+      ],
+      [
+        38.85514450073242,
+        64.07691192626953
+      ],
+      [
+        56.333675384521484,
+        64.1504135131836
+      ]
+    ],
+    "back_name": "PARK J.Y.",
+    "body_type": 14,
+    "face_id": 1844,
+    "original_body_type": 4,
+    "face_file": "F1844.CHK",
+    "player_id": "52731",
+    "number": "96",
+    "birth": "2003-03-02",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 385,
+    "name": "조동욱",
+    "height": 190,
+    "weight": 82,
+    "english": "CHO Dong Uk",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=842&pcode=54768",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19648",
+    "photo": "translation/hanwha_visual/player_385.png",
+    "photo_sha256": "71f39b77cf3f9c21f95a65a9ea9d0b0425038d9c38ce3594edc41e36f3578f65",
+    "face_photo": "translation/hanwha_visual/face_385.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54768.jpg",
+    "face_photo_sha256": "b64bea44c86bbbcdf248ac3545b2c40174143955be1944faccd37f8811baa1b7",
+    "face_box": [
+      26,
+      28,
+      43,
+      53
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        40.221405029296875,
+        44.867252349853516
+      ],
+      [
+        58.61198425292969,
+        45.08142852783203
+      ],
+      [
+        49.45111846923828,
+        54.08379364013672
+      ],
+      [
+        39.448429107666016,
+        64.51058197021484
+      ],
+      [
+        55.68156051635742,
+        65.2261734008789
+      ]
+    ],
+    "back_name": "CHO D.U.",
+    "body_type": 2,
+    "face_id": 1934,
+    "original_body_type": 6,
+    "face_file": "F1934.CHK",
+    "player_id": "54768",
+    "number": "57",
+    "birth": "2004-11-02",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 386,
+    "name": "허인서",
+    "height": 182,
+    "weight": 93,
+    "english": "HEO In Seo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=590&pcode=52764",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19525",
+    "photo": "translation/hanwha_visual/player_386.png",
+    "photo_sha256": "e75eed36043871e4f078c7a064c73289a4f0a1e183fe48bd63a4f999f69d7c15",
+    "face_photo": "translation/hanwha_visual/face_386.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52764.jpg",
+    "face_photo_sha256": "8054daaa694603b339ee73c0d4c11de222a208629f6087addaf6968daa212652",
+    "face_box": [
+      26,
+      29,
+      43,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.30240249633789,
+        45.16848373413086
+      ],
+      [
+        57.714012145996094,
+        44.915260314941406
+      ],
+      [
+        48.144554138183594,
+        54.37110137939453
+      ],
+      [
+        39.51155090332031,
+        64.56399536132812
+      ],
+      [
+        56.745521545410156,
+        65.04695892333984
+      ]
+    ],
+    "back_name": "HEO I.S.",
+    "body_type": 10,
+    "face_id": 1935,
+    "original_body_type": 4,
+    "face_file": "F1935.CHK",
+    "player_id": "52764",
+    "number": "59",
+    "birth": "2003-07-11",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 387,
+    "name": "오재원",
+    "height": 176,
+    "weight": 75,
+    "english": "OH Jae Won",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=958&pcode=56754",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19587",
+    "photo": "translation/hanwha_visual/player_387.png",
+    "photo_sha256": "41bfda75fd12f8a6bf5ca30598696f66cd4a7053d173f8f2a01b1d794c5d0988",
+    "face_photo": "translation/hanwha_visual/face_387.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56754.jpg",
+    "face_photo_sha256": "68229a31c6382afb3b990e8bc4792f1f67e22cad150e032ad0be587a909e8637",
+    "face_box": [
+      24,
+      27,
+      42,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.177486419677734,
+        44.83257293701172
+      ],
+      [
+        57.08307647705078,
+        44.59831619262695
+      ],
+      [
+        48.5076904296875,
+        54.56583786010742
+      ],
+      [
+        38.960609436035156,
+        62.154762268066406
+      ],
+      [
+        56.77692413330078,
+        64.10166931152344
+      ]
+    ],
+    "back_name": "OH J.W.",
+    "body_type": 1,
+    "face_id": 1936,
+    "original_body_type": 0,
+    "face_file": "F1936.CHK",
+    "player_id": "56754",
+    "number": "54",
+    "birth": "2007-01-21",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 398,
+    "name": "류현진",
+    "height": 190,
+    "weight": 113,
+    "english": "RYU Hyun Jin",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=2&pcode=76715",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19668",
+    "photo": "translation/hanwha_visual/player_398.png",
+    "photo_sha256": "5b643f6e556150aebd2bfca1459e2ab6f22aa9f0df66aa447e51e77841c88614",
+    "face_photo": "translation/hanwha_visual/face_398.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76715.jpg",
+    "face_photo_sha256": "62b799eaa5fd2de0e99b2c232da419b4cc0afdc8c55a1133f7e642b03b12487b",
+    "face_box": [
+      26,
+      25,
+      43,
+      54
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.050872802734375,
+        46.247867584228516
+      ],
+      [
+        55.93690872192383,
+        45.8421745300293
+      ],
+      [
+        46.10036849975586,
+        56.192386627197266
+      ],
+      [
+        39.349571228027344,
+        63.86860275268555
+      ],
+      [
+        55.7972526550293,
+        64.81588745117188
+      ]
+    ],
+    "back_name": "RYU H.J.",
+    "body_type": 14,
+    "face_id": 2010,
+    "original_body_type": 9,
+    "face_file": "F2010.CHK",
+    "player_id": "76715",
+    "number": "99",
+    "birth": "1987-03-25",
+    "foreign": false,
+    "hands": "좌투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 431,
+    "name": "이상규",
+    "height": 185,
+    "weight": 77,
+    "english": "LEE Sang Kyu",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=838&pcode=65117",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19473",
+    "photo": "translation/hanwha_visual/player_431.png",
+    "photo_sha256": "1e856f3e6a2de007d63fef08367d765d70c0eedf84b2e408bb63223192a4fe38",
+    "face_photo": "translation/hanwha_visual/face_431.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65117.jpg",
+    "face_photo_sha256": "f33099cd21d99f1a6cab7c80cbd29e50f6df51ae3769de72d1da7551b4428275",
+    "face_box": [
+      26,
+      26,
+      39,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.7995491027832,
+        44.73663330078125
+      ],
+      [
+        54.4620246887207,
+        44.48058319091797
+      ],
+      [
+        46.30416488647461,
+        54.256431579589844
+      ],
+      [
+        39.19917297363281,
+        61.85084533691406
+      ],
+      [
+        54.830787658691406,
+        63.211158752441406
+      ]
+    ],
+    "back_name": "LEE S.K.",
+    "body_type": 0,
+    "face_id": 2523,
+    "original_body_type": 4,
+    "face_file": "F2523.CHK",
+    "player_id": "65117",
+    "number": "18",
+    "birth": "1996-10-20",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 439,
+    "name": "이민우",
+    "height": 185,
+    "weight": 104,
+    "english": "LEE Min Woo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=622&pcode=65616",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19474",
+    "photo": "translation/hanwha_visual/player_439.png",
+    "photo_sha256": "e280cf04575e1986bad94dc1c47d4997db3286f87a4c93f785a4a9a30f6d7f46",
+    "face_photo": "translation/hanwha_visual/face_439.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65616.jpg",
+    "face_photo_sha256": "5cdfd4d4eb80b1e55e09cc3712055675b8c69be1c0b6e314d4e34366224eafc8",
+    "face_box": [
+      25,
+      28,
+      42,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.562355041503906,
+        45.37350082397461
+      ],
+      [
+        56.587120056152344,
+        45.055118560791016
+      ],
+      [
+        47.473609924316406,
+        54.763092041015625
+      ],
+      [
+        38.92715072631836,
+        63.47178268432617
+      ],
+      [
+        56.1240119934082,
+        64.35964965820312
+      ]
+    ],
+    "back_name": "LEE M.W.",
+    "body_type": 14,
+    "face_id": 2541,
+    "original_body_type": 14,
+    "face_file": "F2541.CHK",
+    "player_id": "65616",
+    "number": "27",
+    "birth": "1993-02-09",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 440,
+    "name": "왕옌청",
+    "height": 180,
+    "weight": 82,
+    "english": "WANG Yan-Cheng",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=953&pcode=56719",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19664",
+    "photo": "translation/hanwha_visual/player_440.png",
+    "photo_sha256": "1f653b1586e9503df8399964798fbfceca86bed51bb7372456065dc23a02a337",
+    "face_photo": "translation/hanwha_visual/face_440.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56719.jpg",
+    "face_photo_sha256": "a3f10c14c05fc7a6fa3bde81c81e577f45dc44d3c7add7515bdd434043acbe2c",
+    "face_box": [
+      26,
+      28,
+      43,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.8530158996582,
+        46.45188522338867
+      ],
+      [
+        57.901119232177734,
+        46.14845657348633
+      ],
+      [
+        48.991859436035156,
+        55.212650299072266
+      ],
+      [
+        40.1234016418457,
+        64.30471801757812
+      ],
+      [
+        57.33958435058594,
+        64.52694702148438
+      ]
+    ],
+    "back_name": "WANG",
+    "body_type": 10,
+    "face_id": 2545,
+    "original_body_type": 6,
+    "face_file": "F2545.CHK",
+    "player_id": "56719",
+    "number": "19",
+    "birth": "2001-02-14",
+    "foreign": true,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 459,
+    "name": "김서현",
+    "height": 188,
+    "weight": 86,
+    "english": "KIM Seo Hyeon",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=726&pcode=53754",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19584",
+    "photo": "translation/hanwha_visual/player_459.png",
+    "photo_sha256": "2e7e2cc36643763959e92e090072a2f33a76d47c39fd14e86c5a48154e49dc52",
+    "face_photo": "translation/hanwha_visual/face_459.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53754.jpg",
+    "face_photo_sha256": "082190d0567defdeadeacf7a584bee3737d14d5027e4bec13d8826be3edfd1ff",
+    "face_box": [
+      25,
+      31,
+      41,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.304901123046875,
+        47.76694107055664
+      ],
+      [
+        57.096038818359375,
+        47.58576202392578
+      ],
+      [
+        47.94827651977539,
+        56.986724853515625
+      ],
+      [
+        38.72167205810547,
+        66.55738067626953
+      ],
+      [
+        55.95819854736328,
+        66.40400695800781
+      ]
+    ],
+    "back_name": "KIM S.H.",
+    "body_type": 0,
+    "face_id": 2582,
+    "original_body_type": 14,
+    "face_file": "F2582.CHK",
+    "player_id": "53754",
+    "number": "44",
+    "birth": "2004-05-31",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 462,
+    "name": "노시환",
+    "height": 185,
+    "weight": 105,
+    "english": "ROH Si Hwan",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=475&pcode=69737",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19678",
+    "photo": "translation/hanwha_visual/player_462.png",
+    "photo_sha256": "b7429922af448987601c2b2dfae40ba2c38ca57568cba791fc64135c8ba6ab2d",
+    "face_photo": "translation/hanwha_visual/face_462.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69737.jpg",
+    "face_photo_sha256": "7a5e2d6d161441a48a6a4f63c3b12d17368adc0e7d8ad6554b37570dcdc7146e",
+    "face_box": [
+      26,
+      28,
+      42,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.9185791015625,
+        45.411277770996094
+      ],
+      [
+        55.85922622680664,
+        45.30925750732422
+      ],
+      [
+        46.01028823852539,
+        54.68166732788086
+      ],
+      [
+        38.65605163574219,
+        63.71577072143555
+      ],
+      [
+        55.09302520751953,
+        64.52706909179688
+      ]
+    ],
+    "back_name": "ROH S.H.",
+    "body_type": 14,
+    "face_id": 2705,
+    "original_body_type": 10,
+    "face_file": "F2705.CHK",
+    "player_id": "69737",
+    "number": "8",
+    "birth": "2000-12-03",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 507,
+    "name": "엄상백",
+    "height": 187,
+    "weight": 72,
+    "english": "UM Sang Back",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=902&pcode=65056",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19644",
+    "photo": "translation/hanwha_visual/player_507.png",
+    "photo_sha256": "be31bf5449695fb0b2af47b2043b40d7df700cfb19536dd86506026ec1a65f8c",
+    "face_photo": "translation/hanwha_visual/face_507.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65056.jpg",
+    "face_photo_sha256": "4e5e7e86bf762fa15d6c15ba38930aee5c415ca444252e010208c90f1bb78ab9",
+    "face_box": [
+      26,
+      28,
+      42,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.851600646972656,
+        45.67564392089844
+      ],
+      [
+        58.61775207519531,
+        45.854488372802734
+      ],
+      [
+        48.88414764404297,
+        54.88726043701172
+      ],
+      [
+        39.431575775146484,
+        65.30046844482422
+      ],
+      [
+        56.14409637451172,
+        64.6327896118164
+      ]
+    ],
+    "back_name": "UM S.B.",
+    "body_type": 0,
+    "face_id": 3543,
+    "original_body_type": 0,
+    "face_file": "F3543.CHK",
+    "player_id": "65056",
+    "number": "11",
+    "birth": "1996-10-04",
+    "foreign": false,
+    "hands": "우언우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 508,
+    "name": "정이황",
+    "height": 190,
+    "weight": 89,
+    "english": "JUNG Yi Hwang",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=473&pcode=69767",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19477",
+    "photo": "translation/hanwha_visual/player_508.png",
+    "photo_sha256": "767e3272b3434e381cbcbe1574e3c8d1f78c4e6add0d76385a942a2584d3bc39",
+    "face_photo": "translation/hanwha_visual/face_508.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69767.jpg",
+    "face_photo_sha256": "a9ccd1338c56934fdebfbe98bb05edb459a43da890df82afa1f15adb9ebe3d37",
+    "face_box": [
+      24,
+      28,
+      43,
+      53
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.868412017822266,
+        46.116973876953125
+      ],
+      [
+        57.791587829589844,
+        45.74830627441406
+      ],
+      [
+        48.321632385253906,
+        55.89636993408203
+      ],
+      [
+        38.44772720336914,
+        65.4715805053711
+      ],
+      [
+        56.51847839355469,
+        65.4593505859375
+      ]
+    ],
+    "back_name": "JUNG Y.H.",
+    "body_type": 2,
+    "face_id": 3544,
+    "original_body_type": 4,
+    "face_file": "F3544.CHK",
+    "player_id": "69767",
+    "number": "34",
+    "birth": "2000-03-07",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 509,
+    "name": "양수호",
+    "height": 187,
+    "weight": 82,
+    "english": "YANG Su Ho",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=955&pcode=55659",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19643",
+    "photo": "translation/hanwha_visual/player_509.png",
+    "photo_sha256": "c81b74eeb7ef7f2426c312b53fecacd9350ddd3c45492e622ad54e7cb20889b0",
+    "face_photo": "translation/hanwha_visual/face_509.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55659.jpg",
+    "face_photo_sha256": "6b2fcdc35a99b6d5f5c7a98fc14b6ba26121bbd2dd924c72ad010a4914e0b4fa",
+    "face_box": [
+      25,
+      24,
+      43,
+      56
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.19601058959961,
+        44.27031707763672
+      ],
+      [
+        55.21266174316406,
+        43.57855224609375
+      ],
+      [
+        46.989017486572266,
+        54.131629943847656
+      ],
+      [
+        40.357913970947266,
+        63.55221939086914
+      ],
+      [
+        56.656341552734375,
+        64.1675033569336
+      ]
+    ],
+    "back_name": "YANG S.H.",
+    "body_type": 0,
+    "face_id": 3545,
+    "original_body_type": 4,
+    "face_file": "F3545.CHK",
+    "player_id": "55659",
+    "number": "47",
+    "birth": "2006-09-09",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 510,
+    "name": "권민규",
+    "height": 188,
+    "weight": 90,
+    "english": "GWON Min Gyu",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=905&pcode=55764",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19482",
+    "photo": "translation/hanwha_visual/player_510.png",
+    "photo_sha256": "a1c6e1d6d8942d412793e458218755c0ee299d559c29d98ae98648c06b4ad9a0",
+    "face_photo": "translation/hanwha_visual/face_510.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55764.jpg",
+    "face_photo_sha256": "d530f345b9e957a7010f810ca04120957e90bd5d896ea531ecb37f8a5deb0da2",
+    "face_box": [
+      27,
+      30,
+      40,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.29840087890625,
+        46.644630432128906
+      ],
+      [
+        56.54712677001953,
+        46.2486686706543
+      ],
+      [
+        47.749454498291016,
+        55.60295104980469
+      ],
+      [
+        40.060638427734375,
+        64.38523864746094
+      ],
+      [
+        56.45112609863281,
+        65.00689697265625
+      ]
+    ],
+    "back_name": "GWON M.G.",
+    "body_type": 10,
+    "face_id": 3546,
+    "original_body_type": 0,
+    "face_file": "F3546.CHK",
+    "player_id": "55764",
+    "number": "64",
+    "birth": "2006-05-13",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 556,
+    "name": "배민서",
+    "height": 184,
+    "weight": 90,
+    "english": "BAE Min Seo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=840&pcode=69974",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19480",
+    "photo": "translation/hanwha_visual/player_556.png",
+    "photo_sha256": "2f05e1880fd63e00aad05a9ad96666f644f2df3b36d0803c60a942a4285b36d5",
+    "face_photo": "translation/hanwha_visual/face_556.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69974.jpg",
+    "face_photo_sha256": "9d605dadffab5f7bc39977987a98ba542c21da0f35e1996bbf3404b85ca718c4",
+    "face_box": [
+      25,
+      29,
+      42,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.061004638671875,
+        45.571632385253906
+      ],
+      [
+        56.46404266357422,
+        44.982086181640625
+      ],
+      [
+        47.73373794555664,
+        54.50956344604492
+      ],
+      [
+        39.59182357788086,
+        64.86629486083984
+      ],
+      [
+        56.74549102783203,
+        64.66127014160156
+      ]
+    ],
+    "back_name": "BAE M.S.",
+    "body_type": 10,
+    "face_id": 3635,
+    "original_body_type": 6,
+    "face_file": "F3635.CHK",
+    "player_id": "69974",
+    "number": "45",
+    "birth": "1999-11-18",
+    "foreign": false,
+    "hands": "우언우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 583,
+    "name": "김범준",
+    "height": 175,
+    "weight": 79,
+    "english": "KIM Bum Jun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=517&pcode=50710",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19479",
+    "photo": "translation/hanwha_visual/player_583.png",
+    "photo_sha256": "2763ccf287c9d5a7f112b96a8a77f696897084d82bc5720da136c2307b665913",
+    "face_photo": "translation/hanwha_visual/face_583.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50710.jpg",
+    "face_photo_sha256": "4b92194444d2520bc6f9a4fac789f5ec62a446dfc6a3881181e4b0fd419a1633",
+    "face_box": [
+      26,
+      28,
+      43,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.54615783691406,
+        46.426795959472656
+      ],
+      [
+        57.60248565673828,
+        46.164146423339844
+      ],
+      [
+        48.183372497558594,
+        55.31363296508789
+      ],
+      [
+        39.349609375,
+        64.34098052978516
+      ],
+      [
+        56.61176300048828,
+        64.60541534423828
+      ]
+    ],
+    "back_name": "KIM B.J.",
+    "body_type": 6,
+    "face_id": 3666,
+    "original_body_type": 4,
+    "face_file": "F3666.CHK",
+    "player_id": "50710",
+    "number": "40",
+    "birth": "2000-09-30",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 584,
+    "name": "화이트",
+    "height": 190,
+    "weight": 90,
+    "english": "WHITE Owen",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=954&pcode=56724",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19665",
+    "photo": "translation/hanwha_visual/player_584.png",
+    "photo_sha256": "a6ced4270eb98576cf9282491378308cf1fcb47b594e720ea53f389f37f11d4a",
+    "face_photo": "translation/hanwha_visual/face_584.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56724.jpg",
+    "face_photo_sha256": "0f38a85ed9b4c0b396751a9946f9ac65c9398c864f9a35678463ef11a4db1898",
+    "face_box": [
+      25,
+      30,
+      43,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.1610221862793,
+        45.56462097167969
+      ],
+      [
+        57.05881118774414,
+        45.3660888671875
+      ],
+      [
+        48.00872039794922,
+        54.52528381347656
+      ],
+      [
+        39.5786247253418,
+        63.74679183959961
+      ],
+      [
+        56.31061553955078,
+        64.0032730102539
+      ]
+    ],
+    "back_name": "WHITE",
+    "body_type": 2,
+    "face_id": 3667,
+    "original_body_type": 12,
+    "face_file": "F3667.CHK",
+    "player_id": "56724",
+    "number": "24",
+    "birth": "1999-08-09",
+    "foreign": true,
+    "hands": "우투우타",
+    "skin_type": 3,
+    "skin_reference_head": 4
+  },
+  {
+    "index": 585,
+    "name": "박재규",
+    "height": 181,
+    "weight": 83,
+    "english": "PARK Jae Kyu",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=732&pcode=53706",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19478",
+    "photo": "translation/hanwha_visual/player_585.png",
+    "photo_sha256": "43b14d5d71aed712b412afa3fae60da822b945a1410ee2274b0c5ea7bbae50d0",
+    "face_photo": "translation/hanwha_visual/face_585.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53706.jpg",
+    "face_photo_sha256": "4d9d6ddce92d8f7559b61408d94e537a41177f744a7889c5ecd7738a24c88206",
+    "face_box": [
+      26,
+      29,
+      40,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.363670349121094,
+        46.918479919433594
+      ],
+      [
+        56.55467224121094,
+        46.63240051269531
+      ],
+      [
+        48.22676086425781,
+        55.647796630859375
+      ],
+      [
+        40.500083923339844,
+        63.75041961669922
+      ],
+      [
+        56.39262008666992,
+        64.59114837646484
+      ]
+    ],
+    "back_name": "PARK J.K.",
+    "body_type": 10,
+    "face_id": 3668,
+    "original_body_type": 0,
+    "face_file": "F3668.CHK",
+    "player_id": "53706",
+    "number": "39",
+    "birth": "2003-07-03",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 586,
+    "name": "한서구",
+    "height": 191,
+    "weight": 98,
+    "english": "HAN Seo Gu",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=730&pcode=53703",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19483",
+    "photo": "translation/hanwha_visual/player_586.png",
+    "photo_sha256": "b6b79dbc44bd9630c8671ebd80777bbe5d56b938b0d2a98ce800ceaef2521be7",
+    "face_photo": "translation/hanwha_visual/face_586.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53703.jpg",
+    "face_photo_sha256": "5aca6cdbcf77845b535b6cf4807ad3d6bfb0df952d4b031c03a499d4bb0e76ca",
+    "face_box": [
+      27,
+      31,
+      39,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.22328186035156,
+        47.357444763183594
+      ],
+      [
+        56.315731048583984,
+        46.990028381347656
+      ],
+      [
+        47.32828140258789,
+        55.9363899230957
+      ],
+      [
+        39.913856506347656,
+        64.66270446777344
+      ],
+      [
+        55.78987121582031,
+        65.1695785522461
+      ]
+    ],
+    "back_name": "HAN S.G.",
+    "body_type": 9,
+    "face_id": 3669,
+    "original_body_type": 4,
+    "face_file": "F3669.CHK",
+    "player_id": "53703",
+    "number": "67",
+    "birth": "2003-12-04",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 655,
+    "name": "남지민",
+    "height": 181,
+    "weight": 100,
+    "english": "",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=507&pcode=50720",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=18179",
+    "photo": "translation/hanwha_visual/player_655.png",
+    "photo_sha256": "62e09bcfa6393951ef80bb47b63fe63b922eafef0bf3f65d4edd3364988ffb14",
+    "face_box": [
+      202,
+      111,
+      160,
+      192
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        268.4143981933594,
+        168.5926513671875
+      ],
+      [
+        336.27630615234375,
+        174.1429443359375
+      ],
+      [
+        311.9469909667969,
+        214.85476684570312
+      ],
+      [
+        266.69866943359375,
+        243.59878540039062
+      ],
+      [
+        322.787841796875,
+        249.50588989257812
+      ]
+    ],
+    "back_name": "NAM J.M.",
+    "body_type": 10,
+    "face_id": 3810,
+    "original_body_type": 4,
+    "face_file": "F3810.CHK",
+    "player_id": "50720",
+    "number": "107",
+    "birth": "2001-02-12",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 656,
+    "name": "장유호",
+    "height": 179,
+    "weight": 80,
+    "english": "JANG Yoo Ho",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=943&pcode=",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19475",
+    "photo": "translation/hanwha_visual/player_656.png",
+    "photo_sha256": "622d51e237e3dae960ba0ad955e5c4f5b4c9a050cef457559454b7241f268695",
+    "face_box": [
+      183,
+      117,
+      161,
+      215
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        204.8578338623047,
+        174.85838317871094
+      ],
+      [
+        275.8039245605469,
+        185.5304412841797
+      ],
+      [
+        215.06494140625,
+        219.11285400390625
+      ],
+      [
+        201.63775634765625,
+        260.7909851074219
+      ],
+      [
+        258.6793518066406,
+        269.1252136230469
+      ]
+    ],
+    "back_name": "JANG Y.H.",
+    "body_type": 0,
+    "face_id": 3811,
+    "original_body_type": 4,
+    "face_file": "F3811.CHK",
+    "player_id": "69645",
+    "number": "28",
+    "birth": "2000-05-25",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 657,
+    "name": "강건우",
+    "height": 188,
+    "weight": 89,
+    "english": "KANG Kun Woo",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=944&pcode=56769",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19484",
+    "photo": "translation/hanwha_visual/player_657.png",
+    "photo_sha256": "e178c48c49fd0514f2888f6e73dc096fccfb08d908b262e7ec52c3888489c8c4",
+    "face_photo": "translation/hanwha_visual/face_657.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56769.jpg",
+    "face_photo_sha256": "0d8797c89a55361b5700112715cf84d6208313d6878a912e5ec3ddf38586295e",
+    "face_box": [
+      27,
+      31,
+      39,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.75459289550781,
+        47.58291244506836
+      ],
+      [
+        56.42805862426758,
+        47.521244049072266
+      ],
+      [
+        47.826271057128906,
+        56.78207778930664
+      ],
+      [
+        39.98501968383789,
+        65.56153106689453
+      ],
+      [
+        55.51141357421875,
+        66.0770492553711
+      ]
+    ],
+    "back_name": "KANG K.W.",
+    "body_type": 10,
+    "face_id": 3812,
+    "original_body_type": 6,
+    "face_file": "F3812.CHK",
+    "player_id": "56769",
+    "number": "69",
+    "birth": "2007-07-19",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 658,
+    "name": "페라자",
+    "height": 175,
+    "weight": 88,
+    "english": "PERLAZA Yonathan",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=830&pcode=54730",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19658",
+    "photo": "translation/hanwha_visual/player_658.png",
+    "photo_sha256": "681e962b428d1f54593928efd46956493d9fe9491a8043546831ffe06cfbe5a2",
+    "face_photo": "translation/hanwha_visual/face_658.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54730.jpg",
+    "face_photo_sha256": "9ddd0fde2da695964d4536e9b3400348a95b551056b8346d092662d2596f8cf9",
+    "face_box": [
+      25,
+      29,
+      42,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.36800765991211,
+        42.236473083496094
+      ],
+      [
+        57.455322265625,
+        42.22173309326172
+      ],
+      [
+        47.3505859375,
+        51.50187301635742
+      ],
+      [
+        37.77372741699219,
+        61.796836853027344
+      ],
+      [
+        55.515541076660156,
+        62.058658599853516
+      ]
+    ],
+    "back_name": "PERLAZA",
+    "body_type": 12,
+    "face_id": 3813,
+    "original_body_type": 10,
+    "face_file": "F3813.CHK",
+    "skin_type": 5,
+    "skin_reference_head": 6,
+    "player_id": "54730",
+    "number": "30",
+    "birth": "1998-11-10",
+    "foreign": true,
+    "hands": "우투양타"
+  },
+  {
+    "index": 659,
+    "name": "박준영(02)",
+    "height": 184,
+    "weight": 87,
+    "english": "PARK Jun Young",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=948&pcode=",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19498",
+    "photo": "translation/hanwha_visual/player_659.png",
+    "photo_sha256": "98b4b107c08d48a8ed4b6cfafe7a2c5664b9bdf8fa7ae1e4e8886f59af2c6333",
+    "face_box": [
+      196,
+      132,
+      178,
+      212
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        242.12364196777344,
+        198.31460571289062
+      ],
+      [
+        326.2588806152344,
+        194.68577575683594
+      ],
+      [
+        287.2142028808594,
+        246.552001953125
+      ],
+      [
+        254.67709350585938,
+        284.6170654296875
+      ],
+      [
+        324.84417724609375,
+        280.066650390625
+      ]
+    ],
+    "back_name": "PARK J.Y.",
+    "body_type": 10,
+    "face_id": 3814,
+    "original_body_type": 4,
+    "face_file": "F3814.CHK",
+    "player_id": "56709",
+    "number": "68",
+    "birth": "2002-06-03",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 660,
+    "name": "이진영",
+    "height": 183,
+    "weight": 89,
+    "english": "LEE Jin Young",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=623&pcode=66657",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19581",
+    "photo": "translation/hanwha_visual/player_660.png",
+    "photo_sha256": "55837ddf2ad0ae95a382552b18ebc97e282c80a61f24e3accb464394daec4dd1",
+    "face_photo": "translation/hanwha_visual/face_660.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66657.jpg",
+    "face_photo_sha256": "8404c3e713bdbe5ca839b9e592c529eef97633af98f1a9a3e1a81e3629a62371",
+    "face_box": [
+      23,
+      30,
+      44,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.91262435913086,
+        45.673362731933594
+      ],
+      [
+        58.23649597167969,
+        45.38405227661133
+      ],
+      [
+        48.324951171875,
+        55.30855941772461
+      ],
+      [
+        37.79444885253906,
+        65.56623077392578
+      ],
+      [
+        56.53434371948242,
+        65.21207427978516
+      ]
+    ],
+    "back_name": "LEE J.Y.",
+    "body_type": 10,
+    "face_id": 3815,
+    "original_body_type": 4,
+    "face_file": "F3815.CHK",
+    "player_id": "66657",
+    "number": "10",
+    "birth": "1997-07-21",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 698,
+    "name": "이재원",
+    "height": 185,
+    "weight": 98,
+    "english": "LEE Jae Won",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=826&pcode=76812",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19521",
+    "photo": "translation/hanwha_visual/player_698.png",
+    "photo_sha256": "acf7e303982d4f506136ef90fab85a11678538af11778dfa48a9d557e2397eb4",
+    "face_photo": "translation/hanwha_visual/face_698.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76812.jpg",
+    "face_photo_sha256": "fe58809c4c897b335a1f248c825f9ad48d5b30fdc2d337cda801cc291ffd32c9",
+    "face_box": [
+      27,
+      30,
+      39,
+      48
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.14545822143555,
+        46.709476470947266
+      ],
+      [
+        55.28416442871094,
+        46.181488037109375
+      ],
+      [
+        46.31792068481445,
+        55.48590850830078
+      ],
+      [
+        39.56907272338867,
+        62.65513610839844
+      ],
+      [
+        56.01280975341797,
+        64.01640319824219
+      ]
+    ],
+    "back_name": "LEE J.W.",
+    "body_type": 14,
+    "face_id": 3903,
+    "original_body_type": 0,
+    "face_file": "F3903.CHK",
+    "player_id": "76812",
+    "number": "20",
+    "birth": "1988-02-24",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 699,
+    "name": "에르난데스",
+    "height": 190,
+    "weight": 88,
+    "english": "HERNANDEZ Wilkel",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=952",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19663",
+    "photo": "translation/hanwha_visual/player_699.png",
+    "photo_sha256": "312a650b8744903b04ba9552d3d983d68bb9dacc87d7f145239df60c50154c25",
+    "face_photo": "translation/hanwha_visual/face_699.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56712.jpg",
+    "face_photo_sha256": "51f754d0cd8354164fe10051f1f460b304a8da0373587df58c47905fbc3ca966",
+    "face_box": [
+      25,
+      27,
+      43,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.053932189941406,
+        44.29764175415039
+      ],
+      [
+        57.9864616394043,
+        44.50274658203125
+      ],
+      [
+        48.37706756591797,
+        54.1856689453125
+      ],
+      [
+        38.98503494262695,
+        63.36177062988281
+      ],
+      [
+        56.337257385253906,
+        64.27289581298828
+      ]
+    ],
+    "back_name": "HERNANDEZ",
+    "body_type": 2,
+    "face_id": 3904,
+    "original_body_type": 4,
+    "face_file": "F3904.CHK",
+    "player_id": "56712",
+    "number": "",
+    "birth": "1999-04-13",
+    "foreign": true,
+    "hands": "우투우타",
+    "skin_type": 4,
+    "skin_reference_head": 5
+  },
+  {
+    "index": 700,
+    "name": "박상언",
+    "height": 185,
+    "weight": 90,
+    "english": "PARK Sang Un",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=377&pcode=66707",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19524",
+    "photo": "translation/hanwha_visual/player_700.png",
+    "photo_sha256": "36ef2f6a4f465ebc4cddcc4055abf17dd3186cfd9f261407eaadbcc09081b309",
+    "face_photo": "translation/hanwha_visual/face_700.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66707.jpg",
+    "face_photo_sha256": "516e06d919daf64e97e565b50b12acda9198230411da678128b0d7b53770f209",
+    "face_box": [
+      26,
+      31,
+      40,
+      48
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.015296936035156,
+        46.5635986328125
+      ],
+      [
+        56.14106750488281,
+        46.27496337890625
+      ],
+      [
+        46.70316696166992,
+        55.3641242980957
+      ],
+      [
+        38.61008834838867,
+        64.6064453125
+      ],
+      [
+        55.58451843261719,
+        65.01278686523438
+      ]
+    ],
+    "back_name": "PARK S.U.",
+    "body_type": 10,
+    "face_id": 3905,
+    "original_body_type": 1,
+    "face_file": "F3905.CHK",
+    "player_id": "66707",
+    "number": "42",
+    "birth": "1997-03-03",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 701,
+    "name": "권현",
+    "height": 182,
+    "weight": 88,
+    "english": "",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/CC/PLCC02.do?id=834&pcode=54708",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=18154",
+    "photo": "translation/hanwha_visual/player_701.png",
+    "photo_sha256": "7f99ba58e0784290e4de612e075f5a785a7175f64dcc89309f61fb0b131e8aaa",
+    "face_box": [
+      220,
+      116,
+      136,
+      184
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        249.4197998046875,
+        183.3741455078125
+      ],
+      [
+        311.5401916503906,
+        179.94363403320312
+      ],
+      [
+        277.5401611328125,
+        220.33535766601562
+      ],
+      [
+        259.8094177246094,
+        252.91819763183594
+      ],
+      [
+        309.1917419433594,
+        249.23455810546875
+      ]
+    ],
+    "back_name": "KWON H.",
+    "body_type": 10,
+    "face_id": 3906,
+    "original_body_type": 9,
+    "face_file": "F3906.CHK",
+    "player_id": "54708",
+    "number": "105",
+    "birth": "2005-02-23",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 702,
+    "name": "정민규",
+    "height": 183,
+    "weight": 101,
+    "english": "JUNG Min Kyu",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=543&pcode=51764",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19499",
+    "photo": "translation/hanwha_visual/player_702.png",
+    "photo_sha256": "f9b01098cd3d58212983d4ccebbad44503b0537c05bf110866d37e2cff79060b",
+    "face_photo": "translation/hanwha_visual/face_702.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51764.jpg",
+    "face_photo_sha256": "3b5af3e152758a6b445b636962097c11b3c2feb801a9f7c5fbbe60df0e8e2939",
+    "face_box": [
+      24,
+      28,
+      43,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        36.732872009277344,
+        46.11126708984375
+      ],
+      [
+        56.42178726196289,
+        45.73777770996094
+      ],
+      [
+        47.12965774536133,
+        55.72878646850586
+      ],
+      [
+        38.42522430419922,
+        63.8333625793457
+      ],
+      [
+        55.40337371826172,
+        64.32865905761719
+      ]
+    ],
+    "back_name": "JUNG M.K.",
+    "body_type": 10,
+    "face_id": 3907,
+    "original_body_type": 6,
+    "face_file": "F3907.CHK",
+    "player_id": "51764",
+    "number": "2",
+    "birth": "2003-01-10",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 703,
+    "name": "최원준",
+    "height": 188,
+    "weight": 84,
+    "english": "CHOE Won Jun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=740&pcode=53705",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19500",
+    "photo": "translation/hanwha_visual/player_703.png",
+    "photo_sha256": "4203775c28b0758db4b0cc1e4127ab4a5a80bbda6f504c9a337c16d236baab66",
+    "face_photo": "translation/hanwha_visual/face_703.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53705.jpg",
+    "face_photo_sha256": "b95a8ed734d6bb20c8b0c83e351ccaa9341846c67b9e54435cab778d0fedb82a",
+    "face_box": [
+      25,
+      29,
+      42,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.29620361328125,
+        46.29267120361328
+      ],
+      [
+        55.973506927490234,
+        45.665428161621094
+      ],
+      [
+        47.01527404785156,
+        55.570125579833984
+      ],
+      [
+        39.28110122680664,
+        64.69509887695312
+      ],
+      [
+        55.74200439453125,
+        65.13237762451172
+      ]
+    ],
+    "back_name": "CHOE W.J.",
+    "body_type": 0,
+    "face_id": 3908,
+    "original_body_type": 4,
+    "face_file": "F3908.CHK",
+    "player_id": "53705",
+    "number": "3",
+    "birth": "2004-05-01",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 704,
+    "name": "문동주",
+    "height": 188,
+    "weight": 97,
+    "english": "MOON Dong Ju",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/PC/PLPC02.do?id=588&pcode=52701",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19641",
+    "photo": "translation/hanwha_visual/player_704.png",
+    "photo_sha256": "db266dfef18bac1b34db5540a16c49425dd81a9ac6c1c42974084726e9667086",
+    "face_photo": "translation/hanwha_visual/face_704.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52701.jpg",
+    "face_photo_sha256": "fbe9d496200ce2b81b9de90f54ca2d5454c27f653e8d1c730f8174901f7b79e5",
+    "face_box": [
+      26,
+      28,
+      44,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.03357696533203,
+        46.661354064941406
+      ],
+      [
+        56.15660095214844,
+        46.5056037902832
+      ],
+      [
+        45.7803955078125,
+        56.03182601928711
+      ],
+      [
+        38.32278060913086,
+        65.69490051269531
+      ],
+      [
+        54.697696685791016,
+        65.70120239257812
+      ]
+    ],
+    "back_name": "MOON D.J.",
+    "body_type": 10,
+    "face_id": 3909,
+    "original_body_type": 4,
+    "face_file": "F3909.CHK",
+    "player_id": "52701",
+    "number": "1",
+    "birth": "2003-12-23",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 753,
+    "name": "강백호",
+    "height": 184,
+    "weight": 98,
+    "english": "KANG Baek Ho",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=956&pcode=68050",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19586",
+    "photo": "translation/hanwha_visual/player_753.png",
+    "photo_sha256": "0ca1d0c343332476cc00b77a3b809fa3ea1ee9dc91b92b83dcd3740f070f6d58",
+    "face_photo": "translation/hanwha_visual/face_753.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68050.jpg",
+    "face_photo_sha256": "fd8c1a313d4e9a4d2fc7e5c79a1ae16b5d42289b9b37e6bccdeefaa6fbbc91e3",
+    "face_box": [
+      27,
+      29,
+      39,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.63361358642578,
+        45.49159622192383
+      ],
+      [
+        56.267059326171875,
+        45.12002182006836
+      ],
+      [
+        48.099456787109375,
+        54.222049713134766
+      ],
+      [
+        40.6302604675293,
+        62.776702880859375
+      ],
+      [
+        56.82000732421875,
+        64.2295150756836
+      ]
+    ],
+    "back_name": "KANG B.H.",
+    "body_type": 10,
+    "face_id": 3980,
+    "original_body_type": 10,
+    "face_file": "F3980.CHK",
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "player_id": "68050",
+    "number": "50",
+    "birth": "1999-07-29",
+    "foreign": false,
+    "hands": "우투좌타"
+  },
+  {
+    "index": 791,
+    "name": "이지성",
+    "height": 180,
+    "weight": 78,
+    "english": "LEE Ji Sung",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=916&pcode=55706",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19511",
+    "photo": "translation/hanwha_visual/player_791.png",
+    "photo_sha256": "962e5ed746ad2ccab5ca7418f822280b35e9e7113b4d3fe01b5e7b6e0f6d248c",
+    "face_photo": "translation/hanwha_visual/face_791.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55706.jpg",
+    "face_photo_sha256": "1a01ad31e5db6f459e20bd03c46543fe8fd968f8d4f9547033b191c17b677198",
+    "face_box": [
+      26,
+      30,
+      43,
+      52
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.31227111816406,
+        45.18110275268555
+      ],
+      [
+        57.66621780395508,
+        45.52873229980469
+      ],
+      [
+        47.383018493652344,
+        54.483131408691406
+      ],
+      [
+        38.49003601074219,
+        64.73731231689453
+      ],
+      [
+        55.17195129394531,
+        65.36405181884766
+      ]
+    ],
+    "back_name": "LEE J.S.",
+    "body_type": 0,
+    "face_id": 4358,
+    "original_body_type": 6,
+    "face_file": "F4358.CHK",
+    "player_id": "55706",
+    "number": "4",
+    "birth": "2005-11-29",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 792,
+    "name": "한지윤",
+    "height": 188,
+    "weight": 98,
+    "english": "HAN Ji Youn",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=918&pcode=55767",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19503",
+    "photo": "translation/hanwha_visual/player_792.png",
+    "photo_sha256": "569ada668ffcbb6a37b17a24d55e5d5658a0846704c394f42ee6b98f97b59ae0",
+    "face_photo": "translation/hanwha_visual/face_792.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55767.jpg",
+    "face_photo_sha256": "8466b993b9eb0b8ffdcd820261cd0250395cf531f38eb6a435d436e796946bde",
+    "face_box": [
+      26,
+      29,
+      40,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.559349060058594,
+        46.19668197631836
+      ],
+      [
+        56.485801696777344,
+        46.001399993896484
+      ],
+      [
+        47.734222412109375,
+        55.44727325439453
+      ],
+      [
+        39.804115295410156,
+        64.28636169433594
+      ],
+      [
+        56.20048904418945,
+        65.2209701538086
+      ]
+    ],
+    "back_name": "HAN J.Y.",
+    "body_type": 10,
+    "face_id": 4359,
+    "original_body_type": 4,
+    "face_file": "F4359.CHK",
+    "player_id": "55767",
+    "number": "36",
+    "birth": "2006-04-10",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 793,
+    "name": "박정현",
+    "height": 183,
+    "weight": 80,
+    "english": "PARK Jung Hyun",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=523&pcode=50709",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19520",
+    "photo": "translation/hanwha_visual/player_793.png",
+    "photo_sha256": "90ca5c088211ccc3e173e9722a630393e1c826edb4c9c05f058bdc7768327078",
+    "face_photo": "translation/hanwha_visual/face_793.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50709.jpg",
+    "face_photo_sha256": "4961da8dfce418c6efe44b5b0ef02c29040d34b8d5d69583b360ccc58ace5042",
+    "face_box": [
+      27,
+      29,
+      41,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.62396240234375,
+        46.0139274597168
+      ],
+      [
+        57.09819793701172,
+        46.023353576660156
+      ],
+      [
+        48.08391189575195,
+        55.42744827270508
+      ],
+      [
+        40.13022232055664,
+        64.6797103881836
+      ],
+      [
+        56.70885467529297,
+        65.11271667480469
+      ]
+    ],
+    "back_name": "PARK J.H.",
+    "body_type": 0,
+    "face_id": 4360,
+    "original_body_type": 0,
+    "face_file": "F4360.CHK",
+    "player_id": "50709",
+    "number": "63",
+    "birth": "2001-07-27",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 794,
+    "name": "최유빈",
+    "height": 173,
+    "weight": 73,
+    "english": "CHOI Yu Bin",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/IF/PLIF02.do?id=949&pcode=56793",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19507",
+    "photo": "translation/hanwha_visual/player_794.png",
+    "photo_sha256": "1d0ef1fb488e7f6d5bb5025ef39da89fae1c783045efbf1ec5fc960b09825ea3",
+    "face_photo": "translation/hanwha_visual/face_794.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56793.jpg",
+    "face_photo_sha256": "99d6c2592b0107a2f77d4978bf2ab22770251e85b8f9c7633924bd57c45b79a9",
+    "face_box": [
+      26,
+      30,
+      38,
+      49
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.31315994262695,
+        46.7560920715332
+      ],
+      [
+        55.324798583984375,
+        46.22132110595703
+      ],
+      [
+        47.05305480957031,
+        55.78004455566406
+      ],
+      [
+        39.79158401489258,
+        64.02777099609375
+      ],
+      [
+        56.26109313964844,
+        65.1092300415039
+      ]
+    ],
+    "back_name": "CHOI Y.B.",
+    "body_type": 1,
+    "face_id": 4361,
+    "original_body_type": 4,
+    "face_file": "F4361.CHK",
+    "player_id": "56793",
+    "number": "93",
+    "birth": "2002-05-27",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 795,
+    "name": "임종찬",
+    "height": 184,
+    "weight": 85,
+    "english": "LIM Jong Chan",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=526&pcode=50704",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19527",
+    "photo": "translation/hanwha_visual/player_795.png",
+    "photo_sha256": "75816b77a0192bdfb8fc1043666d687f08ed0a6ba90c192e394105a8b8a59e31",
+    "face_photo": "translation/hanwha_visual/face_795.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50704.jpg",
+    "face_photo_sha256": "385b901ef5769238833c71f58ea199a4d73ba1d1331e51acda423618291526ff",
+    "face_box": [
+      26,
+      30,
+      42,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.96825408935547,
+        47.060794830322266
+      ],
+      [
+        58.08498001098633,
+        46.938514709472656
+      ],
+      [
+        48.88936996459961,
+        56.650306701660156
+      ],
+      [
+        39.67364501953125,
+        66.52467346191406
+      ],
+      [
+        56.68576431274414,
+        66.42864990234375
+      ]
+    ],
+    "back_name": "LIM J.C.",
+    "body_type": 10,
+    "face_id": 4362,
+    "original_body_type": 4,
+    "face_file": "F4362.CHK",
+    "player_id": "50704",
+    "number": "9",
+    "birth": "2001-09-28",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 796,
+    "name": "권광민",
+    "height": 189,
+    "weight": 102,
+    "english": "KWON Kwang Min",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=591&pcode=52769",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19582",
+    "photo": "translation/hanwha_visual/player_796.png",
+    "photo_sha256": "e3248799fc0a5d818a3cc6dd28e7f8dc209cf3f3008ca9e93e0fead0b03aabe9",
+    "face_photo": "translation/hanwha_visual/face_796.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52769.jpg",
+    "face_photo_sha256": "1a6814b6b5da9809316e7c0c8e71878f3ff5bfb724e4ee432857ad662bf0e096",
+    "face_box": [
+      26,
+      29,
+      40,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.686214447021484,
+        46.43195343017578
+      ],
+      [
+        56.97196960449219,
+        46.40043640136719
+      ],
+      [
+        47.86561965942383,
+        55.78615951538086
+      ],
+      [
+        39.6690559387207,
+        65.88902282714844
+      ],
+      [
+        56.095062255859375,
+        65.67125701904297
+      ]
+    ],
+    "back_name": "KWON K.M.",
+    "body_type": 14,
+    "face_id": 4363,
+    "original_body_type": 4,
+    "face_file": "F4363.CHK",
+    "player_id": "52769",
+    "number": "17",
+    "birth": "1997-12-12",
+    "foreign": false,
+    "hands": "좌투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 797,
+    "name": "유로결",
+    "height": 186,
+    "weight": 83,
+    "english": "YOO Ro Gyeol",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=477&pcode=69766",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19528",
+    "photo": "translation/hanwha_visual/player_797.png",
+    "photo_sha256": "aaf8dea62bccc6ff21e69fae5cd740aa1b3b13a0785e99574a08e8a9c835e013",
+    "face_photo": "translation/hanwha_visual/face_797.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69766.jpg",
+    "face_photo_sha256": "9a3d69068a071821ff21a221249198149edf3a3aa39b9c01e02166a1b498ec3a",
+    "face_box": [
+      27,
+      29,
+      41,
+      51
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        40.18086624145508,
+        46.24085235595703
+      ],
+      [
+        57.68009948730469,
+        45.782081604003906
+      ],
+      [
+        49.9050178527832,
+        55.12761306762695
+      ],
+      [
+        41.31114196777344,
+        63.396217346191406
+      ],
+      [
+        58.03901672363281,
+        65.16382598876953
+      ]
+    ],
+    "back_name": "YOO R.G.",
+    "body_type": 0,
+    "face_id": 4364,
+    "original_body_type": 2,
+    "face_file": "F4364.CHK",
+    "player_id": "69766",
+    "number": "33",
+    "birth": "2000-05-30",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 798,
+    "name": "이원석",
+    "height": 177,
+    "weight": 80,
+    "english": "LEE Won Seok",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=448&pcode=68700",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19529",
+    "photo": "translation/hanwha_visual/player_798.png",
+    "photo_sha256": "e0dba4f5a64b79069b6fd56682767eaaa600a07dfe50dd0fae6caa23b2a344a3",
+    "face_photo": "translation/hanwha_visual/face_798.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68700.jpg",
+    "face_photo_sha256": "2092a1a1c30b836b8cb00ea78526cc2bb785517d74a11ff9c30d11efa6bcc898",
+    "face_box": [
+      25,
+      30,
+      42,
+      50
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        37.91243362426758,
+        46.753807067871094
+      ],
+      [
+        57.23355484008789,
+        46.518714904785156
+      ],
+      [
+        48.06349182128906,
+        56.21915054321289
+      ],
+      [
+        39.36682891845703,
+        64.80223846435547
+      ],
+      [
+        56.53962707519531,
+        65.37338256835938
+      ]
+    ],
+    "back_name": "LEE W.S.",
+    "body_type": 6,
+    "face_id": 4365,
+    "original_body_type": 6,
+    "face_file": "F4365.CHK",
+    "player_id": "68700",
+    "number": "37",
+    "birth": "1999-03-31",
+    "foreign": false,
+    "hands": "우투우타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  },
+  {
+    "index": 799,
+    "name": "최인호",
+    "height": 178,
+    "weight": 82,
+    "english": "CHOI In Ho",
+    "profile_source": "https://www.hanwhaeagles.co.kr/PL/OF/PLOF02.do?id=527&pcode=50707",
+    "photo_source": "https://www.hanwhaeagles.co.kr/download/attach.do?id=19583",
+    "photo": "translation/hanwha_visual/player_799.png",
+    "photo_sha256": "9a979bc0a203cd4040d34a40826ba7d07886c325a0799a2560c5b841ff06817c",
+    "face_photo": "translation/hanwha_visual/face_799.png",
+    "face_photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50707.jpg",
+    "face_photo_sha256": "3a93af7d09d0a331a55ec3c85d22fe705899ac3945305751ed0af3e380cf38f6",
+    "face_box": [
+      26,
+      31,
+      41,
+      48
+    ],
+    "face_detection": "yunet",
+    "landmarks": [
+      [
+        38.46310806274414,
+        47.316444396972656
+      ],
+      [
+        57.53497314453125,
+        47.085208892822266
+      ],
+      [
+        48.854244232177734,
+        56.35602951049805
+      ],
+      [
+        40.19404983520508,
+        65.41487121582031
+      ],
+      [
+        56.99949264526367,
+        65.71385955810547
+      ]
+    ],
+    "back_name": "CHOI I.H.",
+    "body_type": 6,
+    "face_id": 4366,
+    "original_body_type": 0,
+    "face_file": "F4366.CHK",
+    "player_id": "50707",
+    "number": "41",
+    "birth": "2000-01-30",
+    "foreign": false,
+    "hands": "우투좌타",
+    "skin_type": 0,
+    "skin_reference_head": 1
+  }
+]

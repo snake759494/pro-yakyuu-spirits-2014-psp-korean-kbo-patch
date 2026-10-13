@@ -1,0 +1,52 @@
+[
+  {
+    "team": "LG",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_LG.png",
+    "sha256": "c87b30d1a0bf7e21aebe7d320a92162b6e8df4e9bda97d9c2273f928949092c8"
+  },
+  {
+    "team": "SS",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_SS.png",
+    "sha256": "5ccab322ce73af2101f39400fa6d91ee10e12e4baad85adbedef30601e09569a"
+  },
+  {
+    "team": "HT",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_HT.png",
+    "sha256": "ecb6444330b979a6e3761ebd5bee0d3aa164e439d03f91bb728d1533c0bc2311"
+  },
+  {
+    "team": "WO",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_WO.png",
+    "sha256": "d4140002d837e304ca1f0911e2c0265fd4b1c2022badf560b4bb0a4d6e9d8c3c"
+  },
+  {
+    "team": "KT",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_KT.png",
+    "sha256": "6073bd091a63e4bfebb3d7aa7f59b85c2c935fbc5796f07277e807a8546976c6"
+  },
+  {
+    "team": "LT",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_LT.png",
+    "sha256": "86e96f164d723600cafb3eff7d3c36417ce4da029732d27a23bdff2f3acc7310"
+  },
+  {
+    "team": "HH",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_HH.png",
+    "sha256": "4e0f7b55651b91c406171950a48810e22b727893d3f6d2f3f7097372f4eeeeeb"
+  },
+  {
+    "team": "OB",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_OB.png",
+    "sha256": "b3e3f70951b5e7cc0ad56c3528a03a8442fc172345261b3561f1a9626c9e37cd"
+  },
+  {
+    "team": "SK",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_SK.png",
+    "sha256": "c05e09d4481a2d87e413be04f4b2cc742a9aeefabb6791528e89e653b6788212"
+  },
+  {
+    "team": "NC",
+    "url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_NC.png",
+    "sha256": "3ca9ffb9b9797653b10fa68a0a3c810fd5fbc1d63cef3b5862c2c52ba943e1f8"
+  }
+]

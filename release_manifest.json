@@ -1,0 +1,31 @@
+{
+  "version": "v1.0",
+  "date": "2026-10-13",
+  "game": "Pro Yakyuu Spirits 2014 (Japan) (v2.00)",
+  "platform": "PSP",
+  "serial": "NPJH-50838",
+  "asset": "ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta",
+  "xdelta_options": "xdelta3 3.1.0 -e -S none -A (2차 압축 없음)",
+  "source": {
+    "bytes": 1401618432,
+    "md5": "dae23384b4ae587b5cf31f8837be3987",
+    "sha1": "ef56660521b5d792addb522c9d10d60cf2118da8",
+    "sha256": "d58bb782f027e0889e47c145462b2c694433c856fcbf2411ce5d186a40521e5f"
+  },
+  "output": {
+    "bytes": 1401618432,
+    "md5": "0bf0af94d547ccf6e991128b557a6aa5",
+    "sha1": "0556fcf3b68dfe54e00db74f5483335868312c0e",
+    "sha256": "4627548540216cfc0b3a42c9a1c7b9230f712d81327f5e866040e8a96862bb39"
+  },
+  "patch": {
+    "bytes": 11748617,
+    "md5": "072f0e51364a50098d7b0a700decafca",
+    "sha1": "2a7d31687e6225040598ff430b9310dee9bcd846",
+    "sha256": "6c614156312deb7d0c13c4f6dff6351cbc1199ed69bb70aaa087b18915c0eece"
+  },
+  "roundtrip_verified": true,
+  "runtime_verified": true,
+  "runtime_scope": "PPSSPP 독립 메모리 스틱 콜드 부팅. 새 페넌트 619명·스태프 50명 RAM 대조(직전 빌드), 10구단 1군 화면, 초상화, 홈런 경쟁 3D 얼굴(최종 빌드). 경기 완주·시즌 진행·실기 PSP 미검증.",
+  "kbo_scope": "KBO 리그 구조(10구단 일정·통합 순위·DH·1군 편성)는 페넌트 레이스 모드에만 적용"
+}

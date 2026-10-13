@@ -1,0 +1,1 @@
+{"iso_sha256": "262e2cdf7922ed8b50f07615320b98b29b437a906af6b794c56b36d6ed161131", "method": "기본/새 페넌트 전체 팀 편성 RAM: 선수/스태프 포인터, 이름, 본체·캐시 주 포지션, 등록명 선택자, 1군 상태 전수 대조", "roots": ["0x9468f70", "0x9652b40"], "memory_write": false, "players": 619, "staff": 50, "passed": true}

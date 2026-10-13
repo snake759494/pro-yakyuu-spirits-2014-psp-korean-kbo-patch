@@ -1,0 +1,836 @@
+[
+  {
+    "file": "BOOT.BIN",
+    "offset": 2782988,
+    "ja": "　進行状況　：%d年オフシーズン（%d年目）\n　使用チーム：%s\n　残りターン：%d",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2783096,
+    "ja": "　進行状況　：%d年%d月%d日（%d年目）\n　使用チーム：%s",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2783200,
+    "ja": "使用チーム　　：%s\nプレイ日数　　：%d日\n保有スピコイン：%dSC",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2783428,
+    "ja": "　進行状況：%d年オフシーズン（%d年目）\n　所属チーム：%s\n　守備位置　：%s",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2783532,
+    "ja": "　進行状況：%d年%d月%d日（%d年目）\n　所属チーム：%s\n　守備位置　：%s",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2792468,
+    "ja": "ファイル名が正しくありません。 \nファイル名は以下の形式にしてください。 \n\n1〜8文字＋「．%s」　または \n「%s」＋0〜5文字＋「．」＋1〜3文字 \n名前の途中に空白は使用できません。",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2792716,
+    "ja": "以下の文字列で始まる名前はファイル名に \n使用できません。 \n　　・ PARAM \n　　・ ICON \n　　・ PIC \n　　・ SND \n拡張子が「.SFO」「.SYS」となるファイルも \n使用できません。",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2796576,
+    "ja": "以下のデータをセーブしますか？\n【システムデータ】\n　・所持ＶＰポイント、マイ設定、サウンド設定\n　・ＶＰショップのアイテムと覚醒選手\n　・オリジナル選手（100人分）\n　・チーム編成情報（14チーム分）\n　・ホームラン競争の記録、プロスピ入門の記録\n　・AIの学習情報\n【応援曲データ】\n　・オリジナル応援曲（152曲分）",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2797028,
+    "ja": "以下のデータをロードしますか？\n【システムデータ】\n　・所持ＶＰポイント、マイ設定、サウンド設定\n　・ＶＰショップのアイテムと覚醒選手\n　・オリジナル選手（100人分）\n　・チーム編成情報（14チーム分）\n　・ホームラン競争の記録、プロスピ入門の記録\n　・AIの学習情報\n【応援曲データ】\n　・オリジナル応援曲（152曲分）",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "grandprix.elf",
+    "offset": 114228,
+    "ja": "プロスピ",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2790792,
+    "ja": "プロ野球スピリッツ２０１４",
+    "encoding": "utf-8"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 6118,
+    "ja": "スクリュー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 18598,
+    "ja": "ナックル"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 23014,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 24358,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 24742,
+    "ja": "カツオカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 25894,
+    "ja": "ヨシボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 28006,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 29350,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 39142,
+    "ja": "パニッシュボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 40102,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 43366,
+    "ja": "フォックル"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 46054,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 49510,
+    "ja": "パワーシンカー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 52390,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 54694,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 56038,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 59878,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 63526,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 66790,
+    "ja": "ゼロボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 67366,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 70630,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 71590,
+    "ja": "高速チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 71782,
+    "ja": "シュート"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 76966,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 79078,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 80422,
+    "ja": "イーファスピッチ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 82150,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 82342,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 82726,
+    "ja": "石直球"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 84262,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 86182,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 88294,
+    "ja": "巽ボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 100966,
+    "ja": "オージーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 103462,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 106342,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 107302,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 108646,
+    "ja": "太一カーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 120166,
+    "ja": "カーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 122662,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 126886,
+    "ja": "嘉弥真ボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 128614,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 136870,
+    "ja": "パーム"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 138022,
+    "ja": "ストレート"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 143590,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDN",
+    "offset": 149542,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDTS",
+    "offset": 486246,
+    "ja": "パニッシュボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 487274,
+    "ja": "スクリュー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 492734,
+    "ja": "ナックル"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 494666,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 495254,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 495422,
+    "ja": "カツオカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 495926,
+    "ja": "ヨシボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 496850,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 497438,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 501722,
+    "ja": "パニッシュボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 502142,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 503570,
+    "ja": "フォックル"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 504746,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 506258,
+    "ja": "パワーシンカー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 507518,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 508526,
+    "ja": "スライダー"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 509114,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 510794,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 512390,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 513818,
+    "ja": "ゼロボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 514070,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 515498,
+    "ja": "バルカンチェンジ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 515918,
+    "ja": "高速チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 516002,
+    "ja": "シュート"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 518270,
+    "ja": "真っスラ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 519194,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 519782,
+    "ja": "イーファスピッチ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 520538,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 520622,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 520790,
+    "ja": "石直球"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 521462,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 522302,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 523226,
+    "ja": "巽ボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 528770,
+    "ja": "オージーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 529862,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 531122,
+    "ja": "パワーカーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 531542,
+    "ja": "フォーク"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 532130,
+    "ja": "太一カーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 537170,
+    "ja": "カーブ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 538262,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 540110,
+    "ja": "嘉弥真ボール"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 540866,
+    "ja": "チェンジアップ"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 544478,
+    "ja": "パーム"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 544982,
+    "ja": "ストレート"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 547418,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "PLAYERDATA.CHK",
+    "chunk": "PDW",
+    "offset": 550022,
+    "ja": "ツーシームファスト"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811456,
+    "ja": "投",
+    "ko": "투"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811460,
+    "ja": "捕",
+    "ko": "포"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811464,
+    "ja": "一",
+    "ko": "1"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811468,
+    "ja": "二",
+    "ko": "2"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811472,
+    "ja": "三",
+    "ko": "삼"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811476,
+    "ja": "遊",
+    "ko": "유"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811480,
+    "ja": "左",
+    "ko": "좌"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811484,
+    "ja": "中",
+    "ko": "중"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811488,
+    "ja": "右",
+    "ko": "우"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811492,
+    "ja": "安",
+    "ko": "안"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811496,
+    "ja": "２",
+    "ko": "２"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811500,
+    "ja": "３",
+    "ko": "３"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811504,
+    "ja": "本",
+    "ko": "홈"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811508,
+    "ja": "前",
+    "ko": "앞"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811512,
+    "ja": "越",
+    "ko": "넘"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811516,
+    "ja": "線",
+    "ko": "선"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811520,
+    "ja": "権",
+    "ko": "인"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811524,
+    "ja": "走",
+    "ko": "주"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811528,
+    "ja": "ゴ",
+    "ko": "땅"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811532,
+    "ja": "飛",
+    "ko": "플"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811536,
+    "ja": "直",
+    "ko": "직"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811540,
+    "ja": "邪",
+    "ko": "파"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811544,
+    "ja": "併",
+    "ko": "병"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811548,
+    "ja": "失",
+    "ko": "실"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811552,
+    "ja": "野",
+    "ko": "야"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811556,
+    "ja": "送",
+    "ko": "송"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811560,
+    "ja": "ギ",
+    "ko": "번"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811564,
+    "ja": "犠",
+    "ko": "희"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811568,
+    "ja": "ス",
+    "ko": "스"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811572,
+    "ja": "四",
+    "ko": "볼"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811576,
+    "ja": "死",
+    "ko": "사"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811580,
+    "ja": "敬",
+    "ko": "고"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811584,
+    "ja": "球",
+    "ko": "구"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811588,
+    "ja": "見",
+    "ko": "루킹"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811592,
+    "ja": "空",
+    "ko": "헛"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811596,
+    "ja": "振",
+    "ko": "진"
+  },
+  {
+    "file": "BOOT.BIN",
+    "offset": 2811600,
+    "ja": "逃",
+    "ko": "낫"
+  }
+]

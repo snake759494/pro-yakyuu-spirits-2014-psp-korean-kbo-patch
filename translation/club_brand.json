@@ -1,0 +1,930 @@
+{
+  "SS": {
+    "team_id": 1,
+    "asset": "D",
+    "name": "삼성 라이온즈",
+    "city": "대구",
+    "uniform": "N01D",
+    "cap_color": [
+      0,
+      64,
+      165
+    ],
+    "home_color": [
+      240,
+      240,
+      241
+    ],
+    "away_color": [
+      0,
+      66,
+      166
+    ],
+    "alternate_color": [
+      0,
+      66,
+      166
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/ss_brand",
+    "front_seam": [
+      11,
+      245
+    ],
+    "source": "https://www.samsunglions.com/intro/intro02.asp?act=view&idx=1013795",
+    "status": "개발 중",
+    "stadium_slot": 3,
+    "stadium_model": "YOKOHAMA",
+    "stadium_name": "대구삼성라이온즈파크",
+    "stadium_short": "대구",
+    "ads": [
+      "036",
+      "038",
+      "060",
+      "062",
+      "064",
+      "067",
+      "069",
+      "072",
+      "074",
+      "077",
+      "080",
+      "082",
+      "084",
+      "089",
+      "091",
+      "093",
+      "102",
+      "135",
+      "137",
+      "139",
+      "152",
+      "156",
+      "168",
+      "171",
+      "176",
+      "178",
+      "193",
+      "195",
+      "198",
+      "200",
+      "202",
+      "209",
+      "226",
+      "229",
+      "256",
+      "282",
+      "285",
+      "287",
+      "289",
+      "291",
+      "293"
+    ],
+    "plain_template": true,
+    "stadium_display_name": "라이온즈파크"
+  },
+  "HT": {
+    "team_id": 2,
+    "asset": "C",
+    "name": "KIA 타이거즈",
+    "city": "광주",
+    "uniform": "N02C",
+    "cap_color": [
+      10,
+      20,
+      28
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      12,
+      22,
+      29
+    ],
+    "alternate_color": [
+      181,
+      14,
+      34
+    ],
+    "pants_color": [
+      239,
+      239,
+      237
+    ],
+    "home_letter_color": [
+      15,
+      20,
+      25
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "side_color": [
+      193,
+      13,
+      35
+    ],
+    "asset_dir": "translation/ht_brand",
+    "source": "https://tigers.co.kr/tigers/bi/uniform",
+    "stadium_slot": 1,
+    "stadium_model": "HIROSHIMA",
+    "stadium_name": "광주기아챔피언스필드",
+    "stadium_short": "광주",
+    "stadium_english": "GWANGJU KIA",
+    "ads": [
+      "060",
+      "077",
+      "086",
+      "088",
+      "090",
+      "093",
+      "095",
+      "097",
+      "100",
+      "102",
+      "107",
+      "128",
+      "140",
+      "143",
+      "145",
+      "147",
+      "167",
+      "169",
+      "172",
+      "175",
+      "177",
+      "206",
+      "208",
+      "212",
+      "229",
+      "242",
+      "244",
+      "251",
+      "253",
+      "255",
+      "280",
+      "303",
+      "330"
+    ],
+    "uv_overrides": {
+      "128": [
+        [
+          0,
+          16,
+          48,
+          32
+        ],
+        [
+          0,
+          48,
+          48,
+          64
+        ],
+        [
+          0,
+          72,
+          48,
+          88
+        ]
+      ],
+      "303": [
+        [
+          0,
+          0,
+          44,
+          32
+        ],
+        [
+          44,
+          0,
+          64,
+          32
+        ],
+        [
+          0,
+          33,
+          64,
+          64
+        ]
+      ],
+      "330": [
+        [
+          0,
+          0,
+          64,
+          16
+        ]
+      ]
+    },
+    "preserve_facade": [
+      "128"
+    ],
+    "plain_template": true
+  },
+  "WO": {
+    "team_id": 3,
+    "asset": "S",
+    "name": "키움 히어로즈",
+    "city": "서울",
+    "uniform": "N03S",
+    "cap_color": [
+      104,
+      0,
+      30
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      108,
+      0,
+      31
+    ],
+    "alternate_color": [
+      108,
+      0,
+      31
+    ],
+    "pants_color": [
+      238,
+      238,
+      237
+    ],
+    "home_letter_color": [
+      104,
+      0,
+      30
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/wo_brand",
+    "stadium_slot": 4,
+    "stadium_model": "NAGOYA",
+    "stadium_name": "고척스카이돔",
+    "stadium_short": "서울",
+    "stadium_english": "SEOUL KIWOOM",
+    "ads": [
+      "096",
+      "098",
+      "116",
+      "118",
+      "121",
+      "123",
+      "129",
+      "167",
+      "170"
+    ],
+    "source": "https://heroesbaseball.co.kr/heroes/bi/bi.do",
+    "select_asset": "YS",
+    "plain_template": true
+  },
+  "KT": {
+    "team_id": 4,
+    "asset": "B",
+    "name": "KT 위즈",
+    "city": "수원",
+    "uniform": "N04B",
+    "cap_color": [
+      27,
+      43,
+      45
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      29,
+      45,
+      47
+    ],
+    "alternate_color": [
+      29,
+      45,
+      47
+    ],
+    "pants_color": [
+      238,
+      238,
+      237
+    ],
+    "home_letter_color": [
+      27,
+      43,
+      45
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/kt_brand",
+    "stadium_slot": 6,
+    "stadium_model": "KOBE",
+    "stadium_name": "수원KT위즈파크",
+    "stadium_short": "수원",
+    "stadium_english": "SUWON KT WIZ",
+    "ads": [
+      "029",
+      "031",
+      "104",
+      "133",
+      "136",
+      "196",
+      "223"
+    ],
+    "source": "https://www.ktwiz.co.kr/ktwiz/bi/symbol",
+    "select_asset": "YB",
+    "plain_template": true
+  },
+  "OB": {
+    "team_id": 7,
+    "asset": "F",
+    "name": "두산 베어스",
+    "city": "서울",
+    "uniform": "N07F",
+    "cap_color": [
+      12,
+      15,
+      45
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      14,
+      17,
+      47
+    ],
+    "alternate_color": [
+      14,
+      17,
+      47
+    ],
+    "pants_color": [
+      238,
+      238,
+      237
+    ],
+    "home_letter_color": [
+      12,
+      15,
+      45
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/ob_brand",
+    "stadium_slot": 0,
+    "stadium_model": "CHIBA",
+    "stadium_name": "잠실야구장",
+    "stadium_short": "서울",
+    "stadium_english": "SEOUL BEARS",
+    "ads": [
+      "030",
+      "032",
+      "080",
+      "089",
+      "091",
+      "093",
+      "095",
+      "098",
+      "104",
+      "106",
+      "108",
+      "110",
+      "113",
+      "115",
+      "120",
+      "122",
+      "124",
+      "127",
+      "129",
+      "132",
+      "134",
+      "153",
+      "155",
+      "157",
+      "160",
+      "162",
+      "169",
+      "176",
+      "180",
+      "204",
+      "206",
+      "209",
+      "211",
+      "214",
+      "216",
+      "218",
+      "237",
+      "239",
+      "246",
+      "249",
+      "288",
+      "290",
+      "330",
+      "332",
+      "334",
+      "336",
+      "338",
+      "340",
+      "342",
+      "344",
+      "346",
+      "348",
+      "350",
+      "352",
+      "354",
+      "356",
+      "358"
+    ],
+    "source": "https://www.doosanbears.com/bears/brand",
+    "donor_slot": 7,
+    "resource_labels": [
+      "DTOKYO",
+      "NJINGU"
+    ],
+    "resource_map": {
+      "CJINGU.CHK": "CCHIBA.CHK",
+      "DTOKYO.CHK": "DCHIBA.CHK",
+      "DTOKYOM.CHK": "DCHIBAM.CHK",
+      "NJINGU.CHK": "NCHIBA.CHK",
+      "NJINGUM.CHK": "NCHIBAM.CHK"
+    },
+    "uv_overrides": {
+      "237": [
+        [
+          0,
+          3,
+          110,
+          21
+        ],
+        [
+          0,
+          24,
+          110,
+          41
+        ],
+        [
+          0,
+          44,
+          110,
+          63
+        ],
+        [
+          0,
+          66,
+          110,
+          82
+        ],
+        [
+          0,
+          84,
+          110,
+          105
+        ],
+        [
+          0,
+          110,
+          110,
+          125
+        ],
+        [
+          113,
+          3,
+          127,
+          108
+        ]
+      ],
+      "239": [
+        [
+          0,
+          3,
+          108,
+          23
+        ],
+        [
+          0,
+          25,
+          108,
+          44
+        ],
+        [
+          0,
+          46,
+          108,
+          65
+        ],
+        [
+          0,
+          67,
+          108,
+          84
+        ],
+        [
+          0,
+          86,
+          108,
+          110
+        ],
+        [
+          0,
+          112,
+          108,
+          127
+        ],
+        [
+          111,
+          3,
+          128,
+          127
+        ]
+      ],
+      "290": [
+        [
+          0,
+          2,
+          110,
+          16
+        ],
+        [
+          0,
+          18,
+          110,
+          31
+        ],
+        [
+          0,
+          34,
+          110,
+          47
+        ],
+        [
+          0,
+          50,
+          110,
+          64
+        ],
+        [
+          0,
+          66,
+          110,
+          78
+        ],
+        [
+          0,
+          80,
+          110,
+          94
+        ],
+        [
+          0,
+          99,
+          110,
+          111
+        ],
+        [
+          0,
+          114,
+          110,
+          127
+        ]
+      ]
+    },
+    "plain_template": true
+  },
+  "SK": {
+    "team_id": 8,
+    "asset": "L",
+    "name": "SSG 랜더스",
+    "city": "인천",
+    "uniform": "N08L",
+    "cap_color": [
+      181,
+      10,
+      42
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      181,
+      10,
+      42
+    ],
+    "alternate_color": [
+      181,
+      10,
+      42
+    ],
+    "pants_color": [
+      238,
+      238,
+      237
+    ],
+    "home_letter_color": [
+      181,
+      10,
+      42
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/sk_brand",
+    "stadium_slot": 8,
+    "stadium_model": "YOKOHAMA",
+    "stadium_name": "인천SSG랜더스필드",
+    "stadium_short": "인천",
+    "stadium_english": "INCHEON LANDERS",
+    "ads": [
+      "036",
+      "038",
+      "060",
+      "062",
+      "064",
+      "067",
+      "069",
+      "072",
+      "074",
+      "077",
+      "080",
+      "082",
+      "084",
+      "089",
+      "091",
+      "093",
+      "102",
+      "135",
+      "137",
+      "139",
+      "152",
+      "156",
+      "168",
+      "171",
+      "176",
+      "178",
+      "193",
+      "195",
+      "198",
+      "200",
+      "202",
+      "209",
+      "226",
+      "229",
+      "256",
+      "282",
+      "285",
+      "287",
+      "289",
+      "291",
+      "293"
+    ],
+    "source": "https://www.ssglanders.com/landers/emblem",
+    "donor_slot": 3,
+    "resource_map": {
+      "CSEIBU.CHK": "CYOKOHAMA.CHK",
+      "DSEIBU.CHK": "DYOKOHAMA.CHK",
+      "NSEIBU.CHK": "NYOKOHAMA.CHK",
+      "DSEIBUM.CHK": "DYOKOHAMAM.CHK",
+      "NSEIBUM.CHK": "DYOKOHAMAM.CHK"
+    },
+    "night_submesh_note": "원본 밤 조명 LIGHTS 적용. 보조 M은 크기 제약으로 낮 구조를 사용하며 밤 전용 조명 번짐 텍스처는 제외.",
+    "plain_template": true,
+    "aux_light_sources": {
+      "NSEIBUM.CHK": "NYOKOHAMAM.CHK"
+    },
+    "stadium_display_name": "랜더스필드"
+  },
+  "NC": {
+    "team_id": 9,
+    "asset": "B",
+    "name": "NC 다이노스",
+    "city": "창원",
+    "uniform": "N09B",
+    "cap_color": [
+      14,
+      50,
+      89
+    ],
+    "home_color": [
+      240,
+      240,
+      238
+    ],
+    "away_color": [
+      18,
+      56,
+      99
+    ],
+    "alternate_color": [
+      18,
+      56,
+      99
+    ],
+    "pants_color": [
+      238,
+      238,
+      237
+    ],
+    "home_letter_color": [
+      14,
+      50,
+      89
+    ],
+    "away_letter_color": [
+      240,
+      240,
+      238
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/nc_brand",
+    "stadium_slot": 10,
+    "stadium_model": "HIROSHIMA",
+    "stadium_name": "창원NC파크",
+    "stadium_short": "창원",
+    "stadium_english": "CHANGWON DINOS",
+    "ads": [
+      "060",
+      "077",
+      "086",
+      "088",
+      "090",
+      "093",
+      "095",
+      "097",
+      "100",
+      "102",
+      "107",
+      "128",
+      "140",
+      "143",
+      "145",
+      "147",
+      "167",
+      "169",
+      "172",
+      "175",
+      "177",
+      "206",
+      "208",
+      "212",
+      "229",
+      "242",
+      "244",
+      "251",
+      "253",
+      "255",
+      "280",
+      "303",
+      "330"
+    ],
+    "source": "https://www.ncdinos.com/dinos/vi.do",
+    "donor_slot": 1,
+    "resource_labels": [
+      "DOSAKA",
+      "DSAPPORO"
+    ],
+    "resource_map": {
+      "COSAKA.CHK": "CHIROSHIMA.CHK",
+      "DOSAKA.CHK": "DHIROSHIMA.CHK",
+      "DOSAKAM.CHK": "DHIROSHIMAM.CHK",
+      "DSAPPORO.CHK": "NHIROSHIMA.CHK",
+      "DSAPPOROM.CHK": "NHIROSHIMAM.CHK"
+    },
+    "uv_overrides": {
+      "128": [
+        [
+          0,
+          16,
+          48,
+          32
+        ],
+        [
+          0,
+          48,
+          48,
+          64
+        ],
+        [
+          0,
+          72,
+          48,
+          88
+        ]
+      ],
+      "303": [
+        [
+          0,
+          0,
+          44,
+          32
+        ],
+        [
+          44,
+          0,
+          64,
+          32
+        ],
+        [
+          0,
+          33,
+          64,
+          64
+        ]
+      ],
+      "330": [
+        [
+          0,
+          0,
+          64,
+          16
+        ]
+      ]
+    },
+    "preserve_facade": [
+      "128"
+    ],
+    "select_asset": "BS",
+    "plain_template": true
+  },
+  "LT": {
+    "team_id": 5,
+    "asset": "T",
+    "name": "롯데 자이언츠",
+    "city": "부산",
+    "uniform": "N05T",
+    "cap_color": [
+      23,
+      28,
+      44
+    ],
+    "home_color": [
+      239,
+      236,
+      222
+    ],
+    "away_color": [
+      23,
+      28,
+      44
+    ],
+    "alternate_color": [
+      23,
+      28,
+      44
+    ],
+    "home_letter_color": [
+      193,
+      13,
+      36
+    ],
+    "away_letter_color": [
+      219,
+      22,
+      42
+    ],
+    "pinstripe": false,
+    "asset_dir": "translation/lt_brand",
+    "source": "https://www.lotteon.com/p/product/LO2466862314",
+    "stadium_slot": 5,
+    "stadium_model": "KOSHIEN",
+    "stadium_name": "사직야구장",
+    "stadium_short": "부산",
+    "stadium_english": "BUSAN GIANTS",
+    "ads": [
+      "064",
+      "069",
+      "126",
+      "205",
+      "208",
+      "297",
+      "311"
+    ],
+    "plain_template": true
+  }
+}

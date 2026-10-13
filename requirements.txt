@@ -1,0 +1,8 @@
+Pillow
+numpy
+pycdlib
+pycryptodome
+websocket-client
+opencv-python
+unicorn
+capstone

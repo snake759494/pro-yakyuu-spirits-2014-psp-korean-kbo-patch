@@ -1,0 +1,182 @@
+[
+  {
+    "code": "SS",
+    "source": "https://www.samsunglions.com/intro/intro02.asp?act=view&idx=1013795",
+    "assets": [
+      {
+        "path": "translation/ss_brand/away_word.png",
+        "sha256": "2478a19e6d0c59169f06c1facc32ec4c3847634bed6047b31615ec5d545eb6ed"
+      },
+      {
+        "path": "translation/ss_brand/cap.png",
+        "sha256": "b34ad5dcda285bd8c835da2e641662bad13d95ce6798d280a4154f10bb667899"
+      },
+      {
+        "path": "translation/ss_brand/emblem.png",
+        "sha256": "0c1878a7e56d78e1ad3182bb43673607aa2644b0c4f76d029267a165548f87ff"
+      },
+      {
+        "path": "translation/ss_brand/home_word.png",
+        "sha256": "5e9baa4f260ec1f8d26030f5f45e21a16927d68f515e492f97664aa739c8cb78"
+      },
+      {
+        "path": "translation/ss_brand/uniform_reference.png",
+        "sha256": "1743272fce132d4f80979abf91d9b17e97ef2d4ca7250ecb86681e48319f098c"
+      },
+      {
+        "path": "translation/ss_brand/wordmark.png",
+        "sha256": "3e065e8785c691f4abdf66e9205cfff872ada75fa739760eb16ab8554b6b1ef8"
+      }
+    ],
+    "stadium_model": "YOKOHAMA",
+    "stadium_name": "대구삼성라이온즈파크",
+    "home_slot": 3
+  },
+  {
+    "code": "HT",
+    "source": "https://tigers.co.kr/tigers/bi/uniform",
+    "assets": [
+      {
+        "path": "translation/ht_brand/away_word.png",
+        "sha256": "b4b1abefef4f187926a5b3a6d2381749e6d8973e033a392d1ba01b5d412702c4"
+      },
+      {
+        "path": "translation/ht_brand/cap.png",
+        "sha256": "d8fb084e94d3cb61b50461d9bfdde0d132fa9d9a617d210f6adc98d2110a9355"
+      },
+      {
+        "path": "translation/ht_brand/home_word.png",
+        "sha256": "9bc7cf8611f8709897488552f640a1ef34e95fa0a5780d0fc0c7b7ca8014a557"
+      }
+    ],
+    "stadium_model": "HIROSHIMA",
+    "stadium_name": "광주기아챔피언스필드",
+    "home_slot": 1
+  },
+  {
+    "code": "WO",
+    "source": "https://heroesbaseball.co.kr/heroes/bi/bi.do",
+    "assets": [
+      {
+        "path": "translation/wo_brand/away_word.png",
+        "sha256": "d79c3bcf17c0df3f3c1210fcfd420afa8e6e115f008bc70eb48578f89ca12734"
+      },
+      {
+        "path": "translation/wo_brand/cap.png",
+        "sha256": "9039d496a0f17c0a9801e6d17f2a2506259d9743275065ef58e864c3200243e2"
+      },
+      {
+        "path": "translation/wo_brand/home_word.png",
+        "sha256": "a89bfef31fdfdc8fec415c4502201b078702e60eb5ea2f73bc37960332d97d61"
+      }
+    ],
+    "stadium_model": "NAGOYA",
+    "stadium_name": "고척스카이돔",
+    "home_slot": 4
+  },
+  {
+    "code": "KT",
+    "source": "https://www.ktwiz.co.kr/ktwiz/bi/symbol",
+    "assets": [
+      {
+        "path": "translation/kt_brand/away_word.png",
+        "sha256": "34091127165e9c22d64b9c79f69ff0c921fa4f553e7082e877618570f71f5d15"
+      },
+      {
+        "path": "translation/kt_brand/cap.png",
+        "sha256": "f6102d84132339e929cbd3ce06b4edef07290fba01fdc4c3c575d8378359d89a"
+      },
+      {
+        "path": "translation/kt_brand/home_word.png",
+        "sha256": "81ee1ed1d00d40fd8c4763faa1ec64a58a7a0337ca6b530388c090726875c227"
+      }
+    ],
+    "stadium_model": "KOBE",
+    "stadium_name": "수원KT위즈파크",
+    "home_slot": 6
+  },
+  {
+    "code": "OB",
+    "source": "https://www.doosanbears.com/bears/brand",
+    "assets": [
+      {
+        "path": "translation/ob_brand/away_word.png",
+        "sha256": "a74ae6a67d60049495139c7d9b4a2b12a5b6f8aebed48eb49f2e03e177eae436"
+      },
+      {
+        "path": "translation/ob_brand/cap.png",
+        "sha256": "dbb56401ed0296f6fe66ba8d85fd39b5a5aa70564069fb1b7ea4ebd03c36ee48"
+      },
+      {
+        "path": "translation/ob_brand/home_word.png",
+        "sha256": "a74ae6a67d60049495139c7d9b4a2b12a5b6f8aebed48eb49f2e03e177eae436"
+      }
+    ],
+    "stadium_model": "CHIBA",
+    "stadium_name": "잠실야구장",
+    "home_slot": 0
+  },
+  {
+    "code": "SK",
+    "source": "https://www.ssglanders.com/landers/emblem",
+    "assets": [
+      {
+        "path": "translation/sk_brand/away_word.png",
+        "sha256": "200dbf2ff1cb445e6940c48cc37ced62e5f9aa9ccd1dcc8b658c1aa9fe859800"
+      },
+      {
+        "path": "translation/sk_brand/cap.png",
+        "sha256": "aec60c503ce034b3170560249b09def71c608bce873b94a2ac97dab08f0a8221"
+      },
+      {
+        "path": "translation/sk_brand/home_word.png",
+        "sha256": "b0aed2d2092ea1577845bb04641e6667b96b6b28874f895778f2069542123284"
+      }
+    ],
+    "stadium_model": "YOKOHAMA",
+    "stadium_name": "인천SSG랜더스필드",
+    "home_slot": 8
+  },
+  {
+    "code": "NC",
+    "source": "https://www.ncdinos.com/dinos/vi.do",
+    "assets": [
+      {
+        "path": "translation/nc_brand/away_word.png",
+        "sha256": "50b266e49012a3ebd75868114e176d5dedf2cf38be7233ff62156720b39d6d16"
+      },
+      {
+        "path": "translation/nc_brand/cap.png",
+        "sha256": "36f04a9ee3b7de53eb6ee3f4fc99c725fa0fe7b39f19949e0b1fe18ad41e47d2"
+      },
+      {
+        "path": "translation/nc_brand/home_word.png",
+        "sha256": "e5b3c730d456a1966f4bac6c4282e4e66b6934febcd414687dca3cd295a74643"
+      }
+    ],
+    "stadium_model": "HIROSHIMA",
+    "stadium_name": "창원NC파크",
+    "home_slot": 10
+  },
+  {
+    "code": "LT",
+    "source": "https://www.lotteon.com/p/product/LO2466862314",
+    "assets": [
+      {
+        "path": "translation/lt_brand/away_word.png",
+        "sha256": "fc8055562e5d7e171564f46d1df7e579948f47f5ff4c087c64a045768cd42edc"
+      },
+      {
+        "path": "translation/lt_brand/cap.png",
+        "sha256": "797e32b5da446cadb93a06b7da1fc822fde4bb078e939852e0ab7aea061084bc"
+      },
+      {
+        "path": "translation/lt_brand/home_word.png",
+        "sha256": "fc8055562e5d7e171564f46d1df7e579948f47f5ff4c087c64a045768cd42edc"
+      }
+    ],
+    "stadium_model": "KOSHIEN",
+    "stadium_name": "사직야구장",
+    "home_slot": 5
+  }
+]

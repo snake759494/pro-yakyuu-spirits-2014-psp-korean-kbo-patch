@@ -1,0 +1,37 @@
+[
+  {
+    "file": "PNAUTOADV.CHK",
+    "offset": 109500,
+    "ko": "1-5"
+  },
+  {
+    "file": "PNAUTOADV.CHK",
+    "offset": 110184,
+    "ko": "6-10"
+  },
+  {
+    "file": "dm_gmopg.elf",
+    "offset": 36696,
+    "ko": "KBO"
+  },
+  {
+    "file": "com_pena.elf",
+    "offset": 232252,
+    "ko": "KBO 공식전"
+  },
+  {
+    "file": "com_pena.elf",
+    "offset": 232272,
+    "ko": "KBO 공식전"
+  },
+  {
+    "file": "com_sel.elf",
+    "offset": 1356556,
+    "ko": "KBO 공식전"
+  },
+  {
+    "file": "com_sel.elf",
+    "offset": 1356576,
+    "ko": "KBO 공식전"
+  }
+]

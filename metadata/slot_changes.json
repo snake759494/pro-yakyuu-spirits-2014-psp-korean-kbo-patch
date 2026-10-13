@@ -1,0 +1,548 @@
+[
+  {
+    "team": "LG",
+    "index": 259,
+    "before": {
+      "player_id": "62558",
+      "name": "김준태"
+    },
+    "after": {
+      "player_id": "56103",
+      "name": "카라스코"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LG",
+    "index": 353,
+    "before": {
+      "player_id": "55163",
+      "name": "추세현"
+    },
+    "after": {
+      "player_id": "50157",
+      "name": "김윤식"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LG",
+    "index": 428,
+    "before": {
+      "player_id": "55164",
+      "name": "박관우"
+    },
+    "after": {
+      "player_id": "67119",
+      "name": "고우석"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LG",
+    "index": 429,
+    "before": {
+      "player_id": "55160",
+      "name": "서영준"
+    },
+    "after": {
+      "player_id": "69168",
+      "name": "이상영"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LG",
+    "index": 610,
+    "before": {
+      "player_id": "53139",
+      "name": "박명근"
+    },
+    "after": {
+      "player_id": "56168",
+      "name": "케네디"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SS",
+    "index": 5,
+    "before": {
+      "player_id": "54401",
+      "name": "김대호"
+    },
+    "after": {
+      "player_id": "56459",
+      "name": "페덱"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SS",
+    "index": 49,
+    "before": {
+      "player_id": "56467",
+      "name": "김상호"
+    },
+    "after": {
+      "player_id": "55425",
+      "name": "김상준"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SS",
+    "index": 63,
+    "before": {
+      "player_id": "56409",
+      "name": "매닝"
+    },
+    "after": {
+      "player_id": "56474",
+      "name": "사토시"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SS",
+    "index": 70,
+    "before": {
+      "player_id": "56468",
+      "name": "박용재"
+    },
+    "after": {
+      "player_id": "64468",
+      "name": "박계범"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SS",
+    "index": 730,
+    "before": {
+      "player_id": "53404",
+      "name": "류승민"
+    },
+    "after": {
+      "player_id": "51417",
+      "name": "김현준"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "HT",
+    "index": 417,
+    "before": {
+      "player_id": "62951",
+      "name": "이형범"
+    },
+    "after": {
+      "player_id": "54843",
+      "name": "시라카와"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "HT",
+    "index": 418,
+    "before": {
+      "player_id": "55663",
+      "name": "이호민"
+    },
+    "after": {
+      "player_id": "62700",
+      "name": "하주석"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "WO",
+    "index": 48,
+    "before": {
+      "player_id": "69328",
+      "name": "박주성"
+    },
+    "after": {
+      "player_id": "54944",
+      "name": "데이비슨"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "WO",
+    "index": 209,
+    "before": {
+      "player_id": "56366",
+      "name": "이태양"
+    },
+    "after": {
+      "player_id": "55371",
+      "name": "권혁빈"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "WO",
+    "index": 665,
+    "before": {
+      "player_id": "50304",
+      "name": "김병휘"
+    },
+    "after": {
+      "player_id": "56305",
+      "name": "히우라"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "WO",
+    "index": 716,
+    "before": {
+      "player_id": "74163",
+      "name": "이용규"
+    },
+    "after": {
+      "player_id": "51303",
+      "name": "김시앙"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "KT",
+    "index": 38,
+    "before": {
+      "player_id": "55046",
+      "name": "박건우"
+    },
+    "after": {
+      "player_id": "55912",
+      "name": "로건"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "KT",
+    "index": 232,
+    "before": {
+      "player_id": "54063",
+      "name": "원상현"
+    },
+    "after": {
+      "player_id": "56002",
+      "name": "대니엘"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "KT",
+    "index": 250,
+    "before": {
+      "player_id": "52295",
+      "name": "이원재"
+    },
+    "after": {
+      "player_id": "53057",
+      "name": "손민석"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LT",
+    "index": 44,
+    "before": {
+      "player_id": "62363",
+      "name": "한현희"
+    },
+    "after": {
+      "player_id": "56503",
+      "name": "이이무라"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LT",
+    "index": 79,
+    "before": {
+      "player_id": "76430",
+      "name": "김태혁"
+    },
+    "after": {
+      "player_id": "55507",
+      "name": "김태균"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "LT",
+    "index": 532,
+    "before": {
+      "player_id": "55511",
+      "name": "이태경"
+    },
+    "after": {
+      "player_id": "55509",
+      "name": "박건우"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "HH",
+    "index": 219,
+    "before": {
+      "player_id": "62700",
+      "name": "하주석"
+    },
+    "after": {
+      "player_id": "56799",
+      "name": "짐머맨"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "HH",
+    "index": 240,
+    "before": {
+      "player_id": "65764",
+      "name": "김민우"
+    },
+    "after": {
+      "player_id": "56797",
+      "name": "하동준"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "HH",
+    "index": 271,
+    "before": {
+      "player_id": "77532",
+      "name": "손아섭"
+    },
+    "after": {
+      "player_id": "68743",
+      "name": "정은원"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 59,
+    "before": {
+      "player_id": "68200",
+      "name": "김민규"
+    },
+    "after": {
+      "player_id": "52043",
+      "name": "벤자민"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 68,
+    "before": {
+      "player_id": "53262",
+      "name": "김유성"
+    },
+    "after": {
+      "player_id": "56236",
+      "name": "세베리노"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 165,
+    "before": {
+      "player_id": "55222",
+      "name": "김지윤"
+    },
+    "after": {
+      "player_id": "77532",
+      "name": "손아섭"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 216,
+    "before": {
+      "player_id": "68269",
+      "name": "김호준"
+    },
+    "after": {
+      "player_id": "56212",
+      "name": "타카다"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 304,
+    "before": {
+      "player_id": "69205",
+      "name": "이교훈"
+    },
+    "after": {
+      "player_id": "51097",
+      "name": "김영현"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "OB",
+    "index": 575,
+    "before": {
+      "player_id": "64468",
+      "name": "박계범"
+    },
+    "after": {
+      "player_id": "53404",
+      "name": "류승민"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 287,
+    "before": {
+      "player_id": "53898",
+      "name": "송영진"
+    },
+    "after": {
+      "player_id": "56801",
+      "name": "아빌라"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 457,
+    "before": {
+      "player_id": "55832",
+      "name": "이율예"
+    },
+    "after": {
+      "player_id": "50820",
+      "name": "전의산"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 500,
+    "before": {
+      "player_id": "54810",
+      "name": "김규민"
+    },
+    "after": {
+      "player_id": "56808",
+      "name": "신상연"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 561,
+    "before": {
+      "player_id": "76802",
+      "name": "김성현"
+    },
+    "after": {
+      "player_id": "56811",
+      "name": "안재연"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 784,
+    "before": {
+      "player_id": "54805",
+      "name": "박지환"
+    },
+    "after": {
+      "player_id": "53865",
+      "name": "김정민"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "SK",
+    "index": 788,
+    "before": {
+      "player_id": "67807",
+      "name": "이정범"
+    },
+    "after": {
+      "player_id": "56813",
+      "name": "마드리스"
+    },
+    "kind": "new_reserve"
+  },
+  {
+    "team": "SK",
+    "index": 2448,
+    "before": {
+      "player_id": "69813",
+      "name": "하재훈"
+    },
+    "after": {
+      "player_id": "56855",
+      "name": "해치"
+    },
+    "kind": "new_reserve"
+  },
+  {
+    "team": "NC",
+    "index": 55,
+    "before": {
+      "player_id": "52995",
+      "name": "김녹원"
+    },
+    "after": {
+      "player_id": "69962",
+      "name": "송명기"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "NC",
+    "index": 248,
+    "before": {
+      "player_id": "55997",
+      "name": "이세민"
+    },
+    "after": {
+      "player_id": "56950",
+      "name": "블레인"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "NC",
+    "index": 281,
+    "before": {
+      "player_id": "50995",
+      "name": "정구범"
+    },
+    "after": {
+      "player_id": "56939",
+      "name": "클레빈저"
+    },
+    "kind": "new"
+  },
+  {
+    "team": "NC",
+    "index": 582,
+    "before": {
+      "player_id": "54944",
+      "name": "데이비슨"
+    },
+    "after": {
+      "player_id": "51948",
+      "name": "이용준"
+    },
+    "kind": "new"
+  }
+]

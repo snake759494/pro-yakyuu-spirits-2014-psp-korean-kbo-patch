@@ -1,0 +1,5497 @@
+[
+  {
+    "index": 100,
+    "name": "치리노스",
+    "english": "CHIRINOS Yonny",
+    "number": "",
+    "height": 188,
+    "weight": 102,
+    "birth": "1993-12-26",
+    "hands": "우투우타",
+    "player_id": "55146",
+    "source": "https://lgtwinsfanbook.com/2026/",
+    "back_name": "CHIRINOS",
+    "body_type": 14,
+    "skin_type": 4,
+    "skin_reference_head": 5,
+    "face_id": 749,
+    "face_file": "F749.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_100.png",
+    "photo_sha256": "41e30de1b8351eb9bbb66350dde21561c06ea17f6e1888723f4acbb5edf6221b",
+    "landmarks": [
+      [
+        36.90062713623047,
+        46.74918746948242
+      ],
+      [
+        57.66543197631836,
+        46.47807312011719
+      ],
+      [
+        46.98305892944336,
+        56.12540817260742
+      ],
+      [
+        37.8289680480957,
+        62.660972595214844
+      ],
+      [
+        56.86613464355469,
+        64.62525939941406
+      ]
+    ],
+    "face_box": [
+      25,
+      28,
+      44,
+      51
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=55146",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 73,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 153,
+      "pitches": [
+        {
+          "name": "투심",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "스플리터",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": true
+  },
+  {
+    "index": 119,
+    "name": "톨허스트",
+    "english": "TOLHURST Anders",
+    "number": "30",
+    "height": 193,
+    "weight": 86,
+    "birth": "1999-09-13",
+    "hands": "우투우타",
+    "player_id": "55130",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=472",
+    "back_name": "TOLHURST",
+    "body_type": 2,
+    "skin_type": 3,
+    "skin_reference_head": 4,
+    "face_id": 836,
+    "face_file": "F836.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_119.png",
+    "photo_sha256": "4dda0ac5369125c13a1dde65ef3da9ccacd14b5b64556ce6841924ceef10a1f3",
+    "landmarks": [
+      [
+        363.1645812988281,
+        141.08486938476562
+      ],
+      [
+        432.1766357421875,
+        139.4852294921875
+      ],
+      [
+        398.6178894042969,
+        180.81600952148438
+      ],
+      [
+        368.64654541015625,
+        209.43515014648438
+      ],
+      [
+        431.3293151855469,
+        208.0662384033203
+      ]
+    ],
+    "face_box": [
+      326,
+      78,
+      144,
+      187
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=55130",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 155,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": true
+  },
+  {
+    "index": 150,
+    "name": "임찬규",
+    "english": "IM Chan Kyu",
+    "number": "1",
+    "height": 185,
+    "weight": 80,
+    "birth": "1992-11-20",
+    "hands": "우투우타",
+    "player_id": "61101",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=86",
+    "back_name": "IM C.K.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1121,
+    "face_file": "F1121.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_150.png",
+    "photo_sha256": "5b7c26d3ee9fd0799857db1fc7ccc1f3bbd626746b182bf842a18e1ece2e0c07",
+    "landmarks": [
+      [
+        366.84197998046875,
+        140.4005889892578
+      ],
+      [
+        438.44256591796875,
+        142.82662963867188
+      ],
+      [
+        402.23583984375,
+        185.33624267578125
+      ],
+      [
+        368.49468994140625,
+        213.0538330078125
+      ],
+      [
+        432.81805419921875,
+        214.55099487304688
+      ]
+    ],
+    "face_box": [
+      326,
+      72,
+      150,
+      198
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=61101",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 71,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 146,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 182,
+    "name": "웰스",
+    "english": "WELLS Lachlan",
+    "number": "",
+    "height": 185,
+    "weight": 83,
+    "birth": "1997-02-27",
+    "hands": "좌투좌타",
+    "player_id": "55348",
+    "source": "https://lgtwinsfanbook.com/2026/",
+    "back_name": "WELLS",
+    "body_type": 0,
+    "skin_type": 3,
+    "skin_reference_head": 4,
+    "face_id": 1296,
+    "face_file": "F1296.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_182.png",
+    "photo_sha256": "2a834a1114f82d4b9bd10a12d1aad27a0d815e49f6e298e182f9df941188db27",
+    "landmarks": [
+      [
+        38.41548538208008,
+        46.042362213134766
+      ],
+      [
+        56.46515655517578,
+        45.30182647705078
+      ],
+      [
+        47.88874053955078,
+        54.71181106567383
+      ],
+      [
+        40.27122116088867,
+        63.52006912231445
+      ],
+      [
+        56.972042083740234,
+        65.35960388183594
+      ]
+    ],
+    "face_box": [
+      27,
+      31,
+      41,
+      50
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=55348",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": true
+  },
+  {
+    "index": 183,
+    "name": "이정용",
+    "english": "YI Jung Yong",
+    "number": "31",
+    "height": 186,
+    "weight": 85,
+    "birth": "1996-03-26",
+    "hands": "우투우타",
+    "player_id": "69134",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=216",
+    "back_name": "YI J.Y.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1297,
+    "face_file": "F1297.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_183.png",
+    "photo_sha256": "ff1416a9121c626b04314152ec6164867a489b2fb2b729a72809006b1d11cdb9",
+    "landmarks": [
+      [
+        364.2936096191406,
+        143.1745147705078
+      ],
+      [
+        437.7803955078125,
+        142.46307373046875
+      ],
+      [
+        402.7016296386719,
+        189.2302703857422
+      ],
+      [
+        369.2306823730469,
+        219.04376220703125
+      ],
+      [
+        433.0796203613281,
+        218.36978149414062
+      ]
+    ],
+    "face_box": [
+      323,
+      78,
+      153,
+      196
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=69134",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 153,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 190,
+    "name": "함덕주",
+    "english": "HAM Deok Ju",
+    "number": "11",
+    "height": 181,
+    "weight": 78,
+    "birth": "1995-01-13",
+    "hands": "좌투좌타",
+    "player_id": "63248",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=283",
+    "back_name": "HAM D.J.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1336,
+    "face_file": "F1336.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_190.png",
+    "photo_sha256": "0b176a772632b056866cd40c78f2e01dff7a03130b15596d865bf3249cd2c1dc",
+    "landmarks": [
+      [
+        361.9461669921875,
+        140.76902770996094
+      ],
+      [
+        433.0163269042969,
+        137.83181762695312
+      ],
+      [
+        399.9837341308594,
+        180.4571533203125
+      ],
+      [
+        370.354736328125,
+        215.58163452148438
+      ],
+      [
+        431.3148498535156,
+        213.1475372314453
+      ]
+    ],
+    "face_box": [
+      323,
+      81,
+      149,
+      189
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=63248",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 146,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 3
+        },
+        {
+          "name": "체인지업",
+          "break": 5,
+          "stuff": 5,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 195,
+    "name": "우강훈",
+    "english": "WOO Kang Hoon",
+    "number": "20",
+    "height": 183,
+    "weight": 88,
+    "birth": "2002-10-03",
+    "hands": "우언우타",
+    "player_id": "51526",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=412",
+    "back_name": "WOO K.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1348,
+    "face_file": "F1348.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_195.png",
+    "photo_sha256": "1ebf1380f520988d34399629a203522554878f383b49f8c236f672e10183f46f",
+    "landmarks": [
+      [
+        363.7882995605469,
+        140.42218017578125
+      ],
+      [
+        437.2291259765625,
+        142.22442626953125
+      ],
+      [
+        399.69921875,
+        185.12908935546875
+      ],
+      [
+        365.728759765625,
+        215.9361114501953
+      ],
+      [
+        429.9542541503906,
+        217.755126953125
+      ]
+    ],
+    "face_box": [
+      322,
+      81,
+      152,
+      194
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=51526",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 154,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 260,
+    "name": "이우찬",
+    "english": "LEE Woo Chan",
+    "number": "21",
+    "height": 185,
+    "weight": 97,
+    "birth": "1992-08-04",
+    "hands": "좌투좌타",
+    "player_id": "61145",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=82",
+    "back_name": "LEE W.C.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1595,
+    "face_file": "F1595.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_260.png",
+    "photo_sha256": "6de098c7f4f4a7743f867604f54b13f2fcf151a1299ec641628f6aaf5491f804",
+    "landmarks": [
+      [
+        368.0220642089844,
+        142.50938415527344
+      ],
+      [
+        433.1456298828125,
+        146.58737182617188
+      ],
+      [
+        399.3412170410156,
+        182.9063262939453
+      ],
+      [
+        370.2585144042969,
+        213.79251098632812
+      ],
+      [
+        426.4376220703125,
+        215.62451171875
+      ]
+    ],
+    "face_box": [
+      328,
+      76,
+      142,
+      191
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=61145",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 3
+        },
+        {
+          "name": "체인지업",
+          "break": 5,
+          "stuff": 5,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 261,
+    "name": "배재준",
+    "english": "BAE Jae June",
+    "number": "25",
+    "height": 188,
+    "weight": 85,
+    "birth": "1994-11-24",
+    "hands": "우투우타",
+    "player_id": "63145",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=71",
+    "back_name": "BAE J.J.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1597,
+    "face_file": "F1597.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_261.png",
+    "photo_sha256": "ef8979a9c28eb2e68308e8fe88ba3cb03463521b0784ccc4ea2f1db90b28a3d1",
+    "landmarks": [
+      [
+        360.558349609375,
+        147.32911682128906
+      ],
+      [
+        431.94622802734375,
+        144.42092895507812
+      ],
+      [
+        395.7907409667969,
+        188.16590881347656
+      ],
+      [
+        369.6178283691406,
+        219.715576171875
+      ],
+      [
+        434.88153076171875,
+        216.2557830810547
+      ]
+    ],
+    "face_box": [
+      323,
+      76,
+      152,
+      200
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=63145",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 149,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 314,
+    "name": "김영우",
+    "english": "KIM Young Woo",
+    "number": "67",
+    "height": 185,
+    "weight": 90,
+    "birth": "2005-01-14",
+    "hands": "우투우타",
+    "player_id": "55167",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=445",
+    "back_name": "KIM Y.W.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1719,
+    "face_file": "F1719.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_314.png",
+    "photo_sha256": "634e1bae7dcd52de5fdb82c3776696723a18937759d162d47c3baa72ddd6a070",
+    "landmarks": [
+      [
+        364.4738464355469,
+        142.64744567871094
+      ],
+      [
+        435.7679443359375,
+        141.05857849121094
+      ],
+      [
+        401.9709777832031,
+        183.8217010498047
+      ],
+      [
+        371.87005615234375,
+        213.306396484375
+      ],
+      [
+        432.4696044921875,
+        211.20509338378906
+      ]
+    ],
+    "face_box": [
+      326,
+      77,
+      148,
+      185
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=55167",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 157,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 337,
+    "name": "김진성",
+    "english": "KIM Jin Sung",
+    "number": "42",
+    "height": 186,
+    "weight": 90,
+    "birth": "1985-03-07",
+    "hands": "우투우타",
+    "player_id": "75867",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=302",
+    "back_name": "KIM J.S.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1775,
+    "face_file": "F1775.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_337.png",
+    "photo_sha256": "fb7585f19f4bcbac3a43bd47df0c8be3bd59d27e603b05abc0d0651b31e6c53c",
+    "landmarks": [
+      [
+        365.4093017578125,
+        142.30929565429688
+      ],
+      [
+        436.65142822265625,
+        142.99505615234375
+      ],
+      [
+        400.3668212890625,
+        186.1669158935547
+      ],
+      [
+        369.8208923339844,
+        217.4418487548828
+      ],
+      [
+        435.0531005859375,
+        217.1051483154297
+      ]
+    ],
+    "face_box": [
+      325,
+      77,
+      150,
+      198
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=75867",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 150,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 5
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 5
+        },
+        {
+          "name": "포크",
+          "break": 5,
+          "stuff": 5,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 399,
+    "name": "장현식",
+    "english": "JANG Hyun Sik",
+    "number": "50",
+    "height": 181,
+    "weight": 91,
+    "birth": "1995-02-24",
+    "hands": "우투우타",
+    "player_id": "63950",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=428",
+    "back_name": "JANG H.S.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 2028,
+    "face_file": "F2028.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_399.png",
+    "photo_sha256": "848094680e91fe10877cf98ff688d6e0ab9c9285079a218d3d74171739337329",
+    "landmarks": [
+      [
+        360.1474914550781,
+        147.39292907714844
+      ],
+      [
+        436.4085693359375,
+        149.87823486328125
+      ],
+      [
+        397.60882568359375,
+        192.18118286132812
+      ],
+      [
+        361.90484619140625,
+        217.12982177734375
+      ],
+      [
+        433.87579345703125,
+        218.48907470703125
+      ]
+    ],
+    "face_box": [
+      316,
+      81,
+      161,
+      197
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=63950",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 154,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 430,
+    "name": "유영찬",
+    "english": "YOU Young Chan",
+    "number": "54",
+    "height": 185,
+    "weight": 90,
+    "birth": "1997-03-07",
+    "hands": "우투좌타",
+    "player_id": "50106",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=241",
+    "back_name": "YOU Y.C.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 2522,
+    "face_file": "F2522.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_430.png",
+    "photo_sha256": "94a836d6d77e1e18e333e1471d057e45c9812b6b75b1155c40575212b71a824e",
+    "landmarks": [
+      [
+        364.9903259277344,
+        146.24937438964844
+      ],
+      [
+        434.4360656738281,
+        146.02621459960938
+      ],
+      [
+        399.1497802734375,
+        187.94586181640625
+      ],
+      [
+        369.8384704589844,
+        218.03054809570312
+      ],
+      [
+        428.7952575683594,
+        217.85353088378906
+      ]
+    ],
+    "face_box": [
+      327,
+      77,
+      146,
+      193
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=50106",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 7,
+      "trajectory": 0,
+      "velocity": 156,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 5,
+          "stuff": 5,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 211,
+    "name": "홍창기",
+    "english": "HONG Chang Ki",
+    "number": "51",
+    "height": 189,
+    "weight": 94,
+    "birth": "1993-11-21",
+    "hands": "우투좌타",
+    "player_id": "66108",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=111",
+    "back_name": "HONG C.K.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1433,
+    "face_file": "F1433.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_211.png",
+    "photo_sha256": "7bfab99d3ef1d9f8655bf2dc992ed0db18705dc0eb34aa19176a648bbaf05d1f",
+    "landmarks": [
+      [
+        364.5413513183594,
+        135.96026611328125
+      ],
+      [
+        434.7205810546875,
+        135.36460876464844
+      ],
+      [
+        400.4251708984375,
+        177.10316467285156
+      ],
+      [
+        370.2663269042969,
+        206.50631713867188
+      ],
+      [
+        429.8305358886719,
+        205.7822723388672
+      ]
+    ],
+    "face_box": [
+      326,
+      76,
+      148,
+      183
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=66108",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "RF": 72,
+      "LF": 65,
+      "CF": 58
+    },
+    "ratings": {
+      "contact_r": 60,
+      "contact_l": 60,
+      "power": 45,
+      "speed": 57,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 62,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 230,
+    "name": "신민재",
+    "english": "SHIN Min Jae",
+    "number": "4",
+    "height": 171,
+    "weight": 67,
+    "birth": "1996-01-21",
+    "hands": "우투좌타",
+    "player_id": "65207",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=170",
+    "back_name": "SHIN M.J.",
+    "body_type": 1,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1485,
+    "face_file": "F1485.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_230.png",
+    "photo_sha256": "a0b54d3214b48252c4d22eaacb57d1f153ee1381c387562238cb32509a0754a4",
+    "landmarks": [
+      [
+        365.1942138671875,
+        143.3510284423828
+      ],
+      [
+        435.36993408203125,
+        144.59971618652344
+      ],
+      [
+        400.5042419433594,
+        183.56524658203125
+      ],
+      [
+        367.3860778808594,
+        207.42674255371094
+      ],
+      [
+        429.34820556640625,
+        208.65867614746094
+      ]
+    ],
+    "face_box": [
+      325,
+      79,
+      148,
+      179
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=65207",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "2B": 78,
+      "CF": 48
+    },
+    "ratings": {
+      "contact_r": 70,
+      "contact_l": 70,
+      "power": 42,
+      "speed": 83,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 81,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 2
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 47,
+    "name": "오스틴",
+    "english": "DEAN Austin",
+    "number": "23",
+    "height": 183,
+    "weight": 97,
+    "birth": "1993-10-14",
+    "hands": "우투우타",
+    "player_id": "53123",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=335",
+    "back_name": "DEAN",
+    "body_type": 10,
+    "skin_type": 3,
+    "skin_reference_head": 4,
+    "face_id": 392,
+    "face_file": "F392.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_47.png",
+    "photo_sha256": "7836818bc89ae0c5fa268c520d9350a57cdc24f46521eb2feb001ef49f867517",
+    "landmarks": [
+      [
+        365.5166015625,
+        144.3693084716797
+      ],
+      [
+        435.9901428222656,
+        142.72840881347656
+      ],
+      [
+        402.3531494140625,
+        184.7990264892578
+      ],
+      [
+        370.7923583984375,
+        216.41973876953125
+      ],
+      [
+        434.1788330078125,
+        214.8649139404297
+      ]
+    ],
+    "face_box": [
+      327,
+      89,
+      144,
+      183
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=53123",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "1B": 55
+    },
+    "ratings": {
+      "contact_r": 69,
+      "contact_l": 69,
+      "power": 86,
+      "speed": 52,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 77,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 4
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": true
+  },
+  {
+    "index": 158,
+    "name": "문보경",
+    "english": "MOON Bo Gyeong",
+    "number": "2",
+    "height": 182,
+    "weight": 88,
+    "birth": "2000-07-19",
+    "hands": "우투좌타",
+    "player_id": "69102",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=196",
+    "back_name": "MOON B.G.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1154,
+    "face_file": "F1154.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_158.png",
+    "photo_sha256": "6388c8dd8fbd8248cc77071933f6751ecd1f1e957123ebc617f262fcbd1f28d3",
+    "landmarks": [
+      [
+        367.3281555175781,
+        135.989990234375
+      ],
+      [
+        436.62255859375,
+        140.7826690673828
+      ],
+      [
+        399.57867431640625,
+        180.68885803222656
+      ],
+      [
+        365.3344421386719,
+        204.35816955566406
+      ],
+      [
+        428.27044677734375,
+        208.23992919921875
+      ]
+    ],
+    "face_box": [
+      325,
+      71,
+      151,
+      190
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=69102",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "3B": 66,
+      "1B": 52
+    },
+    "ratings": {
+      "contact_r": 60,
+      "contact_l": 60,
+      "power": 69,
+      "speed": 51,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 82,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 4
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 71,
+    "name": "박동원",
+    "english": "PARK Dong Won",
+    "number": "27",
+    "height": 178,
+    "weight": 92,
+    "birth": "1990-04-07",
+    "hands": "우투우타",
+    "player_id": "79365",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=332",
+    "back_name": "PARK D.W.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 512,
+    "face_file": "F512.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_71.png",
+    "photo_sha256": "2b002e949a76e72afa65caa643d82592a7eaafcc23d352fe7150b4d2de5767a7",
+    "landmarks": [
+      [
+        361.816650390625,
+        145.82525634765625
+      ],
+      [
+        434.1082763671875,
+        140.11471557617188
+      ],
+      [
+        398.6391906738281,
+        185.8743133544922
+      ],
+      [
+        374.0661315917969,
+        219.0182647705078
+      ],
+      [
+        437.8663024902344,
+        213.07363891601562
+      ]
+    ],
+    "face_box": [
+      321,
+      76,
+      160,
+      196
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=79365",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "C": 55
+    },
+    "ratings": {
+      "contact_r": 53,
+      "contact_l": 53,
+      "power": 71,
+      "speed": 53,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 82,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 4
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 66,
+    "name": "문성주",
+    "english": "MOON Sung Ju",
+    "number": "8",
+    "height": 175,
+    "weight": 78,
+    "birth": "1997-02-20",
+    "hands": "좌투좌타",
+    "player_id": "68119",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=167",
+    "back_name": "MOON S.J.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 471,
+    "face_file": "F471.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_66.png",
+    "photo_sha256": "25c28ab96c76f2647f1f7f836ca30be78bbbd7d35fa15d8c28d952ecde3bea2a",
+    "landmarks": [
+      [
+        363.44732666015625,
+        138.40968322753906
+      ],
+      [
+        436.44293212890625,
+        138.11036682128906
+      ],
+      [
+        400.75274658203125,
+        180.65115356445312
+      ],
+      [
+        368.2901306152344,
+        206.99197387695312
+      ],
+      [
+        434.2616882324219,
+        206.1626739501953
+      ]
+    ],
+    "face_box": [
+      325,
+      75,
+      153,
+      186
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=68119",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "LF": 64,
+      "RF": 62
+    },
+    "ratings": {
+      "contact_r": 68,
+      "contact_l": 68,
+      "power": 43,
+      "speed": 53,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 81,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 2
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 62,
+    "name": "오지환",
+    "english": "OH Ji Hwan",
+    "number": "10",
+    "height": 185,
+    "weight": 80,
+    "birth": "1990-03-12",
+    "hands": "우투좌타",
+    "player_id": "79109",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=104",
+    "back_name": "OH J.H.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 453,
+    "face_file": "F453.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_62.png",
+    "photo_sha256": "77bb70ee1e99f0bc51f790d2f94b1eac7eb1690e2129cc499d4dd50bef8136d8",
+    "landmarks": [
+      [
+        361.26885986328125,
+        145.5989990234375
+      ],
+      [
+        433.40185546875,
+        144.27114868164062
+      ],
+      [
+        398.1755676269531,
+        186.53265380859375
+      ],
+      [
+        367.1558837890625,
+        214.16360473632812
+      ],
+      [
+        429.28436279296875,
+        213.0063018798828
+      ]
+    ],
+    "face_box": [
+      323,
+      78,
+      151,
+      187
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=79109",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "SS": 82
+    },
+    "ratings": {
+      "contact_r": 53,
+      "contact_l": 53,
+      "power": 64,
+      "speed": 59,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 79,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 294,
+    "name": "구본혁",
+    "english": "GU Bon Hyeok",
+    "number": "6",
+    "height": 177,
+    "weight": 75,
+    "birth": "1997-01-11",
+    "hands": "우투우타",
+    "player_id": "69100",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=208",
+    "back_name": "GU B.H.",
+    "body_type": 1,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1685,
+    "face_file": "F1685.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_294.png",
+    "photo_sha256": "e41142e98c7d53fb937423aa1a18e48ede6fff99b00b56605a6bb344956eccc7",
+    "landmarks": [
+      [
+        363.3743591308594,
+        153.4053192138672
+      ],
+      [
+        429.645263671875,
+        148.37255859375
+      ],
+      [
+        397.51922607421875,
+        189.24305725097656
+      ],
+      [
+        374.7439880371094,
+        222.4073028564453
+      ],
+      [
+        435.8720397949219,
+        216.74327087402344
+      ]
+    ],
+    "face_box": [
+      329,
+      88,
+      141,
+      189
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=69100",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "SS": 77,
+      "3B": 75,
+      "2B": 72
+    },
+    "ratings": {
+      "contact_r": 61,
+      "contact_l": 61,
+      "power": 43,
+      "speed": 60,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 80,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 2
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 97,
+    "name": "박해민",
+    "english": "PARK Hae Min",
+    "number": "17",
+    "height": 180,
+    "weight": 75,
+    "birth": "1990-02-24",
+    "hands": "우투좌타",
+    "player_id": "62415",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=308",
+    "back_name": "PARK H.M.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 742,
+    "face_file": "F742.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_97.png",
+    "photo_sha256": "92c593111a821d5b91252313986c5e214a09d65168a0fe82f506fff1e08e1c6c",
+    "landmarks": [
+      [
+        361.7230224609375,
+        141.54327392578125
+      ],
+      [
+        435.1609802246094,
+        139.3521728515625
+      ],
+      [
+        398.8432922363281,
+        182.52415466308594
+      ],
+      [
+        369.51409912109375,
+        213.92974853515625
+      ],
+      [
+        433.9259948730469,
+        211.48074340820312
+      ]
+    ],
+    "face_box": [
+      325,
+      75,
+      150,
+      193
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=62415",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "CF": 88,
+      "LF": 75,
+      "RF": 72
+    },
+    "ratings": {
+      "contact_r": 59,
+      "contact_l": 59,
+      "power": 44,
+      "speed": 85,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 83,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 2
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 76,
+    "name": "이주헌",
+    "english": "LEE Ju Heon",
+    "number": "63",
+    "height": 185,
+    "weight": 92,
+    "birth": "2003-03-04",
+    "hands": "우투우타",
+    "player_id": "52154",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=306",
+    "back_name": "LEE J.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 525,
+    "face_file": "F525.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_76.png",
+    "photo_sha256": "b54ee1c101809260f0dddb688ff980df35851f58f9e5f97301cedc5c0e2fc0ab",
+    "landmarks": [
+      [
+        370.24603271484375,
+        143.11105346679688
+      ],
+      [
+        433.5580749511719,
+        147.6792755126953
+      ],
+      [
+        402.1250305175781,
+        182.5347137451172
+      ],
+      [
+        370.2223205566406,
+        212.15603637695312
+      ],
+      [
+        423.34490966796875,
+        215.0948028564453
+      ]
+    ],
+    "face_box": [
+      324,
+      71,
+      145,
+      192
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=52154",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "C": 55
+    },
+    "ratings": {
+      "contact_r": 49,
+      "contact_l": 49,
+      "power": 55,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 67,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 741,
+    "name": "이영빈",
+    "english": "LEE Young Bin",
+    "number": "7",
+    "height": 182,
+    "weight": 82,
+    "birth": "2002-06-17",
+    "hands": "우투좌타",
+    "player_id": "51100",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=270",
+    "back_name": "LEE Y.B.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3952,
+    "face_file": "F3952.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_741.png",
+    "photo_sha256": "a7ab9b08c6a5225030834135b6ea9b0cad749809eb9844038856d0eec8d0110d",
+    "landmarks": [
+      [
+        362.87432861328125,
+        150.15353393554688
+      ],
+      [
+        427.36602783203125,
+        146.65362548828125
+      ],
+      [
+        396.09442138671875,
+        185.5655975341797
+      ],
+      [
+        373.1535339355469,
+        214.3148956298828
+      ],
+      [
+        430.10858154296875,
+        210.20571899414062
+      ]
+    ],
+    "face_box": [
+      328,
+      83,
+      142,
+      180
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=51100",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "SS": 55,
+      "2B": 52,
+      "3B": 48
+    },
+    "ratings": {
+      "contact_r": 50,
+      "contact_l": 50,
+      "power": 57,
+      "speed": 52,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 60,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 354,
+    "name": "천성호",
+    "english": "CHEON Seong Ho",
+    "number": "53",
+    "height": 183,
+    "weight": 85,
+    "birth": "1997-10-30",
+    "hands": "우투좌타",
+    "player_id": "50054",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=471",
+    "back_name": "CHEON S.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1837,
+    "face_file": "F1837.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_354.png",
+    "photo_sha256": "ac08ed5d1e69bef23604a602d24c3fd86f4a890f55be8417b70a89fec0ca5f4e",
+    "landmarks": [
+      [
+        371.5229187011719,
+        148.80130004882812
+      ],
+      [
+        434.0323181152344,
+        151.17942810058594
+      ],
+      [
+        403.8234558105469,
+        182.4530487060547
+      ],
+      [
+        372.42822265625,
+        211.40621948242188
+      ],
+      [
+        430.2657470703125,
+        212.29278564453125
+      ]
+    ],
+    "face_box": [
+      327,
+      91,
+      145,
+      173
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=50054",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "2B": 53,
+      "3B": 50,
+      "1B": 46
+    },
+    "ratings": {
+      "contact_r": 51,
+      "contact_l": 51,
+      "power": 48,
+      "speed": 54,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 69,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 338,
+    "name": "최원영",
+    "english": "CHOI Won Yeong",
+    "number": "3",
+    "height": 174,
+    "weight": 76,
+    "birth": "2003-07-18",
+    "hands": "우투우타",
+    "player_id": "52103",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=314",
+    "back_name": "CHOI W.Y.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1783,
+    "face_file": "F1783.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_338.png",
+    "photo_sha256": "7e8da32870d68812ae3b356e911561b292150df43364fadc573fac94220e03f5",
+    "landmarks": [
+      [
+        363.9098815917969,
+        145.99697875976562
+      ],
+      [
+        432.2862548828125,
+        144.2095947265625
+      ],
+      [
+        399.71429443359375,
+        185.91751098632812
+      ],
+      [
+        370.7640380859375,
+        214.06466674804688
+      ],
+      [
+        428.912353515625,
+        212.88455200195312
+      ]
+    ],
+    "face_box": [
+      327,
+      81,
+      143,
+      181
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=52103",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "CF": 55
+    },
+    "ratings": {
+      "contact_r": 58,
+      "contact_l": 58,
+      "power": 46,
+      "speed": 59,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 77,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 151,
+    "name": "이재원",
+    "english": "LEE Jae Won",
+    "number": "52",
+    "height": 192,
+    "weight": 105,
+    "birth": "1999-07-17",
+    "hands": "우투우타",
+    "player_id": "68106",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=159",
+    "back_name": "LEE J.W.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1124,
+    "face_file": "F1124.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_151.png",
+    "photo_sha256": "6da506c6188e491c4f3cf428d12f2a07743e92d0816751761da05ebfa848d212",
+    "landmarks": [
+      [
+        360.3625793457031,
+        149.0824737548828
+      ],
+      [
+        433.12860107421875,
+        148.6969757080078
+      ],
+      [
+        394.8638000488281,
+        190.65087890625
+      ],
+      [
+        365.18450927734375,
+        217.46243286132812
+      ],
+      [
+        431.34228515625,
+        216.67355346679688
+      ]
+    ],
+    "face_box": [
+      321,
+      79,
+      156,
+      196
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=68106",
+    "rating_year": 2023,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "LF": 55
+    },
+    "ratings": {
+      "contact_r": 48,
+      "contact_l": 48,
+      "power": 57,
+      "speed": 59,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 63,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 311,
+    "name": "송찬의",
+    "english": "SONG Chan Eui",
+    "number": "55",
+    "height": 182,
+    "weight": 80,
+    "birth": "1999-02-20",
+    "hands": "우투우타",
+    "player_id": "68110",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=164",
+    "back_name": "SONG C.E.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1715,
+    "face_file": "F1715.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_311.png",
+    "photo_sha256": "7a636c104642c259f9c690e79368955327f31baf15aa26a071085c8d83d2c0f2",
+    "landmarks": [
+      [
+        360.7158203125,
+        132.04937744140625
+      ],
+      [
+        428.5494689941406,
+        130.9394073486328
+      ],
+      [
+        393.6084899902344,
+        172.16220092773438
+      ],
+      [
+        367.81378173828125,
+        205.17782592773438
+      ],
+      [
+        428.00628662109375,
+        202.9626922607422
+      ]
+    ],
+    "face_box": [
+      324,
+      68,
+      144,
+      195
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=68110",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "RF": 46,
+      "LF": 44,
+      "1B": 42,
+      "2B": 35
+    },
+    "ratings": {
+      "contact_r": 47,
+      "contact_l": 47,
+      "power": 54,
+      "speed": 53,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 65,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 89,
+    "name": "김민수",
+    "english": "KIM Min Su",
+    "number": "62",
+    "height": 177,
+    "weight": 80,
+    "birth": "1991-03-02",
+    "hands": "우투우타",
+    "player_id": "64793",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=486",
+    "back_name": "KIM M.S.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 666,
+    "face_file": "F666.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_89.png",
+    "photo_sha256": "1a274db858c3baca78d3c52d433aa9ad1c86a073ec2ee6959021d52e850c2d6f",
+    "landmarks": [
+      [
+        365.2703857421875,
+        137.96258544921875
+      ],
+      [
+        436.57598876953125,
+        138.57411193847656
+      ],
+      [
+        401.6470642089844,
+        179.9944610595703
+      ],
+      [
+        368.47064208984375,
+        207.2866668701172
+      ],
+      [
+        432.9328308105469,
+        207.4647979736328
+      ]
+    ],
+    "face_box": [
+      326,
+      78,
+      147,
+      185
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=64793",
+    "rating_year": 2024,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "C": 55
+    },
+    "ratings": {
+      "contact_r": 55,
+      "contact_l": 55,
+      "power": 56,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 52,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 259,
+    "name": "카라스코",
+    "english": "CARRASCO Carlos",
+    "number": "59",
+    "height": 193,
+    "weight": 102,
+    "birth": "1987-03-21",
+    "hands": "우투우타",
+    "player_id": "56103",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=470",
+    "back_name": "CARRASCO",
+    "face_id": 1592,
+    "face_file": "F1592.CHK",
+    "dedicated_face": true,
+    "foreign": true,
+    "skin_type": 4,
+    "skin_reference_head": 5,
+    "photo": "work/identity_audit/photos/56103.png",
+    "photo_sha256": "1bcc9b6a2f5df4ec839c2b77010cff4c45faa3a4d62540bc2a30f9b5aa5a416b",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56103.jpg",
+    "landmarks": [
+      [
+        39.01011276245117,
+        43.90837860107422
+      ],
+      [
+        57.74867630004883,
+        43.6826057434082
+      ],
+      [
+        48.24705505371094,
+        53.479515075683594
+      ],
+      [
+        39.75176239013672,
+        62.640838623046875
+      ],
+      [
+        56.82566833496094,
+        63.65248107910156
+      ]
+    ],
+    "face_box": [
+      27,
+      29,
+      42,
+      51
+    ],
+    "body_type": 9
+  },
+  {
+    "index": 400,
+    "name": "김성진",
+    "english": "KIM Sung Jin",
+    "number": "36",
+    "height": 183,
+    "weight": 100,
+    "birth": "2000-03-17",
+    "hands": "우투우타",
+    "player_id": "69105",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=198",
+    "back_name": "KIM S.J.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 2125,
+    "face_file": "F2125.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_400.png",
+    "photo_sha256": "194c807c2db798b13455188064bf175099fc98b40591d5e5e8278780b9f981dd",
+    "landmarks": [
+      [
+        369.0175476074219,
+        141.42120361328125
+      ],
+      [
+        436.5853271484375,
+        145.50341796875
+      ],
+      [
+        402.236572265625,
+        180.0970916748047
+      ],
+      [
+        369.366455078125,
+        210.7397003173828
+      ],
+      [
+        429.7471008300781,
+        213.206787109375
+      ]
+    ],
+    "face_box": [
+      323,
+      74,
+      153,
+      193
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=69105",
+    "rating_year": 2024,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "1B": 55
+    },
+    "ratings": {
+      "contact_r": 55,
+      "contact_l": 55,
+      "power": 55,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 53,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 463,
+    "name": "김정율",
+    "english": "KIM Jeong Yul",
+    "number": "14",
+    "height": 184,
+    "weight": 97,
+    "birth": "1998-03-18",
+    "hands": "우투우타",
+    "player_id": "67504",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=398",
+    "back_name": "KIM J.Y.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 2728,
+    "face_file": "F2728.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_463.png",
+    "photo_sha256": "a91a1c4e7005e8ffd31ce60d23a7f3d0abb1e06819289bac3e0d7f8bda2f5721",
+    "landmarks": [
+      [
+        361.4024658203125,
+        147.37240600585938
+      ],
+      [
+        428.38226318359375,
+        145.80226135253906
+      ],
+      [
+        394.0342712402344,
+        185.20272827148438
+      ],
+      [
+        368.53912353515625,
+        215.05905151367188
+      ],
+      [
+        424.73870849609375,
+        213.3796844482422
+      ]
+    ],
+    "face_box": [
+      327,
+      82,
+      144,
+      181
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=67504",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "2B": 49,
+      "SS": 46,
+      "3B": 42
+    },
+    "ratings": {
+      "contact_r": 53,
+      "contact_l": 53,
+      "power": 51,
+      "speed": 52,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 53,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 744,
+    "name": "문정빈",
+    "english": "MOON Jeong Bin",
+    "number": "56",
+    "height": 186,
+    "weight": 90,
+    "birth": "2003-08-15",
+    "hands": "우투우타",
+    "player_id": "52121",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=312",
+    "back_name": "MOON J.B.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3955,
+    "face_file": "F3955.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_744.png",
+    "photo_sha256": "d15906d84a801f8306f59a92015fa5000515d97ff70d2296f58ae314e8025e50",
+    "landmarks": [
+      [
+        366.33837890625,
+        133.748046875
+      ],
+      [
+        435.6988220214844,
+        140.13597106933594
+      ],
+      [
+        397.4585876464844,
+        179.78050231933594
+      ],
+      [
+        364.5275573730469,
+        207.59584045410156
+      ],
+      [
+        424.3278503417969,
+        212.99563598632812
+      ]
+    ],
+    "face_box": [
+      326,
+      72,
+      148,
+      194
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=52121",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "1B": 55
+    },
+    "ratings": {
+      "contact_r": 50,
+      "contact_l": 50,
+      "power": 57,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 55,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 319,
+    "name": "손용준",
+    "english": "SON Yung Jun",
+    "number": "15",
+    "height": 178,
+    "weight": 85,
+    "birth": "2000-02-15",
+    "hands": "우투우타",
+    "player_id": "54156",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=378",
+    "back_name": "SON Y.J.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1727,
+    "face_file": "F1727.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_319.png",
+    "photo_sha256": "835a8ec6d086a5ce6c22e4ec178526b39414ad4393706ec8891f4f15a5f5704c",
+    "landmarks": [
+      [
+        362.8908996582031,
+        141.13983154296875
+      ],
+      [
+        434.3963623046875,
+        142.28565979003906
+      ],
+      [
+        397.5298767089844,
+        180.64418029785156
+      ],
+      [
+        366.52978515625,
+        213.22128295898438
+      ],
+      [
+        428.501708984375,
+        214.1146697998047
+      ]
+    ],
+    "face_box": [
+      326,
+      88,
+      148,
+      181
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=54156",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "SS": 50,
+      "2B": 50,
+      "3B": 44
+    },
+    "ratings": {
+      "contact_r": 53,
+      "contact_l": 53,
+      "power": 51,
+      "speed": 52,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 52,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 353,
+    "name": "김윤식",
+    "english": "KIM Yun Sik",
+    "number": "47",
+    "height": 181,
+    "weight": 83,
+    "birth": "2000-04-03",
+    "hands": "좌투좌타",
+    "player_id": "50157",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=430",
+    "back_name": "KIM Y.S.",
+    "face_id": 1836,
+    "face_file": "F1836.CHK",
+    "dedicated_face": true,
+    "foreign": false,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "photo": "work/identity_audit/photos/50157.png",
+    "photo_sha256": "06c0a56bd1366575e33cdd77853e552b7af91d1a66db618f481053f1c964ea23",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50157.jpg",
+    "landmarks": [
+      [
+        38.68446350097656,
+        45.13720703125
+      ],
+      [
+        58.09773254394531,
+        45.08984375
+      ],
+      [
+        48.99958038330078,
+        54.86052322387695
+      ],
+      [
+        39.29859924316406,
+        63.3272819519043
+      ],
+      [
+        57.04327392578125,
+        65.10986328125
+      ]
+    ],
+    "face_box": [
+      25,
+      28,
+      43,
+      52
+    ],
+    "body_type": 10
+  },
+  {
+    "index": 339,
+    "name": "김주성",
+    "english": "KIM Ju Sung",
+    "number": "5",
+    "height": 180,
+    "weight": 81,
+    "birth": "1998-01-30",
+    "hands": "우투우타",
+    "player_id": "66162",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=38",
+    "back_name": "KIM J.S.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1784,
+    "face_file": "F1784.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_339.png",
+    "photo_sha256": "c934df697fabf2ebecbf7a2f656be2eb7fe03a64b325d88cecdc6bf8b1e900d8",
+    "landmarks": [
+      [
+        359.2890625,
+        145.59336853027344
+      ],
+      [
+        434.37744140625,
+        139.9119110107422
+      ],
+      [
+        400.9910888671875,
+        185.7825927734375
+      ],
+      [
+        369.64239501953125,
+        217.02699279785156
+      ],
+      [
+        438.1394958496094,
+        211.96534729003906
+      ]
+    ],
+    "face_box": [
+      320,
+      70,
+      155,
+      203
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=66162",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "LF": 48,
+      "RF": 46,
+      "3B": 40
+    },
+    "ratings": {
+      "contact_r": 53,
+      "contact_l": 53,
+      "power": 55,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 54,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 382,
+    "name": "김현종",
+    "english": "KIM Hyun Jong",
+    "number": "66",
+    "height": 186,
+    "weight": 85,
+    "birth": "2004-08-04",
+    "hands": "우투우타",
+    "player_id": "54166",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=377",
+    "back_name": "KIM H.J.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1929,
+    "face_file": "F1929.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_382.png",
+    "photo_sha256": "a0b1d974cc33239962bafbcfe3ec54e0ea0325832f088868017ab2c31e63d917",
+    "landmarks": [
+      [
+        366.5501708984375,
+        145.78131103515625
+      ],
+      [
+        430.3018798828125,
+        146.48989868164062
+      ],
+      [
+        396.3965759277344,
+        184.89071655273438
+      ],
+      [
+        370.90765380859375,
+        213.3662872314453
+      ],
+      [
+        428.329833984375,
+        212.989501953125
+      ]
+    ],
+    "face_box": [
+      330,
+      86,
+      139,
+      181
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=54166",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "LF": 55
+    },
+    "ratings": {
+      "contact_r": 56,
+      "contact_l": 56,
+      "power": 52,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 52,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 428,
+    "name": "고우석",
+    "english": "GO Woo Suk",
+    "number": "19",
+    "height": 182,
+    "weight": 90,
+    "birth": "1998-08-06",
+    "hands": "우투우타",
+    "player_id": "67119",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=442",
+    "number_note": "공식 프로필 군보류(M): 미부여 번호를 게임의 0으로 표시",
+    "back_name": "GO W.S.",
+    "face_id": 2518,
+    "face_file": "F2518.CHK",
+    "dedicated_face": true,
+    "foreign": false,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "photo": "work/identity_audit/photos/67119.png",
+    "photo_sha256": "784a19d3777fdc2fcf9542bc63f186cea7bc06ab1e426fa9c274b55fe870f34d",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67119.jpg",
+    "landmarks": [
+      [
+        36.864112854003906,
+        46.45606994628906
+      ],
+      [
+        56.88636016845703,
+        46.17021179199219
+      ],
+      [
+        46.931068420410156,
+        56.43667221069336
+      ],
+      [
+        38.824806213378906,
+        64.51821899414062
+      ],
+      [
+        56.753578186035156,
+        65.90913391113281
+      ]
+    ],
+    "face_box": [
+      25,
+      27,
+      43,
+      54
+    ],
+    "body_type": 10
+  },
+  {
+    "index": 429,
+    "name": "이상영",
+    "english": "LEE Sang Yung",
+    "number": "39",
+    "height": 193,
+    "weight": 95,
+    "birth": "2000-12-03",
+    "hands": "좌투좌타",
+    "player_id": "69168",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=443",
+    "back_name": "LEE S.Y.",
+    "face_id": 2521,
+    "face_file": "F2521.CHK",
+    "dedicated_face": true,
+    "foreign": false,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "photo": "work/identity_audit/photos/69168.png",
+    "photo_sha256": "3c7588ca6307f2a8317dd0295e3b97b5ece14cf5013cc1bad11f17a7ebc3da69",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69168.jpg",
+    "landmarks": [
+      [
+        39.53831100463867,
+        42.93977355957031
+      ],
+      [
+        56.58932113647461,
+        42.835670471191406
+      ],
+      [
+        48.53575897216797,
+        51.600425720214844
+      ],
+      [
+        39.81595993041992,
+        60.67486572265625
+      ],
+      [
+        55.34152603149414,
+        61.30880355834961
+      ]
+    ],
+    "face_box": [
+      27,
+      29,
+      39,
+      47
+    ],
+    "body_type": 9
+  },
+  {
+    "index": 486,
+    "name": "함창건",
+    "english": "HAM Chang Geon",
+    "number": "24",
+    "height": 176,
+    "weight": 83,
+    "birth": "2001-08-18",
+    "hands": "좌투좌타",
+    "player_id": "50108",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=247",
+    "back_name": "HAM C.G.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3518,
+    "face_file": "F3518.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_486.png",
+    "photo_sha256": "6289a68ff5bcdc48f7c79d89c256340d5e8dce9dcabe2bfa6e684082bb389472",
+    "landmarks": [
+      [
+        369.4067077636719,
+        136.34381103515625
+      ],
+      [
+        438.4089050292969,
+        138.2442626953125
+      ],
+      [
+        405.3495178222656,
+        180.83079528808594
+      ],
+      [
+        371.9139404296875,
+        207.92576599121094
+      ],
+      [
+        430.244384765625,
+        209.47573852539062
+      ]
+    ],
+    "face_box": [
+      327,
+      79,
+      149,
+      181
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/HitterDetail/Total.aspx?playerId=50108",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "LF": 55
+    },
+    "ratings": {
+      "contact_r": 51,
+      "contact_l": 51,
+      "power": 50,
+      "speed": 48,
+      "arm": 58,
+      "catching": 55,
+      "throwing": 55,
+      "recovery": 53,
+      "stamina": 0,
+      "starter": 0,
+      "reliever": 0,
+      "closer": 0,
+      "trajectory": 3
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 494,
+    "name": "권우준",
+    "english": "KWON Woo Jun",
+    "number": "49",
+    "height": 187,
+    "weight": 92,
+    "birth": "2007-01-08",
+    "hands": "우투우타",
+    "player_id": "56149",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=481",
+    "back_name": "KWON W.J.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3527,
+    "face_file": "F3527.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_494.png",
+    "photo_sha256": "c16013754ad0c31f2312914a6e339c5d79c38f36dde9b54778203459f7265b56",
+    "landmarks": [
+      [
+        369.23443603515625,
+        146.51361083984375
+      ],
+      [
+        432.1785583496094,
+        152.1536407470703
+      ],
+      [
+        397.71453857421875,
+        184.8999481201172
+      ],
+      [
+        368.9278564453125,
+        214.502685546875
+      ],
+      [
+        421.9062805175781,
+        218.21023559570312
+      ]
+    ],
+    "face_box": [
+      328,
+      83,
+      146,
+      182
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=56149",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "체인지업",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 517,
+    "name": "김강률",
+    "english": "KIM Kang Ryul",
+    "number": "37",
+    "height": 187,
+    "weight": 95,
+    "birth": "1988-08-28",
+    "hands": "우투우타",
+    "player_id": "77263",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=426",
+    "back_name": "KIM K.R.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3554,
+    "face_file": "F3554.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_517.png",
+    "photo_sha256": "dca34afbbff6bca8588b6ab3783fe4fa79267095d3cdfdb18978cf6d078ce433",
+    "landmarks": [
+      [
+        363.4149169921875,
+        142.1722412109375
+      ],
+      [
+        432.92218017578125,
+        138.4259490966797
+      ],
+      [
+        402.1563720703125,
+        181.39926147460938
+      ],
+      [
+        373.049072265625,
+        213.4983367919922
+      ],
+      [
+        434.0728759765625,
+        209.8818359375
+      ]
+    ],
+    "face_box": [
+      326,
+      80,
+      144,
+      186
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=77263",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 537,
+    "name": "김대현",
+    "english": "KIM Dae Hyun",
+    "number": "12",
+    "height": 188,
+    "weight": 100,
+    "birth": "1997-03-08",
+    "hands": "우투우타",
+    "player_id": "66145",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=25",
+    "back_name": "KIM D.H.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3614,
+    "face_file": "F3614.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_537.png",
+    "photo_sha256": "2e30342a00c710ec18276118269f0167542c0d70d9c77567d16d9ae5ab06ec68",
+    "landmarks": [
+      [
+        365.9964599609375,
+        136.36996459960938
+      ],
+      [
+        438.09429931640625,
+        142.6715087890625
+      ],
+      [
+        398.6444396972656,
+        183.95748901367188
+      ],
+      [
+        363.7148742675781,
+        209.18055725097656
+      ],
+      [
+        425.8564453125,
+        215.06137084960938
+      ]
+    ],
+    "face_box": [
+      325,
+      74,
+      153,
+      191
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=66145",
+    "rating_year": 2024,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 538,
+    "name": "김동현",
+    "english": "KIM Dong Hyeon",
+    "number": "43",
+    "height": 190,
+    "weight": 96,
+    "birth": "2005-03-03",
+    "hands": "우투우타",
+    "player_id": "56143",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=482",
+    "back_name": "KIM D.H.",
+    "body_type": 9,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3615,
+    "face_file": "F3615.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_538.png",
+    "photo_sha256": "abf2907be8b74abf455ed2e6e958d8d561e0cd6e445554bfe1aef92fe7ac6134",
+    "landmarks": [
+      [
+        364.34161376953125,
+        141.9589385986328
+      ],
+      [
+        437.12420654296875,
+        146.41468811035156
+      ],
+      [
+        397.7373352050781,
+        187.4756317138672
+      ],
+      [
+        364.577880859375,
+        214.72901916503906
+      ],
+      [
+        427.02490234375,
+        218.66091918945312
+      ]
+    ],
+    "face_box": [
+      325,
+      79,
+      153,
+      190
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=56143",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 539,
+    "name": "김유영",
+    "english": "KIM Yu Yeong",
+    "number": "0",
+    "height": 180,
+    "weight": 83,
+    "birth": "1994-05-02",
+    "hands": "좌투좌타",
+    "player_id": "64596",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=328",
+    "back_name": "KIM Y.Y.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3616,
+    "face_file": "F3616.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_539.png",
+    "photo_sha256": "8aa46585ab07f561649d613be5c0ed79e10540f21c4880fdc1d89858deb3e9ec",
+    "landmarks": [
+      [
+        365.8011169433594,
+        132.5352783203125
+      ],
+      [
+        436.94757080078125,
+        133.76174926757812
+      ],
+      [
+        401.4532775878906,
+        176.2401885986328
+      ],
+      [
+        369.4997863769531,
+        208.95655822753906
+      ],
+      [
+        432.58599853515625,
+        209.53663635253906
+      ]
+    ],
+    "face_box": [
+      325,
+      76,
+      148,
+      195
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=64596",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 540,
+    "name": "김주온",
+    "english": "KIM Joo On",
+    "number": "57",
+    "height": 187,
+    "weight": 89,
+    "birth": "1996-12-08",
+    "hands": "우투우타",
+    "player_id": "65411",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=416",
+    "back_name": "KIM J.O.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3617,
+    "face_file": "F3617.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_540.png",
+    "photo_sha256": "2056899c2f9e53b9abb1a58e2c809572c77eecc194b1f378be53e9c51a179247",
+    "landmarks": [
+      [
+        363.2828063964844,
+        139.84559631347656
+      ],
+      [
+        432.61761474609375,
+        138.5804901123047
+      ],
+      [
+        398.6508483886719,
+        177.02517700195312
+      ],
+      [
+        369.6852111816406,
+        207.66668701171875
+      ],
+      [
+        430.4328918457031,
+        206.24501037597656
+      ]
+    ],
+    "face_box": [
+      327,
+      79,
+      145,
+      182
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=65411",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 609,
+    "name": "김진수",
+    "english": "KIM Jin Su",
+    "number": "45",
+    "height": 179,
+    "weight": 82,
+    "birth": "1998-08-31",
+    "hands": "우투우타",
+    "player_id": "51154",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=264",
+    "back_name": "KIM J.S.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3760,
+    "face_file": "F3760.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_609.png",
+    "photo_sha256": "9741e42d46cbabf8fcc3d41362eda6b224834a89be9b78ad2fb140c8aec2b999",
+    "landmarks": [
+      [
+        368.3586730957031,
+        143.7623291015625
+      ],
+      [
+        429.6024169921875,
+        144.72140502929688
+      ],
+      [
+        397.2210388183594,
+        178.24098205566406
+      ],
+      [
+        369.7713623046875,
+        204.53724670410156
+      ],
+      [
+        424.12567138671875,
+        204.6345977783203
+      ]
+    ],
+    "face_box": [
+      330,
+      79,
+      140,
+      177
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=51154",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 150,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 610,
+    "name": "케네디",
+    "english": "KENNEDY Jon",
+    "number": "68",
+    "height": 203,
+    "weight": 111,
+    "birth": "1994-09-20",
+    "hands": "좌투좌타",
+    "player_id": "56168",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=329",
+    "number_note": "공식 프로필 군보류(M): 미부여 번호를 게임의 0으로 표시",
+    "back_name": "KENNEDY",
+    "face_id": 3761,
+    "face_file": "F3761.CHK",
+    "dedicated_face": true,
+    "foreign": true,
+    "skin_type": 3,
+    "skin_reference_head": 4,
+    "photo": "work/identity_audit/photos/56168.png",
+    "photo_sha256": "f282d6861ab13626d5f211d89bbe0cfe430614030e974c12810ddc6f5f0f4b47",
+    "photo_source": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56168.jpg",
+    "landmarks": [
+      [
+        37.79524612426758,
+        47.02385330200195
+      ],
+      [
+        56.1046028137207,
+        46.74660110473633
+      ],
+      [
+        46.805397033691406,
+        56.50159454345703
+      ],
+      [
+        38.66321563720703,
+        65.00688171386719
+      ],
+      [
+        54.82346725463867,
+        65.64197540283203
+      ]
+    ],
+    "face_box": [
+      25,
+      29,
+      42,
+      51
+    ],
+    "body_type": 9
+  },
+  {
+    "index": 612,
+    "name": "박시원",
+    "english": "PARK Si Won",
+    "number": "58",
+    "height": 193,
+    "weight": 93,
+    "birth": "2006-04-12",
+    "hands": "우투우타",
+    "player_id": "55121",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=435",
+    "back_name": "PARK S.W.",
+    "body_type": 2,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3763,
+    "face_file": "F3763.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_612.png",
+    "photo_sha256": "ba283aa844c0e2d4e32d8d6356ac2ecdaf902a8ab52316089ca673383b6501db",
+    "landmarks": [
+      [
+        365.0706787109375,
+        147.1241455078125
+      ],
+      [
+        432.5389709472656,
+        147.02798461914062
+      ],
+      [
+        397.7333984375,
+        185.25115966796875
+      ],
+      [
+        372.49884033203125,
+        214.1788787841797
+      ],
+      [
+        431.26519775390625,
+        213.09616088867188
+      ]
+    ],
+    "face_box": [
+      328,
+      80,
+      148,
+      185
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=55121",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 150,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 613,
+    "name": "박준성",
+    "english": "PARK Jun Sung",
+    "number": "60",
+    "height": 184,
+    "weight": 98,
+    "birth": "2007-12-12",
+    "hands": "좌투좌타",
+    "player_id": "56159",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=483",
+    "back_name": "PARK J.S.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3765,
+    "face_file": "F3765.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_613.png",
+    "photo_sha256": "a9788234776bfcc97171a5dd1774721d548254259958c0d1248507e399ef396b",
+    "landmarks": [
+      [
+        366.6741027832031,
+        146.07192993164062
+      ],
+      [
+        442.2987976074219,
+        148.272216796875
+      ],
+      [
+        404.0664978027344,
+        190.74656677246094
+      ],
+      [
+        367.36431884765625,
+        218.42755126953125
+      ],
+      [
+        433.73846435546875,
+        221.18325805664062
+      ]
+    ],
+    "face_box": [
+      325,
+      88,
+      154,
+      187
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=56159",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 614,
+    "name": "백승현",
+    "english": "BAEK Seung Hyeon",
+    "number": "61",
+    "height": 183,
+    "weight": 90,
+    "birth": "1995-05-26",
+    "hands": "우투우타",
+    "player_id": "65109",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=152",
+    "back_name": "BAEK S.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3766,
+    "face_file": "F3766.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_614.png",
+    "photo_sha256": "3d1a01e22f414c3c3b4b4613cb745e620788fcac44687a18e3fa5cb8a9930098",
+    "landmarks": [
+      [
+        369.28009033203125,
+        140.09829711914062
+      ],
+      [
+        432.7899169921875,
+        142.3351593017578
+      ],
+      [
+        398.594482421875,
+        179.11199951171875
+      ],
+      [
+        370.81878662109375,
+        209.36729431152344
+      ],
+      [
+        425.07525634765625,
+        210.872314453125
+      ]
+    ],
+    "face_box": [
+      330,
+      72,
+      139,
+      189
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=65109",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 154,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 2
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 2
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 2
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 2
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 635,
+    "name": "성동현",
+    "english": "SUNG Dong Hyun",
+    "number": "34",
+    "height": 189,
+    "weight": 108,
+    "birth": "1999-05-18",
+    "hands": "우투우타",
+    "player_id": "68159",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=158",
+    "back_name": "SUNG D.H.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3790,
+    "face_file": "F3790.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_635.png",
+    "photo_sha256": "c8b4370fe1e63660c72d7e8695fc0dfe5c037e4f89abe6dedd3869e6c9e74618",
+    "landmarks": [
+      [
+        364.4256591796875,
+        134.73797607421875
+      ],
+      [
+        436.7010192871094,
+        140.9638671875
+      ],
+      [
+        399.4493713378906,
+        181.62744140625
+      ],
+      [
+        361.7298278808594,
+        207.9410858154297
+      ],
+      [
+        427.4722900390625,
+        213.0071258544922
+      ]
+    ],
+    "face_box": [
+      320,
+      72,
+      153,
+      197
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=68159",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 154,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 743,
+    "name": "손주영",
+    "english": "SON Ju Young",
+    "number": "29",
+    "height": 191,
+    "weight": 95,
+    "birth": "1998-12-02",
+    "hands": "좌투좌타",
+    "player_id": "67143",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=117",
+    "back_name": "SON J.Y.",
+    "body_type": 9,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3954,
+    "face_file": "F3954.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_743.png",
+    "photo_sha256": "c3a4caa8670a9a9f5b994d65da5480aff00b2afe1bef56998e02c5d4417e53c0",
+    "landmarks": [
+      [
+        363.97283935546875,
+        132.7701873779297
+      ],
+      [
+        434.9052734375,
+        132.0231475830078
+      ],
+      [
+        400.9770202636719,
+        176.52838134765625
+      ],
+      [
+        369.9797058105469,
+        208.5935516357422
+      ],
+      [
+        432.5851135253906,
+        207.57803344726562
+      ]
+    ],
+    "face_box": [
+      322,
+      64,
+      151,
+      202
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=67143",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 70,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 153,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 830,
+    "name": "송승기",
+    "english": "SONG Seung Ki",
+    "number": "13",
+    "height": 181,
+    "weight": 90,
+    "birth": "2002-04-10",
+    "hands": "좌투좌타",
+    "player_id": "51111",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=272",
+    "back_name": "SONG S.K.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 4401,
+    "face_file": "F4401.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_830.png",
+    "photo_sha256": "feddb02adbf05707b392d333bf3dcd98d1e7780a20cb958bc4a3129db9dccfa1",
+    "landmarks": [
+      [
+        368.5477294921875,
+        138.31610107421875
+      ],
+      [
+        441.2337341308594,
+        140.10275268554688
+      ],
+      [
+        405.06170654296875,
+        183.97897338867188
+      ],
+      [
+        370.8036804199219,
+        211.10977172851562
+      ],
+      [
+        433.158203125,
+        212.94277954101562
+      ]
+    ],
+    "face_box": [
+      326,
+      76,
+      152,
+      189
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=51111",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 69,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 5
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 832,
+    "name": "양우진",
+    "english": "YANG Woo Jin",
+    "number": "65",
+    "height": 190,
+    "weight": 98,
+    "birth": "2007-06-05",
+    "hands": "우투우타",
+    "player_id": "56165",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=484",
+    "back_name": "YANG W.J.",
+    "body_type": 9,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 4403,
+    "face_file": "F4403.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_832.png",
+    "photo_sha256": "7956943c7f34bd8d39628deda89a692ade5ab3c1504c63a1f6e5e0552cdaa288",
+    "landmarks": [
+      [
+        365.5675048828125,
+        150.8942413330078
+      ],
+      [
+        436.74249267578125,
+        155.01234436035156
+      ],
+      [
+        397.70953369140625,
+        194.67454528808594
+      ],
+      [
+        364.5439147949219,
+        218.31521606445312
+      ],
+      [
+        430.0631103515625,
+        222.16111755371094
+      ]
+    ],
+    "face_box": [
+      323,
+      80,
+      156,
+      196
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=56165",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 154,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 842,
+    "name": "우명현",
+    "english": "WOO Myeong Hyeon",
+    "number": "69",
+    "height": 190,
+    "weight": 102,
+    "birth": "2007-02-07",
+    "hands": "우투우타",
+    "player_id": "56169",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=485",
+    "back_name": "WOO M.H.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 4417,
+    "face_file": "F4417.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_842.png",
+    "photo_sha256": "ecde46c886bdb0f5d9f92944465a868457d053158f27cd2fc83a2a3a3e142737",
+    "landmarks": [
+      [
+        365.1856384277344,
+        148.05996704101562
+      ],
+      [
+        436.6590576171875,
+        148.87779235839844
+      ],
+      [
+        400.59112548828125,
+        190.9239959716797
+      ],
+      [
+        369.7555236816406,
+        217.4224090576172
+      ],
+      [
+        433.7834167480469,
+        217.69393920898438
+      ]
+    ],
+    "face_box": [
+      325,
+      84,
+      152,
+      188
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=56169",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 152,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 850,
+    "name": "이민호",
+    "english": "LEE Min Ho",
+    "number": "26",
+    "height": 189,
+    "weight": 93,
+    "birth": "2001-08-30",
+    "hands": "우투우타",
+    "player_id": "50126",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=235",
+    "back_name": "LEE M.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28674,
+    "face_file": "F28674.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_850.png",
+    "photo_sha256": "f68792d206d2cf346bfbfa2ae086a54df856874d9214f42057ddc60ac1c0208c",
+    "landmarks": [
+      [
+        366.0990295410156,
+        143.67129516601562
+      ],
+      [
+        433.7328186035156,
+        147.35655212402344
+      ],
+      [
+        397.609130859375,
+        185.42507934570312
+      ],
+      [
+        365.8559875488281,
+        211.72573852539062
+      ],
+      [
+        422.77655029296875,
+        215.34970092773438
+      ]
+    ],
+    "face_box": [
+      327,
+      87,
+      146,
+      176
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=50126",
+    "rating_year": 2023,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 152,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 851,
+    "name": "이지강",
+    "english": "LEE Ji Gang",
+    "number": "32",
+    "height": 183,
+    "weight": 85,
+    "birth": "1999-07-02",
+    "hands": "우투우타",
+    "player_id": "69108",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=202",
+    "back_name": "LEE J.G.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28675,
+    "face_file": "F28675.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_851.png",
+    "photo_sha256": "074749b60dbfc69bf1a5a984fa5a8edf0504d3f08a1f911d14feefe44590bf15",
+    "landmarks": [
+      [
+        364.4652404785156,
+        140.66587829589844
+      ],
+      [
+        436.4035949707031,
+        137.06886291503906
+      ],
+      [
+        402.6367492675781,
+        180.84930419921875
+      ],
+      [
+        373.0942687988281,
+        211.02732849121094
+      ],
+      [
+        435.75347900390625,
+        207.58758544921875
+      ]
+    ],
+    "face_box": [
+      326,
+      76,
+      149,
+      186
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=69108",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 852,
+    "name": "장시환",
+    "english": "JANG Si Hwan",
+    "number": "28",
+    "height": 184,
+    "weight": 97,
+    "birth": "1987-11-01",
+    "hands": "우투우타",
+    "player_id": "77318",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=487",
+    "back_name": "JANG S.H.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28676,
+    "face_file": "F28676.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_852.png",
+    "photo_sha256": "363abdd4b3208e472a440c0137911ceebbcb39cc5fec054f307beaeb549045b7",
+    "landmarks": [
+      [
+        365.0728454589844,
+        139.95675659179688
+      ],
+      [
+        433.81036376953125,
+        140.697509765625
+      ],
+      [
+        400.30841064453125,
+        180.90338134765625
+      ],
+      [
+        367.8054504394531,
+        208.18099975585938
+      ],
+      [
+        432.4385681152344,
+        208.38873291015625
+      ]
+    ],
+    "face_box": [
+      323,
+      79,
+      145,
+      188
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=77318",
+    "rating_year": 2024,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 153,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        },
+        {
+          "name": "포크",
+          "break": 4,
+          "stuff": 4,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 853,
+    "name": "정우영",
+    "english": "JUNG Woo Young",
+    "number": "18",
+    "height": 193,
+    "weight": 99,
+    "birth": "1999-08-19",
+    "hands": "우언우타",
+    "player_id": "69159",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=215",
+    "back_name": "JUNG W.Y.",
+    "body_type": 9,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28677,
+    "face_file": "F28677.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_853.png",
+    "photo_sha256": "49c23358e0ebf6c1d38d34b743eb09903d93c29873f67ee27f95d5530808c4e9",
+    "landmarks": [
+      [
+        363.11077880859375,
+        138.33377075195312
+      ],
+      [
+        434.99853515625,
+        140.0991973876953
+      ],
+      [
+        397.66156005859375,
+        181.9976348876953
+      ],
+      [
+        365.8233642578125,
+        212.58642578125
+      ],
+      [
+        430.3153381347656,
+        213.6913604736328
+      ]
+    ],
+    "face_box": [
+      324,
+      78,
+      150,
+      193
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=69159",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 156,
+      "pitches": [
+        {
+          "name": "투심",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 854,
+    "name": "조건희",
+    "english": "CHO Geon Hee",
+    "number": "48",
+    "height": 184,
+    "weight": 84,
+    "birth": "2002-03-26",
+    "hands": "좌투좌타",
+    "player_id": "51163",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=265",
+    "back_name": "CHO G.H.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28678,
+    "face_file": "F28678.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_854.png",
+    "photo_sha256": "43ce01ae04ac535557d5f14407dde6168efabadcf1fd4e413a2535793984b4ff",
+    "landmarks": [
+      [
+        365.388671875,
+        137.517333984375
+      ],
+      [
+        436.6688232421875,
+        138.0518798828125
+      ],
+      [
+        402.00225830078125,
+        181.17611694335938
+      ],
+      [
+        369.2606506347656,
+        210.35980224609375
+      ],
+      [
+        432.0357971191406,
+        210.30418395996094
+      ]
+    ],
+    "face_box": [
+      325,
+      70,
+      148,
+      196
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=51163",
+    "rating_year": null,
+    "rating_basis": "1군 기록 없음: 보수적인 신인 추정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 50,
+      "arm": 55,
+      "catching": 43,
+      "throwing": 43,
+      "recovery": 52,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 148,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "슬라이더",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        },
+        {
+          "name": "체인지업",
+          "break": 3,
+          "stuff": 3,
+          "control": 3
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 855,
+    "name": "조원태",
+    "english": "CHO Won Tae",
+    "number": "38",
+    "height": 186,
+    "weight": 92,
+    "birth": "2003-05-10",
+    "hands": "좌투좌타",
+    "player_id": "52149",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=304",
+    "back_name": "CHO W.T.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28679,
+    "face_file": "F28679.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_855.png",
+    "photo_sha256": "4b260bdb77aeed06cf8570514b80fd48d1603da5007f862629dd38cc706e2ed3",
+    "landmarks": [
+      [
+        370.57635498046875,
+        141.73193359375
+      ],
+      [
+        434.2884521484375,
+        149.78012084960938
+      ],
+      [
+        398.332763671875,
+        180.96546936035156
+      ],
+      [
+        366.91400146484375,
+        211.1575927734375
+      ],
+      [
+        421.7200012207031,
+        216.935546875
+      ]
+    ],
+    "face_box": [
+      326,
+      82,
+      148,
+      184
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=52149",
+    "rating_year": 2022,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 65,
+      "starter": 7,
+      "reliever": 3,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 151,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 856,
+    "name": "최지명",
+    "english": "CHOI Ji Myeong",
+    "number": "16",
+    "height": 186,
+    "weight": 97,
+    "birth": "1995-01-22",
+    "hands": "좌투좌타",
+    "player_id": "68419",
+    "source": "https://www.lgtwins.com/team/player-detail?ttmSeq=429",
+    "back_name": "CHOI J.M.",
+    "body_type": 14,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 28680,
+    "face_file": "F28680.CHK",
+    "dedicated_face": false,
+    "photo": "translation/lg_2026/photo_856.png",
+    "photo_sha256": "f6bbc31cab27ab4b729c3a04e6eda136d76e00a22edac5f31750d6a7e8984735",
+    "landmarks": [
+      [
+        365.71435546875,
+        139.76768493652344
+      ],
+      [
+        436.64361572265625,
+        137.16806030273438
+      ],
+      [
+        403.3162536621094,
+        181.38111877441406
+      ],
+      [
+        373.829833984375,
+        213.1409912109375
+      ],
+      [
+        435.85345458984375,
+        210.51785278320312
+      ]
+    ],
+    "face_box": [
+      327,
+      74,
+      149,
+      193
+    ],
+    "rating_source": "https://www.koreabaseball.com/Record/Player/PitcherDetail/Total.aspx?playerId=68419",
+    "rating_year": 2025,
+    "rating_basis": "2025 이전 마지막 공식 시즌, 소표본 보정",
+    "fielding": {
+      "P": 55
+    },
+    "ratings": {
+      "contact_r": 12,
+      "contact_l": 12,
+      "power": 18,
+      "speed": 40,
+      "arm": 60,
+      "catching": 45,
+      "throwing": 48,
+      "recovery": 65,
+      "stamina": 45,
+      "starter": 0,
+      "reliever": 7,
+      "closer": 0,
+      "trajectory": 0,
+      "velocity": 149,
+      "pitches": [
+        {
+          "name": "포심",
+          "break": 0,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "슬라이더",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "커브",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        },
+        {
+          "name": "체인지업",
+          "break": 4,
+          "stuff": 4,
+          "control": 4
+        }
+      ]
+    },
+    "estimated_fields": "구속 상한, 구종, 수비, 어깨, 좌우 타격 차이 및 신인 능력은 게임용 추정; 공식 측정값 아님",
+    "foreign": false
+  },
+  {
+    "index": 99,
+    "name": "염경엽",
+    "english": "YOUM KYUNG YOUP",
+    "number": "85",
+    "height": 178,
+    "weight": 65,
+    "birth": "1968-03-01",
+    "hands": "우투우타",
+    "player_id": "91350",
+    "source": "https://www.lgtwins.com/team/coach-detail?ttmSeq=323",
+    "back_name": "YOUM K.Y.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 747,
+    "face_file": "F747.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_99.png",
+    "photo_sha256": "b6146c40460e3f1c91d243473376854d7abe63d1000ccc61f42914dcbdd11735",
+    "landmarks": [
+      [
+        362.90277099609375,
+        152.83303833007812
+      ],
+      [
+        432.05377197265625,
+        147.86843872070312
+      ],
+      [
+        399.702392578125,
+        192.88600158691406
+      ],
+      [
+        370.49493408203125,
+        222.85940551757812
+      ],
+      [
+        436.3950500488281,
+        217.59518432617188
+      ]
+    ],
+    "face_box": [
+      324,
+      80,
+      147,
+      196
+    ]
+  },
+  {
+    "index": 594,
+    "name": "김광삼",
+    "english": "KIM KWANG SAM",
+    "number": "99",
+    "height": 184,
+    "weight": 90,
+    "birth": "1980-08-15",
+    "hands": "우투좌타",
+    "player_id": "99152",
+    "source": "https://www.lgtwins.com/team/coach-detail?ttmSeq=131",
+    "back_name": "KIM K.S.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 3707,
+    "face_file": "F3707.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_594.png",
+    "photo_sha256": "a351a3ee2499f66f4a75cb7332883c36cb9e7fd63b4bd5b78e9ea66ccfc5ef9a",
+    "landmarks": [
+      [
+        367.4747619628906,
+        143.84381103515625
+      ],
+      [
+        435.81689453125,
+        144.01095581054688
+      ],
+      [
+        400.8857727050781,
+        186.4437255859375
+      ],
+      [
+        371.4254150390625,
+        216.2803955078125
+      ],
+      [
+        431.714111328125,
+        216.081298828125
+      ]
+    ],
+    "face_box": [
+      323,
+      69,
+      155,
+      201
+    ]
+  },
+  {
+    "index": 3,
+    "name": "모창민",
+    "english": "MO CHANG MIN",
+    "number": "97",
+    "height": 188,
+    "weight": 89,
+    "birth": "1985-05-08",
+    "hands": "우투우타",
+    "player_id": "78813",
+    "source": "https://www.lgtwins.com/team/coach-detail?ttmSeq=290",
+    "back_name": "MO C.M.",
+    "body_type": 10,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 11,
+    "face_file": "F11.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_3.png",
+    "photo_sha256": "b72ca84cdb600de2ba1c2a4e9e560258711df97c53b962a3a76937a934a39337",
+    "landmarks": [
+      [
+        368.2415771484375,
+        143.89364624023438
+      ],
+      [
+        433.09967041015625,
+        148.3424530029297
+      ],
+      [
+        398.9649658203125,
+        183.36338806152344
+      ],
+      [
+        368.0281677246094,
+        213.73414611816406
+      ],
+      [
+        425.14093017578125,
+        216.85585021972656
+      ]
+    ],
+    "face_box": [
+      326,
+      77,
+      149,
+      190
+    ]
+  },
+  {
+    "index": 180,
+    "name": "김일경",
+    "english": "KIM IL KYOUNG",
+    "number": "73",
+    "height": 178,
+    "weight": 68,
+    "birth": "1978-07-01",
+    "hands": "우투우타",
+    "player_id": "97300",
+    "source": "https://www.lgtwins.com/team/coach-detail?ttmSeq=129",
+    "back_name": "KIM I.K.",
+    "body_type": 0,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 1263,
+    "face_file": "F1263.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_180.png",
+    "photo_sha256": "1c40d19134ff58d31f8085514e2bc254378a8cf2965c07bf10d45eaad74086e8",
+    "landmarks": [
+      [
+        367.78070068359375,
+        149.26759338378906
+      ],
+      [
+        434.5875244140625,
+        147.9105224609375
+      ],
+      [
+        405.4708251953125,
+        189.9072265625
+      ],
+      [
+        374.6048889160156,
+        218.99905395507812
+      ],
+      [
+        432.1131286621094,
+        217.2959747314453
+      ]
+    ],
+    "face_box": [
+      319,
+      72,
+      152,
+      197
+    ]
+  },
+  {
+    "index": 35,
+    "name": "송지만",
+    "english": "SONG JI MAN",
+    "number": "74",
+    "height": 178,
+    "weight": 85,
+    "birth": "1973-03-02",
+    "hands": "우투우타",
+    "player_id": "96761",
+    "source": "https://www.lgtwins.com/team/coach-detail?ttmSeq=418",
+    "back_name": "SONG J.M.",
+    "body_type": 6,
+    "skin_type": 0,
+    "skin_reference_head": 1,
+    "face_id": 300,
+    "face_file": "F300.CHK",
+    "dedicated_face": true,
+    "photo": "translation/lg_2026/photo_35.png",
+    "photo_sha256": "bffe12a7b1df247fc5bc0bd50f65dc6b15ce57a5449ae20f83c03f46bf0358fa",
+    "landmarks": [
+      [
+        363.0810241699219,
+        154.78573608398438
+      ],
+      [
+        431.8170471191406,
+        152.3273468017578
+      ],
+      [
+        397.84771728515625,
+        195.32452392578125
+      ],
+      [
+        370.63153076171875,
+        225.27877807617188
+      ],
+      [
+        432.1691589355469,
+        222.36520385742188
+      ]
+    ],
+    "face_box": [
+      324,
+      80,
+      151,
+      198
+    ]
+  }
+]
