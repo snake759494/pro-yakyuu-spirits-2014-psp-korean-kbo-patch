@@ -1,10 +1,10 @@
 {
-  "version": "v1.0",
+  "version": "v1.1",
   "date": "2026-10-13",
   "game": "Pro Yakyuu Spirits 2014 (Japan) (v2.00)",
   "platform": "PSP",
   "serial": "NPJH-50838",
-  "asset": "ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta",
+  "asset": "ProYakyuuSpirits2014_PSP_KO_KBO_v1.1.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -S none -A (2차 압축 없음)",
   "source": {
     "bytes": 1401618432,
@@ -14,15 +14,15 @@
   },
   "output": {
     "bytes": 1401618432,
-    "md5": "0bf0af94d547ccf6e991128b557a6aa5",
+    "md5": "caebd0ee83ca74a5d86a084f272ccc59",
     "sha1": "0556fcf3b68dfe54e00db74f5483335868312c0e",
-    "sha256": "4627548540216cfc0b3a42c9a1c7b9230f712d81327f5e866040e8a96862bb39"
+    "sha256": "68eb842f14398d7e5fd46e060c5adbc6aa3eff334fc26546a7586974723a864d"
   },
   "patch": {
-    "bytes": 11748617,
+    "bytes": 11748647,
     "md5": "072f0e51364a50098d7b0a700decafca",
     "sha1": "2a7d31687e6225040598ff430b9310dee9bcd846",
-    "sha256": "6c614156312deb7d0c13c4f6dff6351cbc1199ed69bb70aaa087b18915c0eece"
+    "sha256": "ce642d423756f703650365d92824855a3114834ba19c3feddf92dc9052b6902e"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,

@@ -68,6 +68,7 @@ def patches():
  from kbo_team_layout import patches as roster_patches
  from lg_fresh_code import patches as lg_fresh_patches
  from kbo_identity_code import patches as identity_patches
+ from stadium_anim_code import patches as stadium_anim_patches
  return [
  *feat_patches(),
  *title_patches(),
@@ -81,6 +82,7 @@ def patches():
  *roster_patches(),
  *lg_fresh_patches(),
  *identity_patches(),
+ *stadium_anim_patches(),
  ('com_sel.elf',0x8ce37f4,struct.pack('<I',0x34040005),'일반 팀 선택을 5열로 구성'),
  ('com_sel.elf',0x8ce3814,struct.pack('<I',0x3412000a),'일반 팀 선택 10개로 제한'),
  ('com_sel.elf',0x8ce3838,struct.pack('<2I',0x08000000|(0x8c61910>>2),0),'팀 선택 목록을 참가 ID 0~9로 구성'),

@@ -81,14 +81,14 @@ class FinalIsoRosterTests(unittest.TestCase):
             for reg,value in [(UC_MIPS_REG_S5,obj),(UC_MIPS_REG_S2,obj+0x10000),(UC_MIPS_REG_S0,0),(UC_MIPS_REG_S1,0),(UC_MIPS_REG_A0,len(t['players']))]:self.u.reg_write(reg,value)
             self.u.emu_start(0x8ccdb84,0x8ccdc50,count=30000)
             self.assertEqual(self.u.reg_read(UC_MIPS_REG_PC),0x8ccdc50)
-            self.assertEqual(self.u.reg_read(UC_MIPS_REG_S0)+self.u.reg_read(UC_MIPS_REG_S1),29,code)
+            self.assertEqual(self.u.reg_read(UC_MIPS_REG_S0)+self.u.reg_read(UC_MIPS_REG_S1),28,code)
             self.assertEqual(bytes(self.u.mem_read(obj,len(data))),bytes(data),code)
 
-    def test_final_constructor_registration_cap_is_29(self):
+    def test_final_constructor_registration_cap_is_original_28(self):
         for count in (0,27,28,29,30,70):
             self.u.reg_write(UC_MIPS_REG_S3,count)
             self.u.emu_start(0x88fce54,0x88fce60,count=3)
-            self.assertEqual(self.u.reg_read(UC_MIPS_REG_S3),min(count,29),count)
+            self.assertEqual(self.u.reg_read(UC_MIPS_REG_S3),min(count,28),count)
 
     def test_all_final_iso_abilities_and_pitch_grades(self):
         from kbo_ratings_review import manifest

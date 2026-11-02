@@ -11,8 +11,8 @@ from player_fields import get
 class FreshLGTests(unittest.TestCase):
  def test_active_roles(self):
   t=layouts()['LG'];p=t['pitchers'];active=t['active']
-  self.assertEqual(len(p),14)
-  self.assertEqual(len(active),29)
+  self.assertEqual(len(p),13)
+  self.assertEqual(len(active),28)
   self.assertEqual({x['name'] for x in active if x.get('foreign')},{'치리노스','톨허스트','오스틴'})
   self.assertEqual([(x['name'],pos) for x,pos in t['batting']][3],('문보경',9))
   self.assertTrue(all(x['category']=='P' for x in p))

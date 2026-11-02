@@ -1,12 +1,12 @@
 # 프로야구 스피리츠 2014 PSP 한글 + KBO 패치
 
-PSP 일본판 **プロ野球スピリッツ2014 (Pro Yakyuu Spirits 2014, NPJH-50838, v2.00)** 용 비공식 패치입니다. 메뉴·도움말·대사를 한글화하고, **페넌트 레이스 모드**를 2026 KBO 리그(10개 구단)로 바꿨습니다. 현재 배포판은 **v1.0 (2026-10-13)** 입니다.
+PSP 일본판 **プロ野球スピリッツ2014 (Pro Yakyuu Spirits 2014, NPJH-50838, v2.00)** 용 비공식 패치입니다. 메뉴·도움말·대사를 한글화하고, **페넌트 레이스 모드**를 2026 KBO 리그(10개 구단)로 바꿨습니다. 현재 배포판은 **v1.1 (2026-11-02)** 입니다.
 
 [패치 다운로드](https://github.com/snake759494/pro-yakyuu-spirits-2014-psp-korean-kbo-patch/releases/latest) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md) · [2026 시즌 기준 재점검](docs/SEASON_END_2026.md)
 
 > **중요 — KBO 적용 범위:** 이 패치는 **페넌트 레이스 모드에 KBO 리그를 적용한 부분만** 패치했습니다. 10구단 정규시즌 일정, 통합 순위, 지명타자, 1군 편성은 페넌트 레이스에서만 동작합니다. 다른 모드(대전, 홈런 경쟁, 스피리츠, 스타 플레이어, 그랑프리, 애드혹 등)는 KBO 규칙과 문구에 맞춰 따로 수정하지 않았습니다. 이런 모드에서도 같은 선수 데이터가 보일 수는 있지만, 일본 리그 구조·문구·경력 정보가 남아 있으며 정상 동작을 보장하지 않습니다. 메뉴 등 일반 화면의 한글화는 게임 전체에 적용됩니다.
 
-릴리즈 첨부 파일은 **ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta 하나**입니다. 저장소에는 제작 도구·번역 데이터·명단/능력치 입력·검증 기록을 공개합니다. 원본 및 완성 ISO, 추출된 게임 리소스, 선수 공식 사진, 구단 로고 이미지, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
+릴리즈 첨부 파일은 **ProYakyuuSpirits2014_PSP_KO_KBO_v1.1.xdelta 하나**입니다. 저장소에는 제작 도구·번역 데이터·명단/능력치 입력·검증 기록을 공개합니다. 원본 및 완성 ISO, 추출된 게임 리소스, 선수 공식 사진, 구단 로고 이미지, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
 
 ## 대상 버전
 
@@ -19,11 +19,11 @@ PSP 일본판 **プロ野球スピリッツ2014 (Pro Yakyuu Spirits 2014, NPJH-5
 | **원본 ISO MD5** | `dae23384b4ae587b5cf31f8837be3987` |
 | 원본 ISO SHA-1 | `ef56660521b5d792addb522c9d10d60cf2118da8` |
 | 원본 ISO SHA-256 | `d58bb782f027e0889e47c145462b2c694433c856fcbf2411ce5d186a40521e5f` |
-| xdelta 크기 | 11,748,617 바이트 |
-| xdelta SHA-256 | `6c614156312deb7d0c13c4f6dff6351cbc1199ed69bb70aaa087b18915c0eece` |
+| xdelta 크기 | 11,748,647 바이트 |
+| xdelta SHA-256 | `ce642d423756f703650365d92824855a3114834ba19c3feddf92dc9052b6902e` |
 | 결과 ISO 크기 | 1,401,618,432 바이트 |
 | 결과 ISO SHA-1 | `0556fcf3b68dfe54e00db74f5483335868312c0e` |
-| 결과 ISO SHA-256 | `4627548540216cfc0b3a42c9a1c7b9230f712d81327f5e866040e8a96862bb39` |
+| 결과 ISO SHA-256 | `68eb842f14398d7e5fd46e060c5adbc6aa3eff334fc26546a7586974723a864d` |
 
 ## 패치 적용 방법
 
@@ -37,7 +37,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Pro Yakyuu Spirits 2014 (Japan) (v2.
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta`를 받습니다.
+1. 릴리즈에서 `ProYakyuuSpirits2014_PSP_KO_KBO_v1.1.xdelta`를 받습니다.
 2. xdelta3 패치를 지원하는 도구의 **Apply Patch**를 엽니다.
 3. **Patch**에 xdelta 파일을, **Source File**에 해시가 일치하는 원본 ISO를 선택합니다.
 4. **Output File**에 `Pro Yakyuu Spirits 2014 (Japan) (v2.00) (Korean DEV).iso`를 지정합니다. 원본을 덮어쓰지 마세요.
@@ -47,13 +47,13 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Pro Yakyuu Spirits 2014 (Japan) (v2.
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00).iso' '.\ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta' '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00) (Korean DEV).iso'
+.\xdelta3.exe -d -s '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00).iso' '.\ProYakyuuSpirits2014_PSP_KO_KBO_v1.1.xdelta' '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00) (Korean DEV).iso'
 ```
 
 해시를 자동으로 검사하는 적용기(Python 3 + xdelta3, 기존 출력 파일은 덮어쓰지 않음):
 
 ```powershell
-python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00).iso' --patch .\ProYakyuuSpirits2014_PSP_KO_KBO_v1.0.xdelta --output '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00) (Korean DEV).iso'
+python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00).iso' --patch .\ProYakyuuSpirits2014_PSP_KO_KBO_v1.1.xdelta --output '.\Pro Yakyuu Spirits 2014 (Japan) (v2.00) (Korean DEV).iso'
 ```
 
 ### PPSSPP에서 실행
@@ -61,14 +61,14 @@ python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spir
 - 한글판 ISO로 **새로 부팅**하세요. 이전 세이브스테이트는 사용하지 마세요.
 - 페넌트 레이스는 **처음부터** 새로 시작해야 KBO 명단·능력치·외형이 적용됩니다. 기존 페넌트 저장 데이터는 변환되지 않습니다.
 - 설치 데이터 없이 ISO 직접 읽기로 검증했습니다.
-- 실기 PSP 실행은 검증하지 않았습니다.
+- 실기 PSP 실행은 직접 검증하지 않았습니다. v1.1부터 PPSSPP의 '잘못된 메모리 접근 무시'를 끈 엄격 모드로 검사합니다(실기 동작에 더 가깝게).
 
 ## 작업 내용과 범위
 
 | 구분 | 내용 |
 | --- | --- |
 | 한글화 | 메뉴·도움말·대사·시스템 창, 나눔스퀘어 네오 Bold 글꼴 |
-| 페넌트 레이스 | KBO 10구단 정규시즌 일정, 통합 순위, 지명타자 고정, 1군 29명 |
+| 페넌트 레이스 | KBO 10구단 정규시즌 일정, 통합 순위, 지명타자 고정, 1군 28명(게임 원본 구조) |
 | 구단 | 구단명·약칭·연고지·로고, 유니폼 색상·표장, 홈구장 명칭과 간판 |
 | 선수 | 2026 정규시즌 종료 기준 10구단 619명 + 감독·코치 50명. 시즌 중 이적·외국인 교체 반영 |
 | 능력치 | 2024~2026 KBO 기록, 2026 구종 분석, 2026 수비 기록 기반 환산. KBO 1군을 원본 게임 1군 척도의 상위권에 맞춤 |
@@ -88,6 +88,7 @@ python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spir
   - 새 페넌트를 열고 기본·시즌 편성 두 사본의 619명·스태프 50명을 메모리에서 대조했습니다(직전 빌드).
   - 10구단 1군 화면, 팀 전력 표시, 초상화를 확인했습니다.
   - 최종 빌드에서 홈런 경쟁 모드의 3D 얼굴을 확인했습니다.
+- **v1.1 실기 종료 수정**: [이슈 #1](https://github.com/snake759494/pro-yakyuu-spirits-2014-psp-korean-kbo-patch/issues/1) 참고. v1.0으로 만든 페넌트 저장은 29명 편성이 남아 있으므로 **새 페넌트로 시작**하세요.
 - **미검증**: 사용자 조작 경기 완주, 시즌 진행·포스트시즌, 기존 페넌트 이행, 실기 PSP.
 - **알려진 한계**
   - 구장은 기존 일본 구장 3D 모델에 KBO 명칭과 간판만 입힌 근사 모델입니다. 실제 형태와 치수가 아닙니다.

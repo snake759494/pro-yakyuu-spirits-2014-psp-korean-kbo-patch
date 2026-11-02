@@ -31,10 +31,11 @@ class CompleteRatingsTests(RosterTests):
  def test_official_opening_290_ids(self):
   official=json.loads((ROOT/'work/ratings_review/opening.json').read_text('utf8'))
   for code,t in layouts().items():
-   self.assertEqual({p['player_id'] for p in t['active']},{p['player_id'] for p in official[code]},code)
-   self.assertEqual(len(t['active']),29)
+   # 공식 대표 29명 중 이닝 최소 중계투수 1명만 2군(게임 1군 배열 28명).
+   self.assertLessEqual({p['player_id'] for p in t['active']},{p['player_id'] for p in official[code]},code)
+   self.assertEqual(len(t['active']),28)
    self.assertFalse({p['index'] for p in t['players']} & {p['index'] for p in t['coaches']})
-   # 編成の先発/救援スロットIDが29人の投手と完全一致。
+   # 編成の先発/救援スロットIDが1軍投手と完全一致。
    b=next(b for f,a,b,label in patches() if f=='BOOT.BIN' and a==0x8a936d8+t['team_id']*136)
    ids=[struct.unpack_from('<I',b,j*8)[0] for j in range(17) if struct.unpack_from('<I',b,j*8)[0]]
    self.assertEqual(set(ids),{p['game_id'] for p in t['pitchers']});self.assertEqual(len(ids),len(set(ids)))

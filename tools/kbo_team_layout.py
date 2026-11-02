@@ -81,6 +81,10 @@ def layouts():
   bs=[p for p,pos in batting]
   bs += [p for p in ordered if p['category']!='P' and p not in bs]
   assert len(ps)+len(bs)==29
+  # 게임 1군 배열은 원본대로 28명이다(29명 확장 시 실기에서 경기 후 다음 경기 로딩 중 종료).
+  # 시즌 기용량 순서상 마지막 중계투수(이닝 최소)를 2군으로 내린다.
+  ps.pop(-2)
+  assert len(ps)+len(bs)==28
   active=ps+bs;rest=[p for p in players if p not in active]
   start,first,flags=struct.unpack_from('<HHI',boot,off(0x8a94a10)+tid*8)
   total=first+(flags&0xfff);coach_ids=original_order[start+total:start+total+5]
@@ -112,14 +116,8 @@ def apply_playerdata(data):
  return out
 
 def patches():
- # 원 생성자는 공식 명단 인원을 읽은 뒤 28명으로 잘랐다. 선수 배열은 전체
- # 70개 슬롯을 공유하므로 배열 확장 없이 등록 플래그의 상한만 29로 바꾼다.
- out=[('BOOT.BIN',0x88fce54,struct.pack('<I',0x2a64001e),'개막 1군 인원 29명 허용 비교'),
-      ('BOOT.BIN',0x88fce5c,struct.pack('<I',0x3413001d),'개막 등록 인원 상한 29명'),
-      ('com_sel.elf',0x8ccc12c,struct.pack('<I',0x2863001d),'팀 등록 정규화: 투수 처리 중 총원 29명'),
-      ('com_sel.elf',0x8ccc160,struct.pack('<I',0x2863001d),'팀 등록 정규화: 야수 처리 중 총원 29명'),
-      ('com_sel.elf',0x8ccdbe8,struct.pack('<I',0x28c6001d),'시즌 선수 객체 정규화: 투수 처리 중 총원 29명'),
-      ('com_sel.elf',0x8ccdc18,struct.pack('<I',0x28c6001d),'시즌 선수 객체 정규화: 야수 처리 중 총원 29명')]
+ # 원본 생성자/편성 정규화의 1군 28명 상한은 수정하지 않는다.
+ out=[]
  for code,t in layouts().items():
   tid=t['team_id'];n=len(t['players'])
   out.append(('BOOT.BIN',0x8a94a10+tid*8,struct.pack('<HHI',t['start'],len(t['active']),(5<<12)|(n-len(t['active']))),f'{code} 실제 1군/2군/스태프 인원'))
